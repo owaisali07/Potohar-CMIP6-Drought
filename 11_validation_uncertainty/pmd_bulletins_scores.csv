@@ -1,0 +1,3 @@
+index,n_months,hits,misses,false_alarms,correct_negatives,hit_rate,false_alarm_ratio
+SPEI-3 ≤ −1,49,1,6,2,40,0.142857142857143,0.666666666666667
+SPI-3 ≤ −1,49,1,7,2,39,0.125,0.666666666666667

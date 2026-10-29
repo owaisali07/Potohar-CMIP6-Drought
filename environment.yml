@@ -1,0 +1,40 @@
+name: p6drought
+# Pinned to the versions used for the v2.1 results (2026-10-14). Exact, complete lock:
+#   environment.lock.yml   (conda env export --no-builds; all packages incl. pip)
+#   conda-explicit-win64.txt (conda list --explicit; byte-identical rebuild on win-64:
+#                             conda create -n p6drought --file conda-explicit-win64.txt, then the pip block below)
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # ---------------- Python (data acquisition and daily->monthly preprocessing) -------------
+  - python=3.11.17
+  - numpy=2.4.6
+  - pandas=3.0.6
+  - xarray=2026.9.0
+  - netcdf4=1.7.4
+  - h5netcdf=1.8.1
+  - h5py=3.16.0            # 00_inventory.py, 00b-00d, 02b_nex_monthly.py
+  - cftime=1.6.6           # 02b_nex_monthly.py (non-standard model calendars)
+  - dask=2026.8.0
+  - rasterio=1.4.4
+  - rioxarray=0.19.0
+  - geopandas=1.2.0
+  - shapely=2.2.0
+  - pyproj=3.7.2
+  - pysheds=0.5
+  - requests=2.34.2
+  - pystac-client=0.9.0
+  - planetary-computer=1.0.0
+  - openpyxl=3.1.5
+  - python-docx=1.2.0
+  - matplotlib=3.11.2
+  - pyyaml=6.0.3
+  - tqdm=4.70.1
+  - pandoc=3.12.1          # rmarkdown::render (RSTUDIO_PANDOC=<env>/Library/bin)
+  - pip
+  - pip:
+      - scipy==1.17.1
+      - cdsapi==0.7.7          # 01h_glofas_ewds.py (CEMS EWDS; needs ~/.cdsapirc)
+      - earthengine-api==1.7.48  # 01i_gee_downloads.py, 01k_download_stations.py (needs earthengine authenticate)
+# R 4.6.1 is installed from CRAN (Windows binary); packages and versions: scripts/install_r_packages.R + renv.lock

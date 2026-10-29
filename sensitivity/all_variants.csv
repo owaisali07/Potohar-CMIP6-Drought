@@ -1,0 +1,568 @@
+item,variant,role,metric,value
+4,entropy weights: MIROC6,primary,P(top 10),0.927
+4,entropy weights: MIROC6,primary,mean rank,4.31
+4,entropy weights: GISS-E2-1-G,primary,P(top 10),0.886
+4,entropy weights: GISS-E2-1-G,primary,mean rank,7.327
+4,entropy weights: NorESM2-MM,primary,P(top 10),0.878
+4,entropy weights: NorESM2-MM,primary,mean rank,4.944
+4,entropy weights: CNRM-CM6-1,primary,P(top 10),0.841
+4,entropy weights: CNRM-CM6-1,primary,mean rank,5.508
+4,entropy weights: ACCESS-ESM1-5,primary,P(top 10),0.747
+4,entropy weights: ACCESS-ESM1-5,primary,mean rank,7.399
+4,entropy weights: CMCC-ESM2,primary,P(top 10),0.681
+4,entropy weights: CMCC-ESM2,primary,mean rank,8.257
+4,entropy weights: CNRM-ESM2-1,primary,P(top 10),0.607
+4,entropy weights: CNRM-ESM2-1,primary,mean rank,9.465
+4,entropy weights: INM-CM4-8,primary,P(top 10),0.594
+4,entropy weights: INM-CM4-8,primary,mean rank,9.59
+4,entropy weights: NorESM2-LM,primary,P(top 10),0.586
+4,entropy weights: NorESM2-LM,primary,mean rank,9.361
+4,entropy weights: GFDL-CM4,primary,P(top 10),0.563
+4,entropy weights: GFDL-CM4,primary,mean rank,10.241
+4,entropy weights: TaiESM1,primary,P(top 10),0.478
+4,entropy weights: TaiESM1,primary,mean rank,10.935
+4,entropy weights: EC-Earth3,primary,P(top 10),0.437
+4,entropy weights: EC-Earth3,primary,mean rank,12.229
+4,entropy weights: MPI-ESM1-2-HR,primary,P(top 10),0.396
+4,entropy weights: MPI-ESM1-2-HR,primary,mean rank,13.224
+4,entropy weights: GFDL-ESM4,primary,P(top 10),0.291
+4,entropy weights: GFDL-ESM4,primary,mean rank,13.824
+4,entropy weights: EC-Earth3-Veg-LR,primary,P(top 10),0.234
+4,entropy weights: EC-Earth3-Veg-LR,primary,mean rank,14.751
+4,entropy weights: MIROC-ES2L,primary,P(top 10),0.188
+4,entropy weights: MIROC-ES2L,primary,mean rank,17.874
+4,entropy weights: IPSL-CM6A-LR,primary,P(top 10),0.16
+4,entropy weights: IPSL-CM6A-LR,primary,mean rank,16.24
+4,entropy weights: UKESM1-0-LL,primary,P(top 10),0.134
+4,entropy weights: UKESM1-0-LL,primary,mean rank,16.274
+4,entropy weights: MPI-ESM1-2-LR,primary,P(top 10),0.104
+4,entropy weights: MPI-ESM1-2-LR,primary,mean rank,18.232
+4,entropy weights: MRI-ESM2-0,primary,P(top 10),0.1
+4,entropy weights: MRI-ESM2-0,primary,mean rank,19.282
+4,entropy weights: FGOALS-g3,primary,P(top 10),0.081
+4,entropy weights: FGOALS-g3,primary,mean rank,17.141
+4,entropy weights: HadGEM3-GC31-LL,primary,P(top 10),0.047
+4,entropy weights: HadGEM3-GC31-LL,primary,mean rank,18.695
+4,entropy weights: INM-CM5-0,primary,P(top 10),0.035
+4,entropy weights: INM-CM5-0,primary,mean rank,19.912
+4,entropy weights: ACCESS-CM2,primary,P(top 10),0.005
+4,entropy weights: ACCESS-CM2,primary,mean rank,21.493
+4,entropy weights: KACE-1-0-G,primary,P(top 10),0
+4,entropy weights: KACE-1-0-G,primary,mean rank,22.358
+4,entropy weights: KIOST-ESM,primary,P(top 10),0
+4,entropy weights: KIOST-ESM,primary,mean rank,22.732
+4,entropy weights: CanESM5,primary,P(top 10),0
+4,entropy weights: CanESM5,primary,mean rank,26.402
+4,critic weights: NorESM2-MM,sensitivity,P(top 10),0.908
+4,critic weights: NorESM2-MM,sensitivity,mean rank,4.766
+4,critic weights: MIROC6,sensitivity,P(top 10),0.905
+4,critic weights: MIROC6,sensitivity,mean rank,4.675
+4,critic weights: GISS-E2-1-G,sensitivity,P(top 10),0.832
+4,critic weights: GISS-E2-1-G,sensitivity,mean rank,8.174
+4,critic weights: CNRM-CM6-1,sensitivity,P(top 10),0.797
+4,critic weights: CNRM-CM6-1,sensitivity,mean rank,6.353
+4,critic weights: ACCESS-ESM1-5,sensitivity,P(top 10),0.744
+4,critic weights: ACCESS-ESM1-5,sensitivity,mean rank,7.269
+4,critic weights: CMCC-ESM2,sensitivity,P(top 10),0.676
+4,critic weights: CMCC-ESM2,sensitivity,mean rank,8.173
+4,critic weights: INM-CM4-8,sensitivity,P(top 10),0.633
+4,critic weights: INM-CM4-8,sensitivity,mean rank,8.684
+4,critic weights: TaiESM1,sensitivity,P(top 10),0.571
+4,critic weights: TaiESM1,sensitivity,mean rank,9.936
+4,critic weights: NorESM2-LM,sensitivity,P(top 10),0.558
+4,critic weights: NorESM2-LM,sensitivity,mean rank,9.92
+4,critic weights: GFDL-CM4,sensitivity,P(top 10),0.545
+4,critic weights: GFDL-CM4,sensitivity,mean rank,10.315
+4,critic weights: EC-Earth3,sensitivity,P(top 10),0.414
+4,critic weights: EC-Earth3,sensitivity,mean rank,12.324
+4,critic weights: MPI-ESM1-2-HR,sensitivity,P(top 10),0.414
+4,critic weights: MPI-ESM1-2-HR,sensitivity,mean rank,12.582
+4,critic weights: CNRM-ESM2-1,sensitivity,P(top 10),0.369
+4,critic weights: CNRM-ESM2-1,sensitivity,mean rank,12.787
+4,critic weights: GFDL-ESM4,sensitivity,P(top 10),0.365
+4,critic weights: GFDL-ESM4,sensitivity,mean rank,12.833
+4,critic weights: EC-Earth3-Veg-LR,sensitivity,P(top 10),0.28
+4,critic weights: EC-Earth3-Veg-LR,sensitivity,mean rank,14.248
+4,critic weights: MIROC-ES2L,sensitivity,P(top 10),0.223
+4,critic weights: MIROC-ES2L,sensitivity,mean rank,16.603
+4,critic weights: UKESM1-0-LL,sensitivity,P(top 10),0.164
+4,critic weights: UKESM1-0-LL,sensitivity,mean rank,15.268
+4,critic weights: IPSL-CM6A-LR,sensitivity,P(top 10),0.125
+4,critic weights: IPSL-CM6A-LR,sensitivity,mean rank,17.025
+4,critic weights: HadGEM3-GC31-LL,sensitivity,P(top 10),0.113
+4,critic weights: HadGEM3-GC31-LL,sensitivity,mean rank,16.539
+4,critic weights: MPI-ESM1-2-LR,sensitivity,P(top 10),0.113
+4,critic weights: MPI-ESM1-2-LR,sensitivity,mean rank,17.946
+4,critic weights: FGOALS-g3,sensitivity,P(top 10),0.105
+4,critic weights: FGOALS-g3,sensitivity,mean rank,16.567
+4,critic weights: INM-CM5-0,sensitivity,P(top 10),0.074
+4,critic weights: INM-CM5-0,sensitivity,mean rank,18.327
+4,critic weights: MRI-ESM2-0,sensitivity,P(top 10),0.067
+4,critic weights: MRI-ESM2-0,sensitivity,mean rank,19.781
+4,critic weights: ACCESS-CM2,sensitivity,P(top 10),0.005
+4,critic weights: ACCESS-CM2,sensitivity,mean rank,21.268
+4,critic weights: KACE-1-0-G,sensitivity,P(top 10),0
+4,critic weights: KACE-1-0-G,sensitivity,mean rank,23.447
+4,critic weights: KIOST-ESM,sensitivity,P(top 10),0
+4,critic weights: KIOST-ESM,sensitivity,mean rank,25.574
+4,critic weights: CanESM5,sensitivity,P(top 10),0
+4,critic weights: CanESM5,sensitivity,mean rank,26.616
+4,equal weights: MIROC6,sensitivity,P(top 10),0.914
+4,equal weights: MIROC6,sensitivity,mean rank,4.544
+4,equal weights: NorESM2-MM,sensitivity,P(top 10),0.903
+4,equal weights: NorESM2-MM,sensitivity,mean rank,4.831
+4,equal weights: GISS-E2-1-G,sensitivity,P(top 10),0.899
+4,equal weights: GISS-E2-1-G,sensitivity,mean rank,7.135
+4,equal weights: CNRM-CM6-1,sensitivity,P(top 10),0.812
+4,equal weights: CNRM-CM6-1,sensitivity,mean rank,5.987
+4,equal weights: ACCESS-ESM1-5,sensitivity,P(top 10),0.749
+4,equal weights: ACCESS-ESM1-5,sensitivity,mean rank,7.233
+4,equal weights: CMCC-ESM2,sensitivity,P(top 10),0.692
+4,equal weights: CMCC-ESM2,sensitivity,mean rank,8.025
+4,equal weights: INM-CM4-8,sensitivity,P(top 10),0.625
+4,equal weights: INM-CM4-8,sensitivity,mean rank,8.853
+4,equal weights: NorESM2-LM,sensitivity,P(top 10),0.571
+4,equal weights: NorESM2-LM,sensitivity,mean rank,9.632
+4,equal weights: GFDL-CM4,sensitivity,P(top 10),0.563
+4,equal weights: GFDL-CM4,sensitivity,mean rank,10.159
+4,equal weights: TaiESM1,sensitivity,P(top 10),0.554
+4,equal weights: TaiESM1,sensitivity,mean rank,10.227
+4,equal weights: CNRM-ESM2-1,sensitivity,P(top 10),0.458
+4,equal weights: CNRM-ESM2-1,sensitivity,mean rank,11.46
+4,equal weights: EC-Earth3,sensitivity,P(top 10),0.409
+4,equal weights: EC-Earth3,sensitivity,mean rank,12.299
+4,equal weights: MPI-ESM1-2-HR,sensitivity,P(top 10),0.401
+4,equal weights: MPI-ESM1-2-HR,sensitivity,mean rank,13.05
+4,equal weights: GFDL-ESM4,sensitivity,P(top 10),0.354
+4,equal weights: GFDL-ESM4,sensitivity,mean rank,12.883
+4,equal weights: EC-Earth3-Veg-LR,sensitivity,P(top 10),0.255
+4,equal weights: EC-Earth3-Veg-LR,sensitivity,mean rank,14.492
+4,equal weights: MIROC-ES2L,sensitivity,P(top 10),0.2
+4,equal weights: MIROC-ES2L,sensitivity,mean rank,17.168
+4,equal weights: UKESM1-0-LL,sensitivity,P(top 10),0.126
+4,equal weights: UKESM1-0-LL,sensitivity,mean rank,15.894
+4,equal weights: MPI-ESM1-2-LR,sensitivity,P(top 10),0.113
+4,equal weights: MPI-ESM1-2-LR,sensitivity,mean rank,17.856
+4,equal weights: IPSL-CM6A-LR,sensitivity,P(top 10),0.104
+4,equal weights: IPSL-CM6A-LR,sensitivity,mean rank,17.133
+4,equal weights: FGOALS-g3,sensitivity,P(top 10),0.098
+4,equal weights: FGOALS-g3,sensitivity,mean rank,16.837
+4,equal weights: MRI-ESM2-0,sensitivity,P(top 10),0.072
+4,equal weights: MRI-ESM2-0,sensitivity,mean rank,19.468
+4,equal weights: HadGEM3-GC31-LL,sensitivity,P(top 10),0.065
+4,equal weights: HadGEM3-GC31-LL,sensitivity,mean rank,17.492
+4,equal weights: INM-CM5-0,sensitivity,P(top 10),0.059
+4,equal weights: INM-CM5-0,sensitivity,mean rank,18.841
+4,equal weights: ACCESS-CM2,sensitivity,P(top 10),0.004
+4,equal weights: ACCESS-CM2,sensitivity,mean rank,21.379
+4,equal weights: KACE-1-0-G,sensitivity,P(top 10),0
+4,equal weights: KACE-1-0-G,sensitivity,mean rank,23.447
+4,equal weights: KIOST-ESM,sensitivity,P(top 10),0
+4,equal weights: KIOST-ESM,sensitivity,mean rank,25.089
+4,equal weights: CanESM5,sensitivity,P(top 10),0
+4,equal weights: CanESM5,sensitivity,mean rank,26.586
+3,raw (cal 1985–1999),reference,pr: mean |median monthly bias|,33.6795520324271
+3,raw (cal 1985–1999),reference,pr: max month |median bias|,64.6848496834736
+3,primary (cal 1985–1999),primary,pr: mean |median monthly bias|,40.1309796021526
+3,primary (cal 1985–1999),primary,pr: max month |median bias|,110.894440909827
+3,S1 (cal 1985–1999),sensitivity,pr: mean |median monthly bias|,29.6823302143228
+3,S1 (cal 1985–1999),sensitivity,pr: max month |median bias|,69.7932553630704
+3,S2 (cal 1985–1999),sensitivity,pr: mean |median monthly bias|,30.5181139398237
+3,S2 (cal 1985–1999),sensitivity,pr: max month |median bias|,54.2375512589461
+3,raw (cal 2000–2014),reference,pr: mean |median monthly bias|,34.6848219207374
+3,raw (cal 2000–2014),reference,pr: max month |median bias|,78.9726170803382
+3,primary (cal 2000–2014),primary,pr: mean |median monthly bias|,44.3371089079449
+3,primary (cal 2000–2014),primary,pr: max month |median bias|,61.5504360773614
+3,S1 (cal 2000–2014),sensitivity,pr: mean |median monthly bias|,31.8745785782396
+3,S1 (cal 2000–2014),sensitivity,pr: max month |median bias|,52.8027020268022
+3,S2 (cal 2000–2014),sensitivity,pr: mean |median monthly bias|,29.5549299601908
+3,S2 (cal 2000–2014),sensitivity,pr: max month |median bias|,53.0443540305394
+3,raw (cal 1985–1999),reference,tasmax: mean |median monthly bias|,2.01897577356944
+3,primary (cal 1985–1999),primary,tasmax: mean |median monthly bias|,0.863348386984937
+3,S1 (cal 1985–1999),sensitivity,tasmax: mean |median monthly bias|,0.869847420972581
+3,S2 (cal 1985–1999),sensitivity,tasmax: mean |median monthly bias|,0.849209947855598
+3,raw (cal 2000–2014),reference,tasmax: mean |median monthly bias|,2.61242248751974
+3,primary (cal 2000–2014),primary,tasmax: mean |median monthly bias|,0.890111409693916
+3,S1 (cal 2000–2014),sensitivity,tasmax: mean |median monthly bias|,0.85349021165641
+3,S2 (cal 2000–2014),sensitivity,tasmax: mean |median monthly bias|,0.879313708345373
+3,raw (cal 1985–1999),reference,tasmin: mean |median monthly bias|,0.637396817829362
+3,primary (cal 1985–1999),primary,tasmin: mean |median monthly bias|,0.582314054522825
+3,S1 (cal 1985–1999),sensitivity,tasmin: mean |median monthly bias|,0.564347151562937
+3,S2 (cal 1985–1999),sensitivity,tasmin: mean |median monthly bias|,0.573508727958586
+3,raw (cal 2000–2014),reference,tasmin: mean |median monthly bias|,0.898467672873982
+3,primary (cal 2000–2014),primary,tasmin: mean |median monthly bias|,0.589574084618976
+3,S1 (cal 2000–2014),sensitivity,tasmin: mean |median monthly bias|,0.58205834275245
+3,S2 (cal 2000–2014),sensitivity,tasmin: mean |median monthly bias|,0.60118232877255
+3,raw (cal 1985–1999),reference,hurs: mean |median monthly bias|,18.8821102232121
+3,primary (cal 1985–1999),primary,hurs: mean |median monthly bias|,4.90878247032274
+3,S1 (cal 1985–1999),sensitivity,hurs: mean |median monthly bias|,4.94889520943871
+3,S2 (cal 1985–1999),sensitivity,hurs: mean |median monthly bias|,5.00885059812919
+3,raw (cal 2000–2014),reference,hurs: mean |median monthly bias|,14.5493220158884
+3,primary (cal 2000–2014),primary,hurs: mean |median monthly bias|,5.16594023451723
+3,S1 (cal 2000–2014),sensitivity,hurs: mean |median monthly bias|,5.37717644074476
+3,S2 (cal 2000–2014),sensitivity,hurs: mean |median monthly bias|,5.74993337415419
+3,raw (cal 1985–1999),reference,rsds: mean |median monthly bias|,13.4163300370428
+3,primary (cal 1985–1999),primary,rsds: mean |median monthly bias|,4.09786404108054
+3,S1 (cal 1985–1999),sensitivity,rsds: mean |median monthly bias|,4.12160074936773
+3,S2 (cal 1985–1999),sensitivity,rsds: mean |median monthly bias|,4.27387005977782
+3,raw (cal 2000–2014),reference,rsds: mean |median monthly bias|,18.5467798340135
+3,primary (cal 2000–2014),primary,rsds: mean |median monthly bias|,4.54336248659116
+3,S1 (cal 2000–2014),sensitivity,rsds: mean |median monthly bias|,4.74763294780441
+3,S2 (cal 2000–2014),sensitivity,rsds: mean |median monthly bias|,4.4367228798253
+3,raw (cal 1985–1999),reference,sfcWind: mean |median monthly bias|,102.217374329454
+3,primary (cal 1985–1999),primary,sfcWind: mean |median monthly bias|,4.01543716176004
+3,S1 (cal 1985–1999),sensitivity,sfcWind: mean |median monthly bias|,3.88439474638242
+3,S2 (cal 1985–1999),sensitivity,sfcWind: mean |median monthly bias|,4.81742439305617
+3,raw (cal 2000–2014),reference,sfcWind: mean |median monthly bias|,106.154937004315
+3,primary (cal 2000–2014),primary,sfcWind: mean |median monthly bias|,4.28103244912192
+3,S1 (cal 2000–2014),sensitivity,sfcWind: mean |median monthly bias|,4.12971898997737
+3,S2 (cal 2000–2014),sensitivity,sfcWind: mean |median monthly bias|,4.23601349385415
+5,BH FDR + agreement: ssp245 near,primary,% robust cells,0
+5,no FDR (v2.1): ssp245 near,sensitivity,% robust cells,0
+5,BH FDR + agreement: ssp245 mid,primary,% robust cells,0
+5,no FDR (v2.1): ssp245 mid,sensitivity,% robust cells,3.50877192982456
+5,BH FDR + agreement: ssp245 far,primary,% robust cells,82.4561403508772
+5,no FDR (v2.1): ssp245 far,sensitivity,% robust cells,82.4561403508772
+5,BH FDR + agreement: ssp585 near,primary,% robust cells,0
+5,no FDR (v2.1): ssp585 near,sensitivity,% robust cells,0
+5,BH FDR + agreement: ssp585 mid,primary,% robust cells,0
+5,no FDR (v2.1): ssp585 mid,sensitivity,% robust cells,40.3508771929825
+5,BH FDR + agreement: ssp585 far,primary,% robust cells,87.719298245614
+5,no FDR (v2.1): ssp585 far,sensitivity,% robust cells,87.719298245614
+2,"whole-month rule (v2.2): Baseline (1985–2014), T10, parametric",primary,T_AND (yr),12.0687098413178
+2,"continuous rule (v2.1): Baseline (1985–2014), T10, parametric",sensitivity,T_AND (yr),16.3303121220401
+2,"whole-month rule (v2.2): Baseline (1985–2014), T10, bernstein",primary,T_AND (yr),18.7575937091145
+2,"continuous rule (v2.1): Baseline (1985–2014), T10, bernstein",sensitivity,T_AND (yr),18.0157479276908
+2,"whole-month rule (v2.2): Baseline (1985–2014), T10, count",primary,T_AND (yr),10.7142857142857
+2,"continuous rule (v2.1): Baseline (1985–2014), T10, count",sensitivity,T_AND (yr),10.7142857142857
+2,"whole-month rule (v2.2): Baseline (1985–2014), T25, parametric",primary,T_AND (yr),43.3623928028251
+2,"continuous rule (v2.1): Baseline (1985–2014), T25, parametric",sensitivity,T_AND (yr),62.0683873040869
+2,"whole-month rule (v2.2): Baseline (1985–2014), T25, bernstein",primary,T_AND (yr),50.0674873920328
+2,"continuous rule (v2.1): Baseline (1985–2014), T25, bernstein",sensitivity,T_AND (yr),49.2983519392699
+2,"whole-month rule (v2.2): Baseline (1985–2014), T25, count",primary,T_AND (yr),33.3333333333333
+2,"continuous rule (v2.1): Baseline (1985–2014), T25, count",sensitivity,T_AND (yr),33.3333333333333
+2,"whole-month rule (v2.2): Baseline (1985–2014), T50, parametric",primary,T_AND (yr),109.085572571126
+2,"continuous rule (v2.1): Baseline (1985–2014), T50, parametric",sensitivity,T_AND (yr),158.959541322809
+2,"whole-month rule (v2.2): Baseline (1985–2014), T50, bernstein",primary,T_AND (yr),115.330011986586
+2,"continuous rule (v2.1): Baseline (1985–2014), T50, bernstein",sensitivity,T_AND (yr),101.751088470043
+2,"whole-month rule (v2.2): Baseline (1985–2014), T50, count",primary,T_AND (yr),42.8571428571429
+2,"continuous rule (v2.1): Baseline (1985–2014), T50, count",sensitivity,T_AND (yr),42.8571428571429
+2,"whole-month rule (v2.2): SSP2-4.5 near, T10, parametric",primary,T_AND (yr),12.1633002142796
+2,"continuous rule (v2.1): SSP2-4.5 near, T10, parametric",sensitivity,T_AND (yr),18.7360891978551
+2,"whole-month rule (v2.2): SSP2-4.5 near, T10, bernstein",primary,T_AND (yr),14.2841522921313
+2,"continuous rule (v2.1): SSP2-4.5 near, T10, bernstein",sensitivity,T_AND (yr),17.7565716316515
+2,"whole-month rule (v2.2): SSP2-4.5 near, T10, count",primary,T_AND (yr),10.4
+2,"continuous rule (v2.1): SSP2-4.5 near, T10, count",sensitivity,T_AND (yr),10.4
+2,"whole-month rule (v2.2): SSP2-4.5 near, T25, parametric",primary,T_AND (yr),41.3159706915623
+2,"continuous rule (v2.1): SSP2-4.5 near, T25, parametric",sensitivity,T_AND (yr),65.2740270871808
+2,"whole-month rule (v2.2): SSP2-4.5 near, T25, bernstein",primary,T_AND (yr),33.5830945329603
+2,"continuous rule (v2.1): SSP2-4.5 near, T25, bernstein",sensitivity,T_AND (yr),52.6543459943092
+2,"whole-month rule (v2.2): SSP2-4.5 near, T25, count",primary,T_AND (yr),32.5
+2,"continuous rule (v2.1): SSP2-4.5 near, T25, count",sensitivity,T_AND (yr),32.5
+2,"whole-month rule (v2.2): SSP2-4.5 near, T50, parametric",primary,T_AND (yr),93.4425659664254
+2,"continuous rule (v2.1): SSP2-4.5 near, T50, parametric",sensitivity,T_AND (yr),148.351552951601
+2,"whole-month rule (v2.2): SSP2-4.5 near, T50, bernstein",primary,T_AND (yr),107.004437415445
+2,"continuous rule (v2.1): SSP2-4.5 near, T50, bernstein",sensitivity,T_AND (yr),294.807591835149
+2,"whole-month rule (v2.2): SSP2-4.5 near, T50, count",primary,T_AND (yr),260
+2,"continuous rule (v2.1): SSP2-4.5 near, T50, count",sensitivity,T_AND (yr),260
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T10, parametric",primary,T_AND (yr),6.31581295869915
+2,"continuous rule (v2.1): SSP2-4.5 mid, T10, parametric",sensitivity,T_AND (yr),9.12453997565616
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T10, bernstein",primary,T_AND (yr),6.69878402916943
+2,"continuous rule (v2.1): SSP2-4.5 mid, T10, bernstein",sensitivity,T_AND (yr),9.09763970863017
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T10, count",primary,T_AND (yr),5.31914893617021
+2,"continuous rule (v2.1): SSP2-4.5 mid, T10, count",sensitivity,T_AND (yr),5.31914893617021
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T25, parametric",primary,T_AND (yr),16.6391958525522
+2,"continuous rule (v2.1): SSP2-4.5 mid, T25, parametric",sensitivity,T_AND (yr),24.0933714519708
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T25, bernstein",primary,T_AND (yr),18.9529580659105
+2,"continuous rule (v2.1): SSP2-4.5 mid, T25, bernstein",sensitivity,T_AND (yr),22.2014195503288
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T25, count",primary,T_AND (yr),15.625
+2,"continuous rule (v2.1): SSP2-4.5 mid, T25, count",sensitivity,T_AND (yr),15.625
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T50, parametric",primary,T_AND (yr),29.6173973872439
+2,"continuous rule (v2.1): SSP2-4.5 mid, T50, parametric",sensitivity,T_AND (yr),42.8515690736538
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T50, bernstein",primary,T_AND (yr),26.3210057170691
+2,"continuous rule (v2.1): SSP2-4.5 mid, T50, bernstein",sensitivity,T_AND (yr),36.8283526287297
+2,"whole-month rule (v2.2): SSP2-4.5 mid, T50, count",primary,T_AND (yr),25
+2,"continuous rule (v2.1): SSP2-4.5 mid, T50, count",sensitivity,T_AND (yr),25
+2,"whole-month rule (v2.2): SSP2-4.5 far, T10, parametric",primary,T_AND (yr),4.26713242223105
+2,"continuous rule (v2.1): SSP2-4.5 far, T10, parametric",sensitivity,T_AND (yr),5.97511535371502
+2,"whole-month rule (v2.2): SSP2-4.5 far, T10, bernstein",primary,T_AND (yr),4.55467557463856
+2,"continuous rule (v2.1): SSP2-4.5 far, T10, bernstein",sensitivity,T_AND (yr),6.16939347668519
+2,"whole-month rule (v2.2): SSP2-4.5 far, T10, count",primary,T_AND (yr),3.78787878787879
+2,"continuous rule (v2.1): SSP2-4.5 far, T10, count",sensitivity,T_AND (yr),3.78787878787879
+2,"whole-month rule (v2.2): SSP2-4.5 far, T25, parametric",primary,T_AND (yr),9.0441792942686
+2,"continuous rule (v2.1): SSP2-4.5 far, T25, parametric",sensitivity,T_AND (yr),13.0935013121415
+2,"whole-month rule (v2.2): SSP2-4.5 far, T25, bernstein",primary,T_AND (yr),9.54696382723166
+2,"continuous rule (v2.1): SSP2-4.5 far, T25, bernstein",sensitivity,T_AND (yr),13.2710781045728
+2,"whole-month rule (v2.2): SSP2-4.5 far, T25, count",primary,T_AND (yr),8.06451612903226
+2,"continuous rule (v2.1): SSP2-4.5 far, T25, count",sensitivity,T_AND (yr),8.06451612903226
+2,"whole-month rule (v2.2): SSP2-4.5 far, T50, parametric",primary,T_AND (yr),14.1410836535237
+2,"continuous rule (v2.1): SSP2-4.5 far, T50, parametric",sensitivity,T_AND (yr),20.3799297337463
+2,"whole-month rule (v2.2): SSP2-4.5 far, T50, bernstein",primary,T_AND (yr),19.0868615465195
+2,"continuous rule (v2.1): SSP2-4.5 far, T50, bernstein",sensitivity,T_AND (yr),28.1396417776559
+2,"whole-month rule (v2.2): SSP2-4.5 far, T50, count",primary,T_AND (yr),25
+2,"continuous rule (v2.1): SSP2-4.5 far, T50, count",sensitivity,T_AND (yr),25
+2,"whole-month rule (v2.2): SSP5-8.5 near, T10, parametric",primary,T_AND (yr),8.99815266003573
+2,"continuous rule (v2.1): SSP5-8.5 near, T10, parametric",sensitivity,T_AND (yr),12.6517758416462
+2,"whole-month rule (v2.2): SSP5-8.5 near, T10, bernstein",primary,T_AND (yr),10.4466490122209
+2,"continuous rule (v2.1): SSP5-8.5 near, T10, bernstein",sensitivity,T_AND (yr),13.8936906078116
+2,"whole-month rule (v2.2): SSP5-8.5 near, T10, count",primary,T_AND (yr),8.125
+2,"continuous rule (v2.1): SSP5-8.5 near, T10, count",sensitivity,T_AND (yr),8.125
+2,"whole-month rule (v2.2): SSP5-8.5 near, T25, parametric",primary,T_AND (yr),19.1917791847348
+2,"continuous rule (v2.1): SSP5-8.5 near, T25, parametric",sensitivity,T_AND (yr),27.1299268242953
+2,"whole-month rule (v2.2): SSP5-8.5 near, T25, bernstein",primary,T_AND (yr),28.7954468146217
+2,"continuous rule (v2.1): SSP5-8.5 near, T25, bernstein",sensitivity,T_AND (yr),32.9449618382243
+2,"whole-month rule (v2.2): SSP5-8.5 near, T25, count",primary,T_AND (yr),20
+2,"continuous rule (v2.1): SSP5-8.5 near, T25, count",sensitivity,T_AND (yr),20
+2,"whole-month rule (v2.2): SSP5-8.5 near, T50, parametric",primary,T_AND (yr),27.74348646685
+2,"continuous rule (v2.1): SSP5-8.5 near, T50, parametric",sensitivity,T_AND (yr),39.3939979091741
+2,"whole-month rule (v2.2): SSP5-8.5 near, T50, bernstein",primary,T_AND (yr),45.152472795099
+2,"continuous rule (v2.1): SSP5-8.5 near, T50, bernstein",sensitivity,T_AND (yr),59.1739443490908
+2,"whole-month rule (v2.2): SSP5-8.5 near, T50, count",primary,T_AND (yr),32.5
+2,"continuous rule (v2.1): SSP5-8.5 near, T50, count",sensitivity,T_AND (yr),32.5
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T10, parametric",primary,T_AND (yr),5.41373460175537
+2,"continuous rule (v2.1): SSP5-8.5 mid, T10, parametric",sensitivity,T_AND (yr),8.14369298313413
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T10, bernstein",primary,T_AND (yr),5.67549812350627
+2,"continuous rule (v2.1): SSP5-8.5 mid, T10, bernstein",sensitivity,T_AND (yr),8.49795447067573
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T10, count",primary,T_AND (yr),4.62962962962963
+2,"continuous rule (v2.1): SSP5-8.5 mid, T10, count",sensitivity,T_AND (yr),4.62962962962963
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T25, parametric",primary,T_AND (yr),13.9281811956675
+2,"continuous rule (v2.1): SSP5-8.5 mid, T25, parametric",sensitivity,T_AND (yr),21.4396687670122
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T25, bernstein",primary,T_AND (yr),23.4828354030705
+2,"continuous rule (v2.1): SSP5-8.5 mid, T25, bernstein",sensitivity,T_AND (yr),24.7297726767424
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T25, count",primary,T_AND (yr),17.8571428571429
+2,"continuous rule (v2.1): SSP5-8.5 mid, T25, count",sensitivity,T_AND (yr),17.8571428571429
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T50, parametric",primary,T_AND (yr),26.9447630479471
+2,"continuous rule (v2.1): SSP5-8.5 mid, T50, parametric",sensitivity,T_AND (yr),40.9225044230102
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T50, bernstein",primary,T_AND (yr),35.7442811575571
+2,"continuous rule (v2.1): SSP5-8.5 mid, T50, bernstein",sensitivity,T_AND (yr),37.7356386892954
+2,"whole-month rule (v2.2): SSP5-8.5 mid, T50, count",primary,T_AND (yr),35.7142857142857
+2,"continuous rule (v2.1): SSP5-8.5 mid, T50, count",sensitivity,T_AND (yr),35.7142857142857
+2,"whole-month rule (v2.2): SSP5-8.5 far, T10, parametric",primary,T_AND (yr),4.15369664124327
+2,"continuous rule (v2.1): SSP5-8.5 far, T10, parametric",sensitivity,T_AND (yr),6.01235665378173
+2,"whole-month rule (v2.2): SSP5-8.5 far, T10, bernstein",primary,T_AND (yr),4.29152282586353
+2,"continuous rule (v2.1): SSP5-8.5 far, T10, bernstein",sensitivity,T_AND (yr),6.23692998213288
+2,"whole-month rule (v2.2): SSP5-8.5 far, T10, count",primary,T_AND (yr),3.6231884057971
+2,"continuous rule (v2.1): SSP5-8.5 far, T10, count",sensitivity,T_AND (yr),3.6231884057971
+2,"whole-month rule (v2.2): SSP5-8.5 far, T25, parametric",primary,T_AND (yr),9.3332927422075
+2,"continuous rule (v2.1): SSP5-8.5 far, T25, parametric",sensitivity,T_AND (yr),13.8130254904342
+2,"whole-month rule (v2.2): SSP5-8.5 far, T25, bernstein",primary,T_AND (yr),9.95774640158045
+2,"continuous rule (v2.1): SSP5-8.5 far, T25, bernstein",sensitivity,T_AND (yr),14.6529746336703
+2,"whole-month rule (v2.2): SSP5-8.5 far, T25, count",primary,T_AND (yr),8.33333333333333
+2,"continuous rule (v2.1): SSP5-8.5 far, T25, count",sensitivity,T_AND (yr),8.33333333333333
+2,"whole-month rule (v2.2): SSP5-8.5 far, T50, parametric",primary,T_AND (yr),14.3022831893496
+2,"continuous rule (v2.1): SSP5-8.5 far, T50, parametric",sensitivity,T_AND (yr),21.2903103939484
+2,"whole-month rule (v2.2): SSP5-8.5 far, T50, bernstein",primary,T_AND (yr),16.706441298057
+2,"continuous rule (v2.1): SSP5-8.5 far, T50, bernstein",sensitivity,T_AND (yr),25.0835632509947
+2,"whole-month rule (v2.2): SSP5-8.5 far, T50, count",primary,T_AND (yr),20.8333333333333
+2,"continuous rule (v2.1): SSP5-8.5 far, T50, count",sensitivity,T_AND (yr),20.8333333333333
+2,"whole-month rule (v2.2): +1.5 °C, T10, parametric",primary,T_AND (yr),12.3225167481761
+2,"continuous rule (v2.1): +1.5 °C, T10, parametric",sensitivity,T_AND (yr),17.2025435524133
+2,"whole-month rule (v2.2): +1.5 °C, T10, bernstein",primary,T_AND (yr),13.3045494569227
+2,"continuous rule (v2.1): +1.5 °C, T10, bernstein",sensitivity,T_AND (yr),16.2491122414949
+2,"whole-month rule (v2.2): +1.5 °C, T10, count",primary,T_AND (yr),10.8108108108108
+2,"continuous rule (v2.1): +1.5 °C, T10, count",sensitivity,T_AND (yr),10.8108108108108
+2,"whole-month rule (v2.2): +1.5 °C, T25, parametric",primary,T_AND (yr),38.2162859166373
+2,"continuous rule (v2.1): +1.5 °C, T25, parametric",sensitivity,T_AND (yr),54.5343335353632
+2,"whole-month rule (v2.2): +1.5 °C, T25, bernstein",primary,T_AND (yr),28.4694571662226
+2,"continuous rule (v2.1): +1.5 °C, T25, bernstein",sensitivity,T_AND (yr),38.061876211526
+2,"whole-month rule (v2.2): +1.5 °C, T25, count",primary,T_AND (yr),23.5294117647059
+2,"continuous rule (v2.1): +1.5 °C, T25, count",sensitivity,T_AND (yr),23.5294117647059
+2,"whole-month rule (v2.2): +1.5 °C, T50, parametric",primary,T_AND (yr),77.4777207381005
+2,"continuous rule (v2.1): +1.5 °C, T50, parametric",sensitivity,T_AND (yr),111.347039733438
+2,"whole-month rule (v2.2): +1.5 °C, T50, bernstein",primary,T_AND (yr),61.1497463980634
+2,"continuous rule (v2.1): +1.5 °C, T50, bernstein",sensitivity,T_AND (yr),115.820571215617
+2,"whole-month rule (v2.2): +1.5 °C, T50, count",primary,T_AND (yr),44.4444444444444
+2,"continuous rule (v2.1): +1.5 °C, T50, count",sensitivity,T_AND (yr),44.4444444444444
+2,"whole-month rule (v2.2): +2 °C, T10, parametric",primary,T_AND (yr),7.97664757613084
+2,"continuous rule (v2.1): +2 °C, T10, parametric",sensitivity,T_AND (yr),11.0286390788649
+2,"whole-month rule (v2.2): +2 °C, T10, bernstein",primary,T_AND (yr),7.73430425263729
+2,"continuous rule (v2.1): +2 °C, T10, bernstein",sensitivity,T_AND (yr),10.5086371469427
+2,"whole-month rule (v2.2): +2 °C, T10, count",primary,T_AND (yr),6.55737704918033
+2,"continuous rule (v2.1): +2 °C, T10, count",sensitivity,T_AND (yr),6.55737704918033
+2,"whole-month rule (v2.2): +2 °C, T25, parametric",primary,T_AND (yr),19.1444168391757
+2,"continuous rule (v2.1): +2 °C, T25, parametric",sensitivity,T_AND (yr),26.827689523769
+2,"whole-month rule (v2.2): +2 °C, T25, bernstein",primary,T_AND (yr),19.0917313925701
+2,"continuous rule (v2.1): +2 °C, T25, bernstein",sensitivity,T_AND (yr),22.6945892635476
+2,"whole-month rule (v2.2): +2 °C, T25, count",primary,T_AND (yr),15.3846153846154
+2,"continuous rule (v2.1): +2 °C, T25, count",sensitivity,T_AND (yr),15.3846153846154
+2,"whole-month rule (v2.2): +2 °C, T50, parametric",primary,T_AND (yr),31.1411101308
+2,"continuous rule (v2.1): +2 °C, T50, parametric",sensitivity,T_AND (yr),43.7436208346544
+2,"whole-month rule (v2.2): +2 °C, T50, bernstein",primary,T_AND (yr),26.2982373820511
+2,"continuous rule (v2.1): +2 °C, T50, bernstein",sensitivity,T_AND (yr),34.0454544417669
+2,"whole-month rule (v2.2): +2 °C, T50, count",primary,T_AND (yr),25
+2,"continuous rule (v2.1): +2 °C, T50, count",sensitivity,T_AND (yr),25
+2,"whole-month rule (v2.2): +3 °C, T10, parametric",primary,T_AND (yr),5.03316776295826
+2,"continuous rule (v2.1): +3 °C, T10, parametric",sensitivity,T_AND (yr),7.32209226448276
+2,"whole-month rule (v2.2): +3 °C, T10, bernstein",primary,T_AND (yr),5.27468430602605
+2,"continuous rule (v2.1): +3 °C, T10, bernstein",sensitivity,T_AND (yr),7.57038409371416
+2,"whole-month rule (v2.2): +3 °C, T10, count",primary,T_AND (yr),4.24242424242424
+2,"continuous rule (v2.1): +3 °C, T10, count",sensitivity,T_AND (yr),4.24242424242424
+2,"whole-month rule (v2.2): +3 °C, T25, parametric",primary,T_AND (yr),12.0167549607622
+2,"continuous rule (v2.1): +3 °C, T25, parametric",sensitivity,T_AND (yr),17.6741671098999
+2,"whole-month rule (v2.2): +3 °C, T25, bernstein",primary,T_AND (yr),17.0339869647749
+2,"continuous rule (v2.1): +3 °C, T25, bernstein",sensitivity,T_AND (yr),19.874866914188
+2,"whole-month rule (v2.2): +3 °C, T25, count",primary,T_AND (yr),15.5555555555556
+2,"continuous rule (v2.1): +3 °C, T25, count",sensitivity,T_AND (yr),15.5555555555556
+2,"whole-month rule (v2.2): +3 °C, T50, parametric",primary,T_AND (yr),20.150457097326
+2,"continuous rule (v2.1): +3 °C, T50, parametric",sensitivity,T_AND (yr),29.5121719141761
+2,"whole-month rule (v2.2): +3 °C, T50, bernstein",primary,T_AND (yr),26.7842982408806
+2,"continuous rule (v2.1): +3 °C, T50, bernstein",sensitivity,T_AND (yr),33.156225978182
+2,"whole-month rule (v2.2): +3 °C, T50, count",primary,T_AND (yr),31.1111111111111
+2,"continuous rule (v2.1): +3 °C, T50, count",sensitivity,T_AND (yr),31.1111111111111
+2,"whole-month rule (v2.2): Observed (1981–2024), T10, parametric",primary,T_AND (yr),13.5654971545727
+2,"continuous rule (v2.1): Observed (1981–2024), T10, parametric",sensitivity,T_AND (yr),16.3609319299029
+2,"whole-month rule (v2.2): Observed (1981–2024), T10, bernstein",primary,T_AND (yr),23.9440253478048
+2,"continuous rule (v2.1): Observed (1981–2024), T10, bernstein",sensitivity,T_AND (yr),27.9276833529131
+2,"whole-month rule (v2.2): Observed (1981–2024), T10, count",primary,T_AND (yr),14.6666666666667
+2,"continuous rule (v2.1): Observed (1981–2024), T10, count",sensitivity,T_AND (yr),14.6666666666667
+2,"whole-month rule (v2.2): Observed (1981–2024), T25, parametric",primary,T_AND (yr),33.4856253181905
+2,"continuous rule (v2.1): Observed (1981–2024), T25, parametric",sensitivity,T_AND (yr),41.2674897479732
+2,"whole-month rule (v2.2): Observed (1981–2024), T25, bernstein",primary,T_AND (yr),79.9091475323168
+2,"continuous rule (v2.1): Observed (1981–2024), T25, bernstein",sensitivity,T_AND (yr),108.472257762128
+2,"whole-month rule (v2.2): Observed (1981–2024), T25, count",primary,T_AND (yr),22
+2,"continuous rule (v2.1): Observed (1981–2024), T25, count",sensitivity,T_AND (yr),22
+2,"whole-month rule (v2.2): Observed (1981–2024), T50, parametric",primary,T_AND (yr),64.1642403607987
+2,"continuous rule (v2.1): Observed (1981–2024), T50, parametric",sensitivity,T_AND (yr),72.4459698477325
+2,"whole-month rule (v2.2): Observed (1981–2024), T50, bernstein",primary,T_AND (yr),921.819538495271
+2,"continuous rule (v2.1): Observed (1981–2024), T50, bernstein",sensitivity,T_AND (yr),1419354838709.68
+2,"whole-month rule (v2.2): Observed (1981–2024), T50, count",primary,T_AND (yr),Inf
+2,"continuous rule (v2.1): Observed (1981–2024), T50, count",sensitivity,T_AND (yr),Inf
+3,dP_raw (ssp245),reference,far-future regional P change (%),6.83970366986381
+3,dP_primary (ssp245),primary,far-future regional P change (%),15.7251702592805
+3,dP_pooled_std (ssp245),sensitivity,far-future regional P change (%),10.0212893146861
+3,dP_pooled (ssp245),sensitivity,far-future regional P change (%),9.30166570383104
+3,dP_tc (ssp245),sensitivity,far-future regional P change (%),15.7251702592805
+3,dP_raw (ssp585),reference,far-future regional P change (%),19.2513802651752
+3,dP_primary (ssp585),primary,far-future regional P change (%),31.4646889586315
+3,dP_pooled_std (ssp585),sensitivity,far-future regional P change (%),23.5516966836663
+3,dP_pooled (ssp585),sensitivity,far-future regional P change (%),22.931036988081
+3,dP_tc (ssp585),sensitivity,far-future regional P change (%),31.4646889586315
+4,primary (v3.1 selection) (SSP2-4.5),primary,d_freq,9.9912435124996
+4,primary (v3.1 selection) (SSP2-4.5),primary,agree,0.8
+4,primary (v3.1 selection) (SSP2-4.5),primary,d_P,15.7251702592805
+4,primary (v3.1 selection) (SSP2-4.5),primary,d_ET0,7.66419927087234
+4,primary (v3.1 selection) (SSP2-4.5),primary,T25_base,50.0674873920328
+4,primary (v3.1 selection) (SSP2-4.5),primary,T25_far,9.54696382723166
+4,primary (v3.1 selection) (SSP2-4.5),primary,dE_wheat,61.7902006714529
+4,primary (v3.1 selection) (SSP5-8.5),primary,d_freq,11.0587559324741
+4,primary (v3.1 selection) (SSP5-8.5),primary,agree,0.9
+4,primary (v3.1 selection) (SSP5-8.5),primary,d_P,31.4646889586316
+4,primary (v3.1 selection) (SSP5-8.5),primary,d_ET0,12.3846438659915
+4,primary (v3.1 selection) (SSP5-8.5),primary,T25_base,50.0674873920328
+4,primary (v3.1 selection) (SSP5-8.5),primary,T25_far,9.95774640158045
+4,primary (v3.1 selection) (SSP5-8.5),primary,dE_wheat,70.88906214985
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,d_freq,8.91228669437618
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,agree,0.8
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,d_P,15.7113517576347
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,d_ET0,7.59525158442889
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,T25_base,65.7772613391316
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,T25_far,10.1508893923661
+4,v3 primary (before the v3.1 code fixes) (SSP2-4.5),sensitivity,dE_wheat,55.3548185316874
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,d_freq,10.1094455889614
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,agree,0.9
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,d_P,31.0576656601241
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,d_ET0,12.2776492923026
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,T25_base,65.7772613391316
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,T25_far,9.60734310526216
+4,v3 primary (before the v3.1 code fixes) (SSP5-8.5),sensitivity,dE_wheat,66.1317898555028
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,d_freq,10.066609000839
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,agree,0.8
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,d_P,16.4862584992675
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,d_ET0,7.84750323926366
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,T25_base,84.5480016120055
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,T25_far,10.1180333083542
+4,v2.2 primary (open-data stations only) (SSP2-4.5),sensitivity,dE_wheat,61.7486657010646
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,d_freq,11.6381881019681
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,agree,0.9
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,d_P,30.9223946782589
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,d_ET0,12.5715235752847
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,T25_base,84.5480016120055
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,T25_far,8.72518449218384
+4,v2.2 primary (open-data stations only) (SSP5-8.5),sensitivity,dE_wheat,74.0960997793935
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,d_freq,10.7367867707369
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,agree,0.8
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,d_P,14.3200461796133
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,d_ET0,7.68689229053253
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,T25_base,99.6273304250218
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,T25_far,9.62567843899332
+4,old 10 (v2.1 primary) (SSP2-4.5),sensitivity,dE_wheat,65.4145525348498
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,d_freq,12.8272773553505
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,agree,0.9
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,d_P,28.6735833848936
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,d_ET0,12.5062997637486
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,T25_base,99.6273304250218
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,T25_far,8.06080888451385
+4,old 10 (v2.1 primary) (SSP5-8.5),sensitivity,dE_wheat,81.6576287668234
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,d_freq,8.10095432333212
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,agree,0.75
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,d_P,19.0962764168953
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,d_ET0,7.3095135843198
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,T25_base,55.1494899936446
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,T25_far,11.3029956762238
+4,primary without models with a source discontinuity (SSP2-4.5),sensitivity,dE_wheat,50.8188140669898
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,d_freq,9.05749068442778
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,agree,0.875
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,d_P,34.4075939273677
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,d_ET0,11.6113693869561
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,T25_base,55.1494899936446
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,T25_far,10.9324032964336
+4,primary without models with a source discontinuity (SSP5-8.5),sensitivity,dE_wheat,58.0934539504116
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,d_freq,7.49874391449023
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,agree,0.8
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,d_P,18.1101100822059
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,d_ET0,7.12334280481811
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,T25_base,72.8129570316937
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,T25_far,15.586796968268
+4,"old (TerraClimate reference, v2) (SSP2-4.5)",sensitivity,dE_wheat,46.036832101334
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,d_freq,10.7354414833465
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,agree,0.8
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,d_P,32.4569853590869
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,d_ET0,12.4152691043983
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,T25_base,72.8129570316937
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,T25_far,9.65228235924674
+4,"old (TerraClimate reference, v2) (SSP5-8.5)",sensitivity,dE_wheat,69.3035515636744
+4,all models with scenario data (SSP2-4.5),sensitivity,d_freq,8.30018288270283
+4,all models with scenario data (SSP2-4.5),sensitivity,agree,0.740740740740741
+4,all models with scenario data (SSP2-4.5),sensitivity,d_P,16.2035339105799
+4,all models with scenario data (SSP2-4.5),sensitivity,d_ET0,7.25386879180286
+4,all models with scenario data (SSP2-4.5),sensitivity,T25_base,95.3877108728582
+4,all models with scenario data (SSP2-4.5),sensitivity,T25_far,12.4686405233593
+4,all models with scenario data (SSP2-4.5),sensitivity,dE_wheat,52.376510159377
+4,all models with scenario data (SSP5-8.5),sensitivity,d_freq,9.86602552153689
+4,all models with scenario data (SSP5-8.5),sensitivity,agree,0.814814814814815
+4,all models with scenario data (SSP5-8.5),sensitivity,d_P,32.8626859480107
+4,all models with scenario data (SSP5-8.5),sensitivity,d_ET0,12.1895974367572
+4,all models with scenario data (SSP5-8.5),sensitivity,T25_base,95.3877108728582
+4,all models with scenario data (SSP5-8.5),sensitivity,T25_far,11.5429789128474
+4,all models with scenario data (SSP5-8.5),sensitivity,dE_wheat,64.7578028119838
+general,"Reference: SPEI-3, PM ET0, threshold −1, baseline 1985–2014 (SSP2-4.5)",primary,Δ freq far (%-pt),9.9912435124996
+general,"Reference: SPEI-3, PM ET0, threshold −1, baseline 1985–2014 (SSP5-8.5)",primary,Δ freq far (%-pt),11.0587559324741
+general,SPEI-3 with PM ET0 (SSP2-4.5),sensitivity,Δ freq far (%-pt),9.9912435124996
+general,SPEI-3 with PM ET0 (SSP5-8.5),sensitivity,Δ freq far (%-pt),11.0587559324741
+general,SPEI-3 with Hargreaves ET0 (SSP2-4.5),sensitivity,Δ freq far (%-pt),11.0959784592751
+general,SPEI-3 with Hargreaves ET0 (SSP5-8.5),sensitivity,Δ freq far (%-pt),12.5299300099132
+general,Threshold −1.5 (instead of −1) (SSP2-4.5),sensitivity,Δ freq far (%-pt),8.37938915716063
+general,Threshold −1.5 (instead of −1) (SSP5-8.5),sensitivity,Δ freq far (%-pt),11.2905953448808
+general,Alternative baseline 1981–2010 (calibration and reference) (SSP2-4.5),sensitivity,Δ freq far (%-pt),8.93651396854353
+general,Alternative baseline 1981–2010 (calibration and reference) (SSP5-8.5),sensitivity,Δ freq far (%-pt),10.0974574717335
+general,No QDM (NEX-GDDP-CMIP6 as published) (SSP2-4.5),sensitivity,Δ freq far (%-pt),11.5489308926716
+general,No QDM (NEX-GDDP-CMIP6 as published) (SSP5-8.5),sensitivity,Δ freq far (%-pt),14.5839175548275
+general,QDM with standardised ±1-month pooled windows (S1) (SSP2-4.5),sensitivity,Δ freq far (%-pt),11.8131517622016
+general,QDM with standardised ±1-month pooled windows (S1) (SSP5-8.5),sensitivity,Δ freq far (%-pt),13.2445200401412
+general,"QDM with unstandardised ±1-month pooled windows (S2, v2.1) (SSP2-4.5)",sensitivity,Δ freq far (%-pt),12.4565258596875
+general,"QDM with unstandardised ±1-month pooled windows (S2, v2.1) (SSP5-8.5)",sensitivity,Δ freq far (%-pt),13.889036079349
+general,QDM to TerraClimate (instead of ERA5-Land) PM targets (SSP2-4.5),sensitivity,Δ freq far (%-pt),8.7468305880816
+general,QDM to TerraClimate (instead of ERA5-Land) PM targets (SSP5-8.5),sensitivity,Δ freq far (%-pt),9.27576789731015
+general,"Second chain: ISIMIP3b (5 GCMs) vs NEX-GDDP+QDM (same GCMs), SSP5-8.5 (SSP5-8.5)",sensitivity,Δ freq far (%-pt),8.22222222222222
+v3,propagation (1981–2003),primary,"max r SPEI-k vs SRI-1, Dhok Pathan",0.606759859214202
+v3,propagation (1981–2003),primary,best k (months),1
+v3,propagation_glofas_1981_2003 (1981–2003),sensitivity,"max r SPEI-k vs SRI-1, Dhok Pathan",0.586942208180679
+v3,propagation_glofas_1981_2003 (1981–2003),sensitivity,best k (months),1
+v3,propagation_glofas (1981–2024),sensitivity,"max r SPEI-k vs SRI-1, Dhok Pathan",0.496541602844787
+v3,propagation_glofas (1981–2024),sensitivity,best k (months),1
+v3,gauge SRI-3 calibration 1985–2003: Dhok Pathan,primary,SRI-3 drought months 1981–2003 (%),15.2173913043478
+v3,gauge SRI-3 calibration 1974–2003: Dhok Pathan,sensitivity,SRI-3 drought months 1981–2003 (%),12.3188405797101
+v3,gauge SRI-3 calibration 1985–2003: Chirah,primary,SRI-3 drought months 1981–2003 (%),4.34782608695652
+v3,gauge SRI-3 calibration 1974–2003: Chirah,sensitivity,SRI-3 drought months 1981–2003 (%),9.78260869565217
+v3,gauge SRI-3 calibration 1985–2003: Sil (Chahan),primary,SRI-3 drought months 1981–2003 (%),9.78260869565217
+v3,gauge SRI-3 calibration 1974–2003: Sil (Chahan),sensitivity,SRI-3 drought months 1981–2003 (%),13.768115942029

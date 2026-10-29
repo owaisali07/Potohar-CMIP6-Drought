@@ -1,0 +1,28 @@
+﻿conda.exe : C:\Users\Owais\anaconda3\Lib\argparse.py:2006: FutureWarning: `remote_definition` is deprecated and will 
+be removed in 25.9. Use `conda env create --file=URL` instead.
+At line:1 char:302
++ ... tch {} } }; & C:\Users\Owais\anaconda3\Scripts\conda.exe env create - ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\Owais\...e=URL` instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  action(self, namespace, argument_values, option_string)
+Channels:
+ - conda-forge
+Platform: win-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+Downloading and Extracting Packages: ...working... done
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate p6drought
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+

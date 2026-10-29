@@ -1,0 +1,1560 @@
+19:20:29 QDM main ACCESS-ESM1-5 
+19:20:48 QDM main EC-Earth3 
+19:21:05 QDM main IPSL-CM6A-LR 
+19:21:25 QDM main GFDL-ESM4 
+19:21:47 QDM main MPI-ESM1-2-HR 
+19:22:07 QDM main FGOALS-g3 
+19:22:25 QDM main TaiESM1 
+19:22:43 QDM main HadGEM3-GC31-LL 
+19:23:04 QDM main UKESM1-0-LL 
+19:23:25 QDM main GISS-E2-1-G 
+19:23:46 QDM main MRI-ESM2-0 
+19:24:12 QDM nopool ACCESS-ESM1-5 
+19:24:30 QDM nopool EC-Earth3 
+19:24:46 QDM nopool IPSL-CM6A-LR 
+19:25:09 QDM nopool GFDL-ESM4 
+19:25:29 QDM nopool MPI-ESM1-2-HR 
+19:25:46 QDM nopool FGOALS-g3 
+19:26:03 QDM nopool TaiESM1 
+19:26:18 QDM nopool HadGEM3-GC31-LL 
+19:26:33 QDM nopool UKESM1-0-LL 
+19:26:49 QDM nopool GISS-E2-1-G 
+19:27:10 QDM terraclimate ACCESS-ESM1-5 
+19:27:31 QDM terraclimate EC-Earth3 
+19:27:49 QDM terraclimate IPSL-CM6A-LR 
+19:28:08 QDM terraclimate GFDL-ESM4 
+19:28:26 QDM terraclimate MPI-ESM1-2-HR 
+19:28:45 QDM terraclimate FGOALS-g3 
+19:29:03 QDM terraclimate TaiESM1 
+19:29:24 QDM terraclimate HadGEM3-GC31-LL 
+19:29:45 QDM terraclimate UKESM1-0-LL 
+19:30:07 QDM terraclimate GISS-E2-1-G 
+19:38:10 projection ACCESS-ESM1-5 ssp245 
+19:38:18 projection ACCESS-ESM1-5 ssp585 
+19:38:26 projection EC-Earth3 ssp245 
+19:38:34 projection EC-Earth3 ssp585 
+19:38:42 projection IPSL-CM6A-LR ssp245 
+19:38:51 projection IPSL-CM6A-LR ssp585 
+19:38:59 projection GFDL-ESM4 ssp245 
+19:39:07 projection GFDL-ESM4 ssp585 
+19:39:15 projection MPI-ESM1-2-HR ssp245 
+19:39:23 projection MPI-ESM1-2-HR ssp585 
+19:39:31 projection FGOALS-g3 ssp245 
+19:39:39 projection FGOALS-g3 ssp585 
+19:39:47 projection TaiESM1 ssp245 
+19:39:55 projection TaiESM1 ssp585 
+19:40:03 projection HadGEM3-GC31-LL ssp245 
+19:40:12 projection HadGEM3-GC31-LL ssp585 
+19:40:19 projection UKESM1-0-LL ssp245 
+19:40:27 projection UKESM1-0-LL ssp585 
+19:40:36 projection GISS-E2-1-G ssp245 
+19:40:44 projection GISS-E2-1-G ssp585 
+19:40:52 projection MRI-ESM2-0 ssp245 
+19:41:00 projection MRI-ESM2-0 ssp585 
+20:22:09 QDM main ACCESS-ESM1-5 
+20:22:21 QDM main EC-Earth3 
+20:22:32 QDM main IPSL-CM6A-LR 
+20:22:43 QDM main GFDL-ESM4 
+20:22:54 QDM main MPI-ESM1-2-HR 
+20:23:05 QDM main FGOALS-g3 
+20:23:16 QDM main TaiESM1 
+20:23:27 QDM main HadGEM3-GC31-LL 
+20:23:38 QDM main UKESM1-0-LL 
+20:23:49 QDM main GISS-E2-1-G 
+20:24:00 QDM main MRI-ESM2-0 
+20:24:13 QDM nopool ACCESS-ESM1-5 
+20:24:23 QDM nopool EC-Earth3 
+20:24:32 QDM nopool IPSL-CM6A-LR 
+20:24:41 QDM nopool GFDL-ESM4 
+20:24:51 QDM nopool MPI-ESM1-2-HR 
+20:25:00 QDM nopool FGOALS-g3 
+20:25:10 QDM nopool TaiESM1 
+20:25:19 QDM nopool HadGEM3-GC31-LL 
+20:25:28 QDM nopool UKESM1-0-LL 
+20:25:37 QDM nopool GISS-E2-1-G 
+20:25:49 QDM terraclimate ACCESS-ESM1-5 
+20:26:01 QDM terraclimate EC-Earth3 
+20:26:12 QDM terraclimate IPSL-CM6A-LR 
+20:26:23 QDM terraclimate GFDL-ESM4 
+20:26:34 QDM terraclimate MPI-ESM1-2-HR 
+20:26:45 QDM terraclimate FGOALS-g3 
+20:26:56 QDM terraclimate TaiESM1 
+20:27:07 QDM terraclimate HadGEM3-GC31-LL 
+20:27:18 QDM terraclimate UKESM1-0-LL 
+20:27:30 QDM terraclimate GISS-E2-1-G 
+20:32:39 projection ACCESS-ESM1-5 ssp245 
+20:32:44 projection ACCESS-ESM1-5 ssp585 
+20:32:49 projection EC-Earth3 ssp245 
+20:32:53 projection EC-Earth3 ssp585 
+20:32:58 projection IPSL-CM6A-LR ssp245 
+20:33:03 projection IPSL-CM6A-LR ssp585 
+20:33:07 projection GFDL-ESM4 ssp245 
+20:33:12 projection GFDL-ESM4 ssp585 
+20:33:17 projection MPI-ESM1-2-HR ssp245 
+20:33:21 projection MPI-ESM1-2-HR ssp585 
+20:33:25 projection FGOALS-g3 ssp245 
+20:33:30 projection FGOALS-g3 ssp585 
+20:33:34 projection TaiESM1 ssp245 
+20:33:39 projection TaiESM1 ssp585 
+20:33:44 projection HadGEM3-GC31-LL ssp245 
+20:33:48 projection HadGEM3-GC31-LL ssp585 
+20:33:53 projection UKESM1-0-LL ssp245 
+20:33:57 projection UKESM1-0-LL ssp585 
+20:34:02 projection GISS-E2-1-G ssp245 
+20:34:07 projection GISS-E2-1-G ssp585 
+20:34:11 projection MRI-ESM2-0 ssp245 
+20:34:15 projection MRI-ESM2-0 ssp585 
+15:02:10 projection ACCESS-ESM1-5 ssp245 
+15:02:14 projection ACCESS-ESM1-5 ssp585 
+15:02:19 projection EC-Earth3 ssp245 
+15:02:23 projection EC-Earth3 ssp585 
+15:02:27 projection IPSL-CM6A-LR ssp245 
+15:02:30 projection IPSL-CM6A-LR ssp585 
+15:02:34 projection GFDL-ESM4 ssp245 
+15:02:38 projection GFDL-ESM4 ssp585 
+15:02:42 projection MPI-ESM1-2-HR ssp245 
+15:02:46 projection MPI-ESM1-2-HR ssp585 
+15:02:50 projection FGOALS-g3 ssp245 
+15:02:54 projection FGOALS-g3 ssp585 
+15:02:58 projection TaiESM1 ssp245 
+15:03:02 projection TaiESM1 ssp585 
+15:03:06 projection HadGEM3-GC31-LL ssp245 
+15:03:09 projection HadGEM3-GC31-LL ssp585 
+15:03:13 projection UKESM1-0-LL ssp245 
+15:03:17 projection UKESM1-0-LL ssp585 
+15:03:21 projection GISS-E2-1-G ssp245 
+15:03:25 projection GISS-E2-1-G ssp585 
+15:03:29 projection MRI-ESM2-0 ssp245 
+15:03:32 projection MRI-ESM2-0 ssp585 
+19:26:15 QDM main MIROC6 
+19:26:26 QDM main CNRM-CM6-1 
+19:26:37 QDM main ACCESS-ESM1-5 
+19:26:49 QDM main GFDL-CM4 
+19:27:01 QDM main GISS-E2-1-G 
+19:27:14 QDM main NorESM2-LM 
+19:27:27 QDM main INM-CM4-8 
+19:27:43 QDM main NorESM2-MM 
+19:27:56 QDM main GFDL-ESM4 
+19:28:08 QDM main TaiESM1 
+19:28:20 QDM main EC-Earth3 
+19:28:31 QDM main IPSL-CM6A-LR 
+19:28:45 QDM main MPI-ESM1-2-HR 
+19:29:00 QDM main FGOALS-g3 
+19:29:11 QDM main HadGEM3-GC31-LL 
+19:29:23 QDM main UKESM1-0-LL 
+19:29:41 QDM main MRI-ESM2-0 
+19:30:03 QDM main ACCESS-CM2 
+19:30:22 QDM main CMCC-ESM2 
+19:30:40 QDM main CNRM-ESM2-1 
+19:30:59 QDM main CanESM5 
+19:31:18 QDM main EC-Earth3-Veg-LR 
+19:31:37 QDM main INM-CM5-0 
+19:31:56 QDM main KACE-1-0-G 
+19:32:15 QDM main KIOST-ESM 
+19:32:34 QDM main MIROC-ES2L 
+19:32:52 QDM main MPI-ESM1-2-LR 
+19:33:22 QDM nopool MIROC6 
+19:33:39 QDM nopool CNRM-CM6-1 
+19:33:56 QDM nopool ACCESS-ESM1-5 
+19:34:12 QDM nopool GFDL-CM4 
+19:34:28 QDM nopool GISS-E2-1-G 
+19:34:44 QDM nopool NorESM2-LM 
+19:34:59 QDM nopool INM-CM4-8 
+19:35:15 QDM nopool NorESM2-MM 
+19:35:31 QDM nopool GFDL-ESM4 
+19:35:47 QDM nopool TaiESM1 
+19:36:07 QDM terraclimate MIROC6 
+19:36:26 QDM terraclimate CNRM-CM6-1 
+19:36:46 QDM terraclimate ACCESS-ESM1-5 
+19:37:05 QDM terraclimate GFDL-CM4 
+19:37:24 QDM terraclimate GISS-E2-1-G 
+19:37:43 QDM terraclimate NorESM2-LM 
+19:38:02 QDM terraclimate INM-CM4-8 
+19:38:22 QDM terraclimate NorESM2-MM 
+19:38:41 QDM terraclimate GFDL-ESM4 
+19:39:00 QDM terraclimate TaiESM1 
+19:48:51 projection MIROC6 ssp245 
+19:48:59 projection MIROC6 ssp585 
+19:49:06 projection CNRM-CM6-1 ssp245 
+19:49:13 projection CNRM-CM6-1 ssp585 
+19:49:20 projection ACCESS-ESM1-5 ssp245 
+19:49:27 projection ACCESS-ESM1-5 ssp585 
+19:49:33 projection GFDL-CM4 ssp245 
+19:49:39 projection GFDL-CM4 ssp585 
+19:49:46 projection GISS-E2-1-G ssp245 
+19:49:53 projection GISS-E2-1-G ssp585 
+19:49:59 projection NorESM2-LM ssp245 
+19:50:06 projection NorESM2-LM ssp585 
+19:50:12 projection INM-CM4-8 ssp245 
+19:50:19 projection INM-CM4-8 ssp585 
+19:50:25 projection NorESM2-MM ssp245 
+19:50:32 projection NorESM2-MM ssp585 
+19:50:38 projection GFDL-ESM4 ssp245 
+19:50:45 projection GFDL-ESM4 ssp585 
+19:50:51 projection TaiESM1 ssp245 
+19:50:58 projection TaiESM1 ssp585 
+19:51:04 projection EC-Earth3 ssp245 
+19:51:11 projection EC-Earth3 ssp585 
+19:51:17 projection IPSL-CM6A-LR ssp245 
+19:51:24 projection IPSL-CM6A-LR ssp585 
+19:51:31 projection MPI-ESM1-2-HR ssp245 
+19:51:37 projection MPI-ESM1-2-HR ssp585 
+19:51:44 projection FGOALS-g3 ssp245 
+19:51:50 projection FGOALS-g3 ssp585 
+19:51:57 projection HadGEM3-GC31-LL ssp245 
+19:52:04 projection HadGEM3-GC31-LL ssp585 
+19:52:10 projection UKESM1-0-LL ssp245 
+19:52:17 projection UKESM1-0-LL ssp585 
+19:52:24 projection MRI-ESM2-0 ssp245 
+19:52:30 projection MRI-ESM2-0 ssp585 
+19:52:37 projection ACCESS-CM2 ssp245 
+19:52:43 projection ACCESS-CM2 ssp585 
+19:52:50 projection CMCC-ESM2 ssp245 
+19:52:56 projection CMCC-ESM2 ssp585 
+19:53:03 projection CNRM-ESM2-1 ssp245 
+19:53:09 projection CNRM-ESM2-1 ssp585 
+19:53:16 projection CanESM5 ssp245 
+19:53:22 projection CanESM5 ssp585 
+19:53:29 projection EC-Earth3-Veg-LR ssp245 
+19:53:35 projection EC-Earth3-Veg-LR ssp585 
+19:53:42 projection INM-CM5-0 ssp245 
+19:53:49 projection INM-CM5-0 ssp585 
+19:53:55 projection KACE-1-0-G ssp245 
+19:54:01 projection KACE-1-0-G ssp585 
+19:54:08 projection KIOST-ESM ssp245 
+19:54:14 projection KIOST-ESM ssp585 
+19:54:21 projection MIROC-ES2L ssp245 
+19:54:27 projection MIROC-ES2L ssp585 
+19:54:34 projection MPI-ESM1-2-LR ssp245 
+19:54:41 projection MPI-ESM1-2-LR ssp585 
+08:54:33 QDM main permonth ACCESS-CM2 
+08:54:42 QDM main permonth ACCESS-ESM1-5 
+08:54:50 QDM main permonth CanESM5 
+08:54:58 QDM main permonth CMCC-ESM2 
+08:55:06 QDM main permonth CNRM-CM6-1 
+08:55:14 QDM main permonth CNRM-ESM2-1 
+08:55:22 QDM main permonth EC-Earth3 
+08:55:30 QDM main permonth EC-Earth3-Veg-LR 
+08:55:39 QDM main permonth FGOALS-g3 
+08:55:47 QDM main permonth GFDL-CM4 
+08:55:56 QDM main permonth GFDL-ESM4 
+08:56:05 QDM main permonth GISS-E2-1-G 
+08:56:14 QDM main permonth HadGEM3-GC31-LL 
+08:56:23 QDM main permonth INM-CM4-8 
+08:56:34 QDM main permonth INM-CM5-0 
+08:56:43 QDM main permonth IPSL-CM6A-LR 
+08:56:51 QDM main permonth KACE-1-0-G 
+08:57:00 QDM main permonth KIOST-ESM 
+08:57:09 QDM main permonth MIROC-ES2L 
+08:57:18 QDM main permonth MIROC6 
+08:57:27 QDM main permonth MPI-ESM1-2-HR 
+08:57:35 QDM main permonth MPI-ESM1-2-LR 
+08:57:44 QDM main permonth MRI-ESM2-0 
+08:57:53 QDM main permonth NorESM2-LM 
+08:58:02 QDM main permonth NorESM2-MM 
+08:58:10 QDM main permonth TaiESM1 
+08:58:20 QDM main permonth UKESM1-0-LL 
+08:58:35 QDM S1 pooled_std ACCESS-CM2 
+08:58:46 QDM S1 pooled_std ACCESS-ESM1-5 
+08:58:58 QDM S1 pooled_std CanESM5 
+08:59:09 QDM S1 pooled_std CMCC-ESM2 
+08:59:20 QDM S1 pooled_std CNRM-CM6-1 
+08:59:31 QDM S1 pooled_std CNRM-ESM2-1 
+08:59:42 QDM S1 pooled_std EC-Earth3 
+08:59:53 QDM S1 pooled_std EC-Earth3-Veg-LR 
+09:00:04 QDM S1 pooled_std FGOALS-g3 
+09:00:14 QDM S1 pooled_std GFDL-CM4 
+09:00:25 QDM S1 pooled_std GFDL-ESM4 
+09:00:36 QDM S1 pooled_std GISS-E2-1-G 
+09:00:47 QDM S1 pooled_std HadGEM3-GC31-LL 
+09:00:58 QDM S1 pooled_std INM-CM4-8 
+09:01:09 QDM S1 pooled_std INM-CM5-0 
+09:01:20 QDM S1 pooled_std IPSL-CM6A-LR 
+09:01:31 QDM S1 pooled_std KACE-1-0-G 
+09:01:41 QDM S1 pooled_std KIOST-ESM 
+09:01:51 QDM S1 pooled_std MIROC-ES2L 
+09:02:02 QDM S1 pooled_std MIROC6 
+09:02:12 QDM S1 pooled_std MPI-ESM1-2-HR 
+09:02:23 QDM S1 pooled_std MPI-ESM1-2-LR 
+09:02:33 QDM S1 pooled_std MRI-ESM2-0 
+09:02:43 QDM S1 pooled_std NorESM2-LM 
+09:02:54 QDM S1 pooled_std NorESM2-MM 
+09:03:04 QDM S1 pooled_std TaiESM1 
+09:03:14 QDM S1 pooled_std UKESM1-0-LL 
+09:03:31 QDM S2 pooled ACCESS-CM2 
+09:03:41 QDM S2 pooled ACCESS-ESM1-5 
+09:03:51 QDM S2 pooled CanESM5 
+09:04:00 QDM S2 pooled CMCC-ESM2 
+09:04:10 QDM S2 pooled CNRM-CM6-1 
+09:04:20 QDM S2 pooled CNRM-ESM2-1 
+09:04:30 QDM S2 pooled EC-Earth3 
+09:04:39 QDM S2 pooled EC-Earth3-Veg-LR 
+09:04:49 QDM S2 pooled FGOALS-g3 
+09:04:59 QDM S2 pooled GFDL-CM4 
+09:05:09 QDM S2 pooled GFDL-ESM4 
+09:05:19 QDM S2 pooled GISS-E2-1-G 
+09:05:29 QDM S2 pooled HadGEM3-GC31-LL 
+09:05:46 QDM S2 pooled INM-CM4-8 
+09:06:03 QDM S2 pooled INM-CM5-0 
+09:06:21 QDM S2 pooled IPSL-CM6A-LR 
+09:06:39 QDM S2 pooled KACE-1-0-G 
+09:06:56 QDM S2 pooled KIOST-ESM 
+09:07:13 QDM S2 pooled MIROC-ES2L 
+09:07:30 QDM S2 pooled MIROC6 
+09:07:47 QDM S2 pooled MPI-ESM1-2-HR 
+09:08:04 QDM S2 pooled MPI-ESM1-2-LR 
+09:08:20 QDM S2 pooled MRI-ESM2-0 
+09:08:37 QDM S2 pooled NorESM2-LM 
+09:08:54 QDM S2 pooled NorESM2-MM 
+09:09:12 QDM S2 pooled TaiESM1 
+09:09:28 QDM S2 pooled UKESM1-0-LL 
+09:09:56 QDM terraclimate permonth ACCESS-CM2 
+09:10:10 QDM terraclimate permonth ACCESS-ESM1-5 
+09:10:24 QDM terraclimate permonth CanESM5 
+09:10:37 QDM terraclimate permonth CMCC-ESM2 
+09:10:51 QDM terraclimate permonth CNRM-CM6-1 
+09:11:05 QDM terraclimate permonth CNRM-ESM2-1 
+09:11:19 QDM terraclimate permonth EC-Earth3 
+09:11:32 QDM terraclimate permonth EC-Earth3-Veg-LR 
+09:11:46 QDM terraclimate permonth FGOALS-g3 
+09:12:00 QDM terraclimate permonth GFDL-CM4 
+09:12:14 QDM terraclimate permonth GFDL-ESM4 
+09:12:28 QDM terraclimate permonth GISS-E2-1-G 
+09:12:42 QDM terraclimate permonth HadGEM3-GC31-LL 
+09:12:56 QDM terraclimate permonth INM-CM4-8 
+09:13:09 QDM terraclimate permonth INM-CM5-0 
+09:13:23 QDM terraclimate permonth IPSL-CM6A-LR 
+09:13:37 QDM terraclimate permonth KACE-1-0-G 
+09:13:51 QDM terraclimate permonth KIOST-ESM 
+09:14:05 QDM terraclimate permonth MIROC-ES2L 
+09:14:19 QDM terraclimate permonth MIROC6 
+09:14:33 QDM terraclimate permonth MPI-ESM1-2-HR 
+09:14:47 QDM terraclimate permonth MPI-ESM1-2-LR 
+09:15:00 QDM terraclimate permonth MRI-ESM2-0 
+09:15:14 QDM terraclimate permonth NorESM2-LM 
+09:15:28 QDM terraclimate permonth NorESM2-MM 
+09:15:41 QDM terraclimate permonth TaiESM1 
+09:15:55 QDM terraclimate permonth UKESM1-0-LL 
+09:23:52 plain split ACCESS-CM2 
+09:24:07 plain split ACCESS-ESM1-5 
+09:24:23 plain split CanESM5 
+09:24:36 plain split CMCC-ESM2 
+09:24:49 plain split CNRM-CM6-1 
+09:25:02 plain split CNRM-ESM2-1 
+09:25:16 plain split EC-Earth3 
+09:25:29 plain split EC-Earth3-Veg-LR 
+09:25:42 plain split FGOALS-g3 
+09:25:56 plain split GFDL-CM4 
+09:26:10 plain split GFDL-ESM4 
+09:26:24 plain split GISS-E2-1-G 
+09:26:37 plain split HadGEM3-GC31-LL 
+09:26:51 plain split INM-CM4-8 
+09:27:05 plain split INM-CM5-0 
+09:27:18 plain split IPSL-CM6A-LR 
+09:27:32 plain split KACE-1-0-G 
+09:27:46 plain split KIOST-ESM 
+09:28:00 plain split MIROC-ES2L 
+09:28:14 plain split MIROC6 
+09:28:28 plain split MPI-ESM1-2-HR 
+09:28:41 plain split MPI-ESM1-2-LR 
+09:28:54 plain split MRI-ESM2-0 
+09:29:08 plain split NorESM2-LM 
+09:29:21 plain split NorESM2-MM 
+09:29:36 plain split TaiESM1 
+09:29:49 plain split UKESM1-0-LL 
+09:44:49 projection ACCESS-CM2 ssp245 
+09:44:53 projection ACCESS-CM2 ssp585 
+09:44:56 projection ACCESS-ESM1-5 ssp245 
+09:45:00 projection ACCESS-ESM1-5 ssp585 
+09:45:04 projection CanESM5 ssp245 
+09:45:07 projection CanESM5 ssp585 
+09:45:11 projection CMCC-ESM2 ssp245 
+09:45:15 projection CMCC-ESM2 ssp585 
+09:45:18 projection CNRM-CM6-1 ssp245 
+09:45:22 projection CNRM-CM6-1 ssp585 
+09:45:26 projection CNRM-ESM2-1 ssp245 
+09:45:29 projection CNRM-ESM2-1 ssp585 
+09:45:33 projection EC-Earth3 ssp245 
+09:45:36 projection EC-Earth3 ssp585 
+09:45:40 projection EC-Earth3-Veg-LR ssp245 
+09:45:44 projection EC-Earth3-Veg-LR ssp585 
+09:45:47 projection FGOALS-g3 ssp245 
+09:45:51 projection FGOALS-g3 ssp585 
+09:45:55 projection GFDL-CM4 ssp245 
+09:45:59 projection GFDL-CM4 ssp585 
+09:46:03 projection GFDL-ESM4 ssp245 
+09:46:06 projection GFDL-ESM4 ssp585 
+09:46:10 projection GISS-E2-1-G ssp245 
+09:46:13 projection GISS-E2-1-G ssp585 
+09:46:17 projection HadGEM3-GC31-LL ssp245 
+09:46:21 projection HadGEM3-GC31-LL ssp585 
+09:46:24 projection INM-CM4-8 ssp245 
+09:46:28 projection INM-CM4-8 ssp585 
+09:46:32 projection INM-CM5-0 ssp245 
+09:46:35 projection INM-CM5-0 ssp585 
+09:46:39 projection IPSL-CM6A-LR ssp245 
+09:46:43 projection IPSL-CM6A-LR ssp585 
+09:46:47 projection KACE-1-0-G ssp245 
+09:46:50 projection KACE-1-0-G ssp585 
+09:46:54 projection KIOST-ESM ssp245 
+09:46:57 projection KIOST-ESM ssp585 
+09:47:01 projection MIROC-ES2L ssp245 
+09:47:05 projection MIROC-ES2L ssp585 
+09:47:08 projection MIROC6 ssp245 
+09:47:12 projection MIROC6 ssp585 
+09:47:16 projection MPI-ESM1-2-HR ssp245 
+09:47:20 projection MPI-ESM1-2-HR ssp585 
+09:47:24 projection MPI-ESM1-2-LR ssp245 
+09:47:27 projection MPI-ESM1-2-LR ssp585 
+09:47:31 projection MRI-ESM2-0 ssp245 
+09:47:34 projection MRI-ESM2-0 ssp585 
+09:47:38 projection NorESM2-LM ssp245 
+09:47:42 projection NorESM2-LM ssp585 
+09:47:45 projection NorESM2-MM ssp245 
+09:47:49 projection NorESM2-MM ssp585 
+09:47:53 projection TaiESM1 ssp245 
+09:47:56 projection TaiESM1 ssp585 
+09:48:00 projection UKESM1-0-LL ssp245 
+09:48:04 projection UKESM1-0-LL ssp585 
+10:15:06 QDM main permonth ACCESS-CM2 
+10:15:13 QDM main permonth ACCESS-ESM1-5 
+10:15:22 QDM main permonth CanESM5 
+10:15:30 QDM main permonth CMCC-ESM2 
+10:15:38 QDM main permonth CNRM-CM6-1 
+10:15:46 QDM main permonth CNRM-ESM2-1 
+10:15:54 QDM main permonth EC-Earth3 
+10:16:02 QDM main permonth EC-Earth3-Veg-LR 
+10:16:10 QDM main permonth FGOALS-g3 
+10:16:17 QDM main permonth GFDL-CM4 
+10:16:25 QDM main permonth GFDL-ESM4 
+10:16:33 QDM main permonth GISS-E2-1-G 
+10:16:41 QDM main permonth HadGEM3-GC31-LL 
+10:16:49 QDM main permonth INM-CM4-8 
+10:16:57 QDM main permonth INM-CM5-0 
+10:17:04 QDM main permonth IPSL-CM6A-LR 
+10:17:12 QDM main permonth KACE-1-0-G 
+10:17:20 QDM main permonth KIOST-ESM 
+10:17:28 QDM main permonth MIROC-ES2L 
+10:17:36 QDM main permonth MIROC6 
+10:17:44 QDM main permonth MPI-ESM1-2-HR 
+10:17:52 QDM main permonth MPI-ESM1-2-LR 
+10:18:00 QDM main permonth MRI-ESM2-0 
+10:18:07 QDM main permonth NorESM2-LM 
+10:18:15 QDM main permonth NorESM2-MM 
+10:18:23 QDM main permonth TaiESM1 
+10:18:31 QDM main permonth UKESM1-0-LL 
+10:18:45 QDM S1 pooled_std ACCESS-CM2 
+10:18:55 QDM S1 pooled_std ACCESS-ESM1-5 
+10:19:06 QDM S1 pooled_std CanESM5 
+10:19:16 QDM S1 pooled_std CMCC-ESM2 
+10:19:27 QDM S1 pooled_std CNRM-CM6-1 
+10:19:37 QDM S1 pooled_std CNRM-ESM2-1 
+10:19:48 QDM S1 pooled_std EC-Earth3 
+10:19:58 QDM S1 pooled_std EC-Earth3-Veg-LR 
+10:20:08 QDM S1 pooled_std FGOALS-g3 
+10:20:19 QDM S1 pooled_std GFDL-CM4 
+10:20:29 QDM S1 pooled_std GFDL-ESM4 
+10:20:39 QDM S1 pooled_std GISS-E2-1-G 
+10:20:50 QDM S1 pooled_std HadGEM3-GC31-LL 
+10:21:00 QDM S1 pooled_std INM-CM4-8 
+10:21:10 QDM S1 pooled_std INM-CM5-0 
+10:21:21 QDM S1 pooled_std IPSL-CM6A-LR 
+10:21:31 QDM S1 pooled_std KACE-1-0-G 
+10:21:42 QDM S1 pooled_std KIOST-ESM 
+10:21:52 QDM S1 pooled_std MIROC-ES2L 
+10:22:02 QDM S1 pooled_std MIROC6 
+10:22:13 QDM S1 pooled_std MPI-ESM1-2-HR 
+10:22:23 QDM S1 pooled_std MPI-ESM1-2-LR 
+10:22:33 QDM S1 pooled_std MRI-ESM2-0 
+10:22:44 QDM S1 pooled_std NorESM2-LM 
+10:22:54 QDM S1 pooled_std NorESM2-MM 
+10:23:05 QDM S1 pooled_std TaiESM1 
+10:23:15 QDM S1 pooled_std UKESM1-0-LL 
+10:23:31 QDM S2 pooled ACCESS-CM2 
+10:23:40 QDM S2 pooled ACCESS-ESM1-5 
+10:23:50 QDM S2 pooled CanESM5 
+10:24:00 QDM S2 pooled CMCC-ESM2 
+10:24:10 QDM S2 pooled CNRM-CM6-1 
+10:24:20 QDM S2 pooled CNRM-ESM2-1 
+10:24:30 QDM S2 pooled EC-Earth3 
+10:24:39 QDM S2 pooled EC-Earth3-Veg-LR 
+10:24:49 QDM S2 pooled FGOALS-g3 
+10:24:59 QDM S2 pooled GFDL-CM4 
+10:25:09 QDM S2 pooled GFDL-ESM4 
+10:25:18 QDM S2 pooled GISS-E2-1-G 
+10:25:28 QDM S2 pooled HadGEM3-GC31-LL 
+10:25:38 QDM S2 pooled INM-CM4-8 
+10:25:48 QDM S2 pooled INM-CM5-0 
+10:25:57 QDM S2 pooled IPSL-CM6A-LR 
+10:26:07 QDM S2 pooled KACE-1-0-G 
+10:26:17 QDM S2 pooled KIOST-ESM 
+10:26:27 QDM S2 pooled MIROC-ES2L 
+10:26:37 QDM S2 pooled MIROC6 
+10:26:47 QDM S2 pooled MPI-ESM1-2-HR 
+10:26:56 QDM S2 pooled MPI-ESM1-2-LR 
+10:27:06 QDM S2 pooled MRI-ESM2-0 
+10:27:16 QDM S2 pooled NorESM2-LM 
+10:27:26 QDM S2 pooled NorESM2-MM 
+10:27:36 QDM S2 pooled TaiESM1 
+10:27:45 QDM S2 pooled UKESM1-0-LL 
+10:28:01 QDM terraclimate permonth ACCESS-CM2 
+10:28:09 QDM terraclimate permonth ACCESS-ESM1-5 
+10:28:17 QDM terraclimate permonth CanESM5 
+10:28:25 QDM terraclimate permonth CMCC-ESM2 
+10:28:33 QDM terraclimate permonth CNRM-CM6-1 
+10:28:40 QDM terraclimate permonth CNRM-ESM2-1 
+10:28:48 QDM terraclimate permonth EC-Earth3 
+10:28:56 QDM terraclimate permonth EC-Earth3-Veg-LR 
+10:29:04 QDM terraclimate permonth FGOALS-g3 
+10:29:12 QDM terraclimate permonth GFDL-CM4 
+10:29:20 QDM terraclimate permonth GFDL-ESM4 
+10:29:28 QDM terraclimate permonth GISS-E2-1-G 
+10:29:36 QDM terraclimate permonth HadGEM3-GC31-LL 
+10:29:44 QDM terraclimate permonth INM-CM4-8 
+10:29:52 QDM terraclimate permonth INM-CM5-0 
+10:29:59 QDM terraclimate permonth IPSL-CM6A-LR 
+10:30:07 QDM terraclimate permonth KACE-1-0-G 
+10:30:15 QDM terraclimate permonth KIOST-ESM 
+10:30:23 QDM terraclimate permonth MIROC-ES2L 
+10:30:31 QDM terraclimate permonth MIROC6 
+10:30:39 QDM terraclimate permonth MPI-ESM1-2-HR 
+10:30:46 QDM terraclimate permonth MPI-ESM1-2-LR 
+10:30:54 QDM terraclimate permonth MRI-ESM2-0 
+10:31:02 QDM terraclimate permonth NorESM2-LM 
+10:31:10 QDM terraclimate permonth NorESM2-MM 
+10:31:18 QDM terraclimate permonth TaiESM1 
+10:31:26 QDM terraclimate permonth UKESM1-0-LL 
+10:36:05 plain split ACCESS-CM2 
+10:36:12 plain split ACCESS-ESM1-5 
+10:36:19 plain split CanESM5 
+10:36:26 plain split CMCC-ESM2 
+10:36:34 plain split CNRM-CM6-1 
+10:36:41 plain split CNRM-ESM2-1 
+10:36:48 plain split EC-Earth3 
+10:36:55 plain split EC-Earth3-Veg-LR 
+10:37:03 plain split FGOALS-g3 
+10:37:10 plain split GFDL-CM4 
+10:37:17 plain split GFDL-ESM4 
+10:37:24 plain split GISS-E2-1-G 
+10:37:31 plain split HadGEM3-GC31-LL 
+10:37:39 plain split INM-CM4-8 
+10:37:46 plain split INM-CM5-0 
+10:37:53 plain split IPSL-CM6A-LR 
+10:38:00 plain split KACE-1-0-G 
+10:38:08 plain split KIOST-ESM 
+10:38:15 plain split MIROC-ES2L 
+10:38:22 plain split MIROC6 
+10:38:29 plain split MPI-ESM1-2-HR 
+10:38:36 plain split MPI-ESM1-2-LR 
+10:38:43 plain split MRI-ESM2-0 
+10:38:50 plain split NorESM2-LM 
+10:38:58 plain split NorESM2-MM 
+10:39:06 plain split TaiESM1 
+10:39:13 plain split UKESM1-0-LL 
+10:39:40 projection ACCESS-CM2 ssp245 
+10:39:44 projection ACCESS-CM2 ssp585 
+10:39:47 projection ACCESS-ESM1-5 ssp245 
+10:39:51 projection ACCESS-ESM1-5 ssp585 
+10:39:54 projection CanESM5 ssp245 
+10:39:58 projection CanESM5 ssp585 
+10:40:02 projection CMCC-ESM2 ssp245 
+10:40:06 projection CMCC-ESM2 ssp585 
+10:40:09 projection CNRM-CM6-1 ssp245 
+10:40:13 projection CNRM-CM6-1 ssp585 
+10:40:16 projection CNRM-ESM2-1 ssp245 
+10:40:20 projection CNRM-ESM2-1 ssp585 
+10:40:24 projection EC-Earth3 ssp245 
+10:40:27 projection EC-Earth3 ssp585 
+10:40:31 projection EC-Earth3-Veg-LR ssp245 
+10:40:35 projection EC-Earth3-Veg-LR ssp585 
+10:40:38 projection FGOALS-g3 ssp245 
+10:40:42 projection FGOALS-g3 ssp585 
+10:40:46 projection GFDL-CM4 ssp245 
+10:40:49 projection GFDL-CM4 ssp585 
+10:40:53 projection GFDL-ESM4 ssp245 
+10:40:57 projection GFDL-ESM4 ssp585 
+10:41:00 projection GISS-E2-1-G ssp245 
+10:41:04 projection GISS-E2-1-G ssp585 
+10:41:08 projection HadGEM3-GC31-LL ssp245 
+10:41:11 projection HadGEM3-GC31-LL ssp585 
+10:41:15 projection INM-CM4-8 ssp245 
+10:41:19 projection INM-CM4-8 ssp585 
+10:41:22 projection INM-CM5-0 ssp245 
+10:41:26 projection INM-CM5-0 ssp585 
+10:41:29 projection IPSL-CM6A-LR ssp245 
+10:41:32 projection IPSL-CM6A-LR ssp585 
+10:41:36 projection KACE-1-0-G ssp245 
+10:41:39 projection KACE-1-0-G ssp585 
+10:41:43 projection KIOST-ESM ssp245 
+10:41:46 projection KIOST-ESM ssp585 
+10:41:50 projection MIROC-ES2L ssp245 
+10:41:53 projection MIROC-ES2L ssp585 
+10:41:57 projection MIROC6 ssp245 
+10:42:00 projection MIROC6 ssp585 
+10:42:04 projection MPI-ESM1-2-HR ssp245 
+10:42:08 projection MPI-ESM1-2-HR ssp585 
+10:42:11 projection MPI-ESM1-2-LR ssp245 
+10:42:15 projection MPI-ESM1-2-LR ssp585 
+10:42:18 projection MRI-ESM2-0 ssp245 
+10:42:22 projection MRI-ESM2-0 ssp585 
+10:42:26 projection NorESM2-LM ssp245 
+10:42:29 projection NorESM2-LM ssp585 
+10:42:33 projection NorESM2-MM ssp245 
+10:42:36 projection NorESM2-MM ssp585 
+10:42:40 projection TaiESM1 ssp245 
+10:42:45 projection TaiESM1 ssp585 
+10:42:50 projection UKESM1-0-LL ssp245 
+10:42:54 projection UKESM1-0-LL ssp585 
+10:58:18 QDM main permonth ACCESS-CM2 
+10:58:28 QDM main permonth ACCESS-ESM1-5 
+10:58:38 QDM main permonth CanESM5 
+10:58:48 QDM main permonth CMCC-ESM2 
+10:58:57 QDM main permonth CNRM-CM6-1 
+10:59:06 QDM main permonth CNRM-ESM2-1 
+10:59:22 QDM main permonth EC-Earth3 
+10:59:36 QDM main permonth EC-Earth3-Veg-LR 
+10:59:50 QDM main permonth FGOALS-g3 
+11:00:04 QDM main permonth GFDL-CM4 
+11:00:18 QDM main permonth GFDL-ESM4 
+11:00:33 QDM main permonth GISS-E2-1-G 
+11:00:46 QDM main permonth HadGEM3-GC31-LL 
+11:01:00 QDM main permonth INM-CM4-8 
+11:01:14 QDM main permonth INM-CM5-0 
+11:01:29 QDM main permonth IPSL-CM6A-LR 
+11:01:43 QDM main permonth KACE-1-0-G 
+11:01:57 QDM main permonth KIOST-ESM 
+11:02:11 QDM main permonth MIROC-ES2L 
+11:02:25 QDM main permonth MIROC6 
+11:02:39 QDM main permonth MPI-ESM1-2-HR 
+11:02:53 QDM main permonth MPI-ESM1-2-LR 
+11:03:07 QDM main permonth MRI-ESM2-0 
+11:03:22 QDM main permonth NorESM2-LM 
+11:03:36 QDM main permonth NorESM2-MM 
+11:03:50 QDM main permonth TaiESM1 
+11:04:04 QDM main permonth UKESM1-0-LL 
+11:04:30 QDM S1 pooled_std ACCESS-CM2 
+11:04:48 QDM S1 pooled_std ACCESS-ESM1-5 
+11:05:07 QDM S1 pooled_std CanESM5 
+11:05:25 QDM S1 pooled_std CMCC-ESM2 
+11:05:43 QDM S1 pooled_std CNRM-CM6-1 
+11:06:02 QDM S1 pooled_std CNRM-ESM2-1 
+11:06:20 QDM S1 pooled_std EC-Earth3 
+11:06:38 QDM S1 pooled_std EC-Earth3-Veg-LR 
+11:06:56 QDM S1 pooled_std FGOALS-g3 
+11:07:15 QDM S1 pooled_std GFDL-CM4 
+11:07:34 QDM S1 pooled_std GFDL-ESM4 
+11:07:52 QDM S1 pooled_std GISS-E2-1-G 
+11:08:10 QDM S1 pooled_std HadGEM3-GC31-LL 
+11:08:28 QDM S1 pooled_std INM-CM4-8 
+11:08:47 QDM S1 pooled_std INM-CM5-0 
+11:09:05 QDM S1 pooled_std IPSL-CM6A-LR 
+11:09:24 QDM S1 pooled_std KACE-1-0-G 
+11:09:42 QDM S1 pooled_std KIOST-ESM 
+11:10:00 QDM S1 pooled_std MIROC-ES2L 
+11:10:19 QDM S1 pooled_std MIROC6 
+11:10:37 QDM S1 pooled_std MPI-ESM1-2-HR 
+11:10:55 QDM S1 pooled_std MPI-ESM1-2-LR 
+11:11:13 QDM S1 pooled_std MRI-ESM2-0 
+11:11:31 QDM S1 pooled_std NorESM2-LM 
+11:11:50 QDM S1 pooled_std NorESM2-MM 
+11:12:08 QDM S1 pooled_std TaiESM1 
+11:12:27 QDM S1 pooled_std UKESM1-0-LL 
+11:12:56 QDM S2 pooled ACCESS-CM2 
+11:13:13 QDM S2 pooled ACCESS-ESM1-5 
+11:13:30 QDM S2 pooled CanESM5 
+11:13:47 QDM S2 pooled CMCC-ESM2 
+11:14:05 QDM S2 pooled CNRM-CM6-1 
+11:14:22 QDM S2 pooled CNRM-ESM2-1 
+11:14:39 QDM S2 pooled EC-Earth3 
+11:14:56 QDM S2 pooled EC-Earth3-Veg-LR 
+11:15:13 QDM S2 pooled FGOALS-g3 
+11:15:30 QDM S2 pooled GFDL-CM4 
+11:15:47 QDM S2 pooled GFDL-ESM4 
+11:16:04 QDM S2 pooled GISS-E2-1-G 
+11:16:21 QDM S2 pooled HadGEM3-GC31-LL 
+11:16:39 QDM S2 pooled INM-CM4-8 
+11:16:56 QDM S2 pooled INM-CM5-0 
+11:17:13 QDM S2 pooled IPSL-CM6A-LR 
+11:17:30 QDM S2 pooled KACE-1-0-G 
+11:17:47 QDM S2 pooled KIOST-ESM 
+11:18:05 QDM S2 pooled MIROC-ES2L 
+11:18:22 QDM S2 pooled MIROC6 
+11:18:39 QDM S2 pooled MPI-ESM1-2-HR 
+11:18:56 QDM S2 pooled MPI-ESM1-2-LR 
+11:19:14 QDM S2 pooled MRI-ESM2-0 
+11:19:31 QDM S2 pooled NorESM2-LM 
+11:19:48 QDM S2 pooled NorESM2-MM 
+11:20:05 QDM S2 pooled TaiESM1 
+11:20:24 QDM S2 pooled UKESM1-0-LL 
+11:20:54 QDM terraclimate permonth ACCESS-CM2 
+11:21:09 QDM terraclimate permonth ACCESS-ESM1-5 
+11:21:23 QDM terraclimate permonth CanESM5 
+11:21:38 QDM terraclimate permonth CMCC-ESM2 
+11:21:51 QDM terraclimate permonth CNRM-CM6-1 
+11:22:05 QDM terraclimate permonth CNRM-ESM2-1 
+11:22:20 QDM terraclimate permonth EC-Earth3 
+11:22:34 QDM terraclimate permonth EC-Earth3-Veg-LR 
+11:22:48 QDM terraclimate permonth FGOALS-g3 
+11:23:02 QDM terraclimate permonth GFDL-CM4 
+11:23:17 QDM terraclimate permonth GFDL-ESM4 
+11:23:32 QDM terraclimate permonth GISS-E2-1-G 
+11:23:46 QDM terraclimate permonth HadGEM3-GC31-LL 
+11:24:00 QDM terraclimate permonth INM-CM4-8 
+11:24:14 QDM terraclimate permonth INM-CM5-0 
+11:24:28 QDM terraclimate permonth IPSL-CM6A-LR 
+11:24:42 QDM terraclimate permonth KACE-1-0-G 
+11:24:56 QDM terraclimate permonth KIOST-ESM 
+11:25:10 QDM terraclimate permonth MIROC-ES2L 
+11:25:21 QDM terraclimate permonth MIROC6 
+11:25:37 QDM terraclimate permonth MPI-ESM1-2-HR 
+11:25:54 QDM terraclimate permonth MPI-ESM1-2-LR 
+11:26:09 QDM terraclimate permonth MRI-ESM2-0 
+11:26:27 QDM terraclimate permonth NorESM2-LM 
+11:26:44 QDM terraclimate permonth NorESM2-MM 
+11:26:58 QDM terraclimate permonth TaiESM1 
+11:27:15 QDM terraclimate permonth UKESM1-0-LL 
+11:38:14 plain split ACCESS-CM2 
+11:38:30 plain split ACCESS-ESM1-5 
+11:38:47 plain split CanESM5 
+11:39:04 plain split CMCC-ESM2 
+11:39:21 plain split CNRM-CM6-1 
+11:39:38 plain split CNRM-ESM2-1 
+11:39:55 plain split EC-Earth3 
+11:40:12 plain split EC-Earth3-Veg-LR 
+11:40:30 plain split FGOALS-g3 
+11:40:47 plain split GFDL-CM4 
+11:41:04 plain split GFDL-ESM4 
+11:41:22 plain split GISS-E2-1-G 
+11:41:40 plain split HadGEM3-GC31-LL 
+11:41:57 plain split INM-CM4-8 
+11:42:14 plain split INM-CM5-0 
+11:42:32 plain split IPSL-CM6A-LR 
+11:42:49 plain split KACE-1-0-G 
+11:43:07 plain split KIOST-ESM 
+11:43:25 plain split MIROC-ES2L 
+11:43:43 plain split MIROC6 
+11:44:02 plain split MPI-ESM1-2-HR 
+11:44:21 plain split MPI-ESM1-2-LR 
+11:44:40 plain split MRI-ESM2-0 
+11:44:57 plain split NorESM2-LM 
+11:45:14 plain split NorESM2-MM 
+11:45:32 plain split TaiESM1 
+11:45:49 plain split UKESM1-0-LL 
+11:46:53 projection ACCESS-CM2 ssp245 
+11:47:01 projection ACCESS-CM2 ssp585 
+11:47:08 projection ACCESS-ESM1-5 ssp245 
+11:47:16 projection ACCESS-ESM1-5 ssp585 
+11:47:24 projection CanESM5 ssp245 
+11:47:31 projection CanESM5 ssp585 
+11:47:39 projection CMCC-ESM2 ssp245 
+11:47:47 projection CMCC-ESM2 ssp585 
+11:47:55 projection CNRM-CM6-1 ssp245 
+11:48:02 projection CNRM-CM6-1 ssp585 
+11:48:10 projection CNRM-ESM2-1 ssp245 
+11:48:18 projection CNRM-ESM2-1 ssp585 
+11:48:25 projection EC-Earth3 ssp245 
+11:48:33 projection EC-Earth3 ssp585 
+11:48:40 projection EC-Earth3-Veg-LR ssp245 
+11:48:48 projection EC-Earth3-Veg-LR ssp585 
+11:48:55 projection FGOALS-g3 ssp245 
+11:49:03 projection FGOALS-g3 ssp585 
+11:49:11 projection GFDL-CM4 ssp245 
+11:49:18 projection GFDL-CM4 ssp585 
+11:49:26 projection GFDL-ESM4 ssp245 
+11:49:34 projection GFDL-ESM4 ssp585 
+11:49:41 projection GISS-E2-1-G ssp245 
+11:49:49 projection GISS-E2-1-G ssp585 
+11:49:57 projection HadGEM3-GC31-LL ssp245 
+11:50:04 projection HadGEM3-GC31-LL ssp585 
+11:50:13 projection INM-CM4-8 ssp245 
+11:50:20 projection INM-CM4-8 ssp585 
+11:50:28 projection INM-CM5-0 ssp245 
+11:50:35 projection INM-CM5-0 ssp585 
+11:50:43 projection IPSL-CM6A-LR ssp245 
+11:50:51 projection IPSL-CM6A-LR ssp585 
+11:50:58 projection KACE-1-0-G ssp245 
+11:51:06 projection KACE-1-0-G ssp585 
+11:51:14 projection KIOST-ESM ssp245 
+11:51:22 projection KIOST-ESM ssp585 
+11:51:29 projection MIROC-ES2L ssp245 
+11:51:37 projection MIROC-ES2L ssp585 
+11:51:44 projection MIROC6 ssp245 
+11:51:52 projection MIROC6 ssp585 
+11:51:59 projection MPI-ESM1-2-HR ssp245 
+11:52:07 projection MPI-ESM1-2-HR ssp585 
+11:52:15 projection MPI-ESM1-2-LR ssp245 
+11:52:22 projection MPI-ESM1-2-LR ssp585 
+11:52:30 projection MRI-ESM2-0 ssp245 
+11:52:37 projection MRI-ESM2-0 ssp585 
+11:52:45 projection NorESM2-LM ssp245 
+11:52:53 projection NorESM2-LM ssp585 
+11:53:00 projection NorESM2-MM ssp245 
+11:53:08 projection NorESM2-MM ssp585 
+11:53:15 projection TaiESM1 ssp245 
+11:53:23 projection TaiESM1 ssp585 
+11:53:30 projection UKESM1-0-LL ssp245 
+11:53:38 projection UKESM1-0-LL ssp585 
+14:39:49 QDM main permonth ACCESS-CM2 
+14:40:02 QDM main permonth ACCESS-ESM1-5 
+14:40:14 QDM main permonth CanESM5 
+14:40:25 QDM main permonth CMCC-ESM2 
+14:40:36 QDM main permonth CNRM-CM6-1 
+14:40:47 QDM main permonth CNRM-ESM2-1 
+14:40:58 QDM main permonth EC-Earth3 
+14:41:08 QDM main permonth EC-Earth3-Veg-LR 
+14:42:49 QDM main permonth ACCESS-CM2 
+14:43:01 QDM main permonth ACCESS-ESM1-5 
+14:43:12 QDM main permonth CanESM5 
+14:43:22 QDM main permonth CMCC-ESM2 
+14:43:32 QDM main permonth CNRM-CM6-1 
+14:43:42 QDM main permonth CNRM-ESM2-1 
+14:43:53 QDM main permonth EC-Earth3 
+14:44:03 QDM main permonth EC-Earth3-Veg-LR 
+14:44:13 QDM main permonth FGOALS-g3 
+14:44:24 QDM main permonth GFDL-CM4 
+14:44:34 QDM main permonth GFDL-ESM4 
+14:44:44 QDM main permonth GISS-E2-1-G 
+14:44:54 QDM main permonth HadGEM3-GC31-LL 
+14:45:04 QDM main permonth INM-CM4-8 
+14:45:15 QDM main permonth INM-CM5-0 
+14:45:25 QDM main permonth IPSL-CM6A-LR 
+14:45:35 QDM main permonth KACE-1-0-G 
+14:45:46 QDM main permonth KIOST-ESM 
+14:45:56 QDM main permonth MIROC-ES2L 
+14:46:06 QDM main permonth MIROC6 
+14:46:16 QDM main permonth MPI-ESM1-2-HR 
+14:46:27 QDM main permonth MPI-ESM1-2-LR 
+14:46:37 QDM main permonth MRI-ESM2-0 
+14:46:48 QDM main permonth NorESM2-LM 
+14:46:58 QDM main permonth NorESM2-MM 
+14:47:10 QDM main permonth TaiESM1 
+14:47:23 QDM main permonth UKESM1-0-LL 
+14:47:40 QDM S1 pooled_std ACCESS-CM2 
+14:47:56 QDM S1 pooled_std ACCESS-ESM1-5 
+14:48:10 QDM S1 pooled_std CanESM5 
+14:48:24 QDM S1 pooled_std CMCC-ESM2 
+14:48:37 QDM S1 pooled_std CNRM-CM6-1 
+14:48:50 QDM S1 pooled_std CNRM-ESM2-1 
+14:49:04 QDM S1 pooled_std EC-Earth3 
+14:49:17 QDM S1 pooled_std EC-Earth3-Veg-LR 
+14:49:30 QDM S1 pooled_std FGOALS-g3 
+14:49:43 QDM S1 pooled_std GFDL-CM4 
+14:49:57 QDM S1 pooled_std GFDL-ESM4 
+14:50:10 QDM S1 pooled_std GISS-E2-1-G 
+14:50:23 QDM S1 pooled_std HadGEM3-GC31-LL 
+14:50:36 QDM S1 pooled_std INM-CM4-8 
+14:50:50 QDM S1 pooled_std INM-CM5-0 
+14:51:03 QDM S1 pooled_std IPSL-CM6A-LR 
+14:51:16 QDM S1 pooled_std KACE-1-0-G 
+14:51:29 QDM S1 pooled_std KIOST-ESM 
+14:51:42 QDM S1 pooled_std MIROC-ES2L 
+14:51:55 QDM S1 pooled_std MIROC6 
+14:52:09 QDM S1 pooled_std MPI-ESM1-2-HR 
+14:52:22 QDM S1 pooled_std MPI-ESM1-2-LR 
+14:52:35 QDM S1 pooled_std MRI-ESM2-0 
+14:52:49 QDM S1 pooled_std NorESM2-LM 
+14:53:02 QDM S1 pooled_std NorESM2-MM 
+14:53:15 QDM S1 pooled_std TaiESM1 
+14:53:29 QDM S1 pooled_std UKESM1-0-LL 
+14:53:48 QDM S2 pooled ACCESS-CM2 
+14:54:01 QDM S2 pooled ACCESS-ESM1-5 
+14:54:13 QDM S2 pooled CanESM5 
+14:54:26 QDM S2 pooled CMCC-ESM2 
+14:54:38 QDM S2 pooled CNRM-CM6-1 
+14:54:51 QDM S2 pooled CNRM-ESM2-1 
+14:55:03 QDM S2 pooled EC-Earth3 
+14:55:16 QDM S2 pooled EC-Earth3-Veg-LR 
+14:55:28 QDM S2 pooled FGOALS-g3 
+14:55:40 QDM S2 pooled GFDL-CM4 
+14:55:53 QDM S2 pooled GFDL-ESM4 
+14:56:05 QDM S2 pooled GISS-E2-1-G 
+14:56:18 QDM S2 pooled HadGEM3-GC31-LL 
+14:56:30 QDM S2 pooled INM-CM4-8 
+14:56:43 QDM S2 pooled INM-CM5-0 
+14:56:55 QDM S2 pooled IPSL-CM6A-LR 
+14:57:07 QDM S2 pooled KACE-1-0-G 
+14:57:20 QDM S2 pooled KIOST-ESM 
+14:57:32 QDM S2 pooled MIROC-ES2L 
+14:57:45 QDM S2 pooled MIROC6 
+14:57:57 QDM S2 pooled MPI-ESM1-2-HR 
+14:58:10 QDM S2 pooled MPI-ESM1-2-LR 
+14:58:23 QDM S2 pooled MRI-ESM2-0 
+14:58:35 QDM S2 pooled NorESM2-LM 
+14:58:48 QDM S2 pooled NorESM2-MM 
+14:59:00 QDM S2 pooled TaiESM1 
+14:59:13 QDM S2 pooled UKESM1-0-LL 
+14:59:33 QDM terraclimate permonth ACCESS-CM2 
+14:59:43 QDM terraclimate permonth ACCESS-ESM1-5 
+14:59:53 QDM terraclimate permonth CanESM5 
+15:00:03 QDM terraclimate permonth CMCC-ESM2 
+15:00:14 QDM terraclimate permonth CNRM-CM6-1 
+15:00:24 QDM terraclimate permonth CNRM-ESM2-1 
+15:00:35 QDM terraclimate permonth EC-Earth3 
+15:00:45 QDM terraclimate permonth EC-Earth3-Veg-LR 
+15:00:55 QDM terraclimate permonth FGOALS-g3 
+15:01:06 QDM terraclimate permonth GFDL-CM4 
+15:01:16 QDM terraclimate permonth GFDL-ESM4 
+15:01:27 QDM terraclimate permonth GISS-E2-1-G 
+15:01:37 QDM terraclimate permonth HadGEM3-GC31-LL 
+15:01:47 QDM terraclimate permonth INM-CM4-8 
+15:01:57 QDM terraclimate permonth INM-CM5-0 
+15:02:07 QDM terraclimate permonth IPSL-CM6A-LR 
+15:02:19 QDM terraclimate permonth KACE-1-0-G 
+15:02:35 QDM terraclimate permonth KIOST-ESM 
+15:02:51 QDM terraclimate permonth MIROC-ES2L 
+15:03:06 QDM terraclimate permonth MIROC6 
+15:03:22 QDM terraclimate permonth MPI-ESM1-2-HR 
+15:03:38 QDM terraclimate permonth MPI-ESM1-2-LR 
+15:03:53 QDM terraclimate permonth MRI-ESM2-0 
+15:04:09 QDM terraclimate permonth NorESM2-LM 
+15:04:25 QDM terraclimate permonth NorESM2-MM 
+15:04:40 QDM terraclimate permonth TaiESM1 
+15:04:56 QDM terraclimate permonth UKESM1-0-LL 
+15:14:24 plain split ACCESS-CM2 
+15:14:38 plain split ACCESS-ESM1-5 
+15:14:52 plain split CanESM5 
+15:15:06 plain split CMCC-ESM2 
+15:15:19 plain split CNRM-CM6-1 
+15:15:33 plain split CNRM-ESM2-1 
+15:15:47 plain split EC-Earth3 
+15:16:00 plain split EC-Earth3-Veg-LR 
+15:16:14 plain split FGOALS-g3 
+15:16:28 plain split GFDL-CM4 
+15:16:41 plain split GFDL-ESM4 
+15:16:55 plain split GISS-E2-1-G 
+15:17:09 plain split HadGEM3-GC31-LL 
+15:17:22 plain split INM-CM4-8 
+15:17:36 plain split INM-CM5-0 
+15:17:49 plain split IPSL-CM6A-LR 
+15:18:03 plain split KACE-1-0-G 
+15:18:17 plain split KIOST-ESM 
+15:18:31 plain split MIROC-ES2L 
+15:18:44 plain split MIROC6 
+15:18:58 plain split MPI-ESM1-2-HR 
+15:19:12 plain split MPI-ESM1-2-LR 
+15:19:25 plain split MRI-ESM2-0 
+15:19:39 plain split NorESM2-LM 
+15:19:52 plain split NorESM2-MM 
+15:20:06 plain split TaiESM1 
+15:20:20 plain split UKESM1-0-LL 
+15:21:11 projection ACCESS-CM2 ssp245 
+15:21:18 projection ACCESS-CM2 ssp585 
+15:21:25 projection ACCESS-ESM1-5 ssp245 
+15:21:31 projection ACCESS-ESM1-5 ssp585 
+15:21:38 projection CanESM5 ssp245 
+15:21:44 projection CanESM5 ssp585 
+15:21:51 projection CMCC-ESM2 ssp245 
+15:21:58 projection CMCC-ESM2 ssp585 
+15:22:04 projection CNRM-CM6-1 ssp245 
+15:22:11 projection CNRM-CM6-1 ssp585 
+15:22:18 projection CNRM-ESM2-1 ssp245 
+15:22:24 projection CNRM-ESM2-1 ssp585 
+15:22:31 projection EC-Earth3 ssp245 
+15:22:38 projection EC-Earth3 ssp585 
+15:22:44 projection EC-Earth3-Veg-LR ssp245 
+15:22:51 projection EC-Earth3-Veg-LR ssp585 
+15:22:58 projection FGOALS-g3 ssp245 
+15:23:05 projection FGOALS-g3 ssp585 
+15:23:11 projection GFDL-CM4 ssp245 
+15:23:18 projection GFDL-CM4 ssp585 
+15:23:24 projection GFDL-ESM4 ssp245 
+15:23:28 projection GFDL-ESM4 ssp585 
+15:23:33 projection GISS-E2-1-G ssp245 
+15:23:37 projection GISS-E2-1-G ssp585 
+15:23:42 projection HadGEM3-GC31-LL ssp245 
+15:23:46 projection HadGEM3-GC31-LL ssp585 
+15:23:50 projection INM-CM4-8 ssp245 
+15:23:55 projection INM-CM4-8 ssp585 
+15:23:59 projection INM-CM5-0 ssp245 
+15:24:03 projection INM-CM5-0 ssp585 
+15:24:08 projection IPSL-CM6A-LR ssp245 
+15:24:12 projection IPSL-CM6A-LR ssp585 
+15:24:16 projection KACE-1-0-G ssp245 
+15:24:21 projection KACE-1-0-G ssp585 
+15:24:25 projection KIOST-ESM ssp245 
+15:24:30 projection KIOST-ESM ssp585 
+15:24:34 projection MIROC-ES2L ssp245 
+15:24:39 projection MIROC-ES2L ssp585 
+15:24:43 projection MIROC6 ssp245 
+15:24:47 projection MIROC6 ssp585 
+15:24:52 projection MPI-ESM1-2-HR ssp245 
+15:24:57 projection MPI-ESM1-2-HR ssp585 
+15:25:01 projection MPI-ESM1-2-LR ssp245 
+15:25:05 projection MPI-ESM1-2-LR ssp585 
+15:25:09 projection MRI-ESM2-0 ssp245 
+15:25:14 projection MRI-ESM2-0 ssp585 
+15:25:18 projection NorESM2-LM ssp245 
+15:25:22 projection NorESM2-LM ssp585 
+15:25:27 projection NorESM2-MM ssp245 
+15:25:31 projection NorESM2-MM ssp585 
+15:25:35 projection TaiESM1 ssp245 
+15:25:40 projection TaiESM1 ssp585 
+15:25:44 projection UKESM1-0-LL ssp245 
+15:25:48 projection UKESM1-0-LL ssp585 
+16:06:37 QDM main permonth ACCESS-CM2 
+16:06:45 QDM main permonth ACCESS-ESM1-5 
+16:06:54 QDM main permonth CanESM5 
+16:07:02 QDM main permonth CMCC-ESM2 
+16:07:10 QDM main permonth CNRM-CM6-1 
+16:07:18 QDM main permonth CNRM-ESM2-1 
+16:07:26 QDM main permonth EC-Earth3 
+16:07:34 QDM main permonth EC-Earth3-Veg-LR 
+16:07:43 QDM main permonth FGOALS-g3 
+16:07:51 QDM main permonth GFDL-CM4 
+16:07:59 QDM main permonth GFDL-ESM4 
+16:08:07 QDM main permonth GISS-E2-1-G 
+16:08:16 QDM main permonth HadGEM3-GC31-LL 
+16:08:24 QDM main permonth INM-CM4-8 
+16:08:32 QDM main permonth INM-CM5-0 
+16:08:40 QDM main permonth IPSL-CM6A-LR 
+16:08:48 QDM main permonth KACE-1-0-G 
+16:08:56 QDM main permonth KIOST-ESM 
+16:09:05 QDM main permonth MIROC-ES2L 
+16:09:13 QDM main permonth MIROC6 
+16:09:21 QDM main permonth MPI-ESM1-2-HR 
+16:09:29 QDM main permonth MPI-ESM1-2-LR 
+16:09:37 QDM main permonth MRI-ESM2-0 
+16:09:46 QDM main permonth NorESM2-LM 
+16:09:54 QDM main permonth NorESM2-MM 
+16:10:02 QDM main permonth TaiESM1 
+16:10:10 QDM main permonth UKESM1-0-LL 
+16:10:25 QDM S1 pooled_std ACCESS-CM2 
+16:10:36 QDM S1 pooled_std ACCESS-ESM1-5 
+16:10:46 QDM S1 pooled_std CanESM5 
+16:10:57 QDM S1 pooled_std CMCC-ESM2 
+16:11:08 QDM S1 pooled_std CNRM-CM6-1 
+16:11:19 QDM S1 pooled_std CNRM-ESM2-1 
+16:11:29 QDM S1 pooled_std EC-Earth3 
+16:11:40 QDM S1 pooled_std EC-Earth3-Veg-LR 
+16:11:50 QDM S1 pooled_std FGOALS-g3 
+16:12:01 QDM S1 pooled_std GFDL-CM4 
+16:12:12 QDM S1 pooled_std GFDL-ESM4 
+16:12:23 QDM S1 pooled_std GISS-E2-1-G 
+16:12:33 QDM S1 pooled_std HadGEM3-GC31-LL 
+16:12:44 QDM S1 pooled_std INM-CM4-8 
+16:12:55 QDM S1 pooled_std INM-CM5-0 
+16:13:05 QDM S1 pooled_std IPSL-CM6A-LR 
+16:13:16 QDM S1 pooled_std KACE-1-0-G 
+16:13:27 QDM S1 pooled_std KIOST-ESM 
+16:13:37 QDM S1 pooled_std MIROC-ES2L 
+16:13:48 QDM S1 pooled_std MIROC6 
+16:13:59 QDM S1 pooled_std MPI-ESM1-2-HR 
+16:14:09 QDM S1 pooled_std MPI-ESM1-2-LR 
+16:14:20 QDM S1 pooled_std MRI-ESM2-0 
+16:14:31 QDM S1 pooled_std NorESM2-LM 
+16:14:41 QDM S1 pooled_std NorESM2-MM 
+16:14:52 QDM S1 pooled_std TaiESM1 
+16:15:03 QDM S1 pooled_std UKESM1-0-LL 
+16:15:19 QDM S2 pooled ACCESS-CM2 
+16:15:29 QDM S2 pooled ACCESS-ESM1-5 
+16:15:39 QDM S2 pooled CanESM5 
+16:15:49 QDM S2 pooled CMCC-ESM2 
+16:15:59 QDM S2 pooled CNRM-CM6-1 
+16:16:09 QDM S2 pooled CNRM-ESM2-1 
+16:16:19 QDM S2 pooled EC-Earth3 
+16:16:29 QDM S2 pooled EC-Earth3-Veg-LR 
+16:16:39 QDM S2 pooled FGOALS-g3 
+16:16:49 QDM S2 pooled GFDL-CM4 
+16:16:59 QDM S2 pooled GFDL-ESM4 
+16:17:09 QDM S2 pooled GISS-E2-1-G 
+16:17:19 QDM S2 pooled HadGEM3-GC31-LL 
+16:17:29 QDM S2 pooled INM-CM4-8 
+16:17:39 QDM S2 pooled INM-CM5-0 
+16:17:49 QDM S2 pooled IPSL-CM6A-LR 
+16:17:59 QDM S2 pooled KACE-1-0-G 
+16:18:09 QDM S2 pooled KIOST-ESM 
+16:18:19 QDM S2 pooled MIROC-ES2L 
+16:18:29 QDM S2 pooled MIROC6 
+16:18:39 QDM S2 pooled MPI-ESM1-2-HR 
+16:18:49 QDM S2 pooled MPI-ESM1-2-LR 
+16:18:59 QDM S2 pooled MRI-ESM2-0 
+16:19:09 QDM S2 pooled NorESM2-LM 
+16:19:19 QDM S2 pooled NorESM2-MM 
+16:19:29 QDM S2 pooled TaiESM1 
+16:19:39 QDM S2 pooled UKESM1-0-LL 
+16:19:55 QDM terraclimate permonth ACCESS-CM2 
+16:20:04 QDM terraclimate permonth ACCESS-ESM1-5 
+16:20:12 QDM terraclimate permonth CanESM5 
+16:20:20 QDM terraclimate permonth CMCC-ESM2 
+16:20:28 QDM terraclimate permonth CNRM-CM6-1 
+16:20:36 QDM terraclimate permonth CNRM-ESM2-1 
+16:20:44 QDM terraclimate permonth EC-Earth3 
+16:20:52 QDM terraclimate permonth EC-Earth3-Veg-LR 
+16:21:01 QDM terraclimate permonth FGOALS-g3 
+16:21:09 QDM terraclimate permonth GFDL-CM4 
+16:21:17 QDM terraclimate permonth GFDL-ESM4 
+16:21:25 QDM terraclimate permonth GISS-E2-1-G 
+16:21:33 QDM terraclimate permonth HadGEM3-GC31-LL 
+16:21:41 QDM terraclimate permonth INM-CM4-8 
+16:21:49 QDM terraclimate permonth INM-CM5-0 
+16:21:57 QDM terraclimate permonth IPSL-CM6A-LR 
+16:22:06 QDM terraclimate permonth KACE-1-0-G 
+16:22:14 QDM terraclimate permonth KIOST-ESM 
+16:22:22 QDM terraclimate permonth MIROC-ES2L 
+16:22:30 QDM terraclimate permonth MIROC6 
+16:22:39 QDM terraclimate permonth MPI-ESM1-2-HR 
+16:22:47 QDM terraclimate permonth MPI-ESM1-2-LR 
+16:22:55 QDM terraclimate permonth MRI-ESM2-0 
+16:23:04 QDM terraclimate permonth NorESM2-LM 
+16:23:12 QDM terraclimate permonth NorESM2-MM 
+16:23:20 QDM terraclimate permonth TaiESM1 
+16:23:28 QDM terraclimate permonth UKESM1-0-LL 
+16:28:19 plain split ACCESS-CM2 
+16:28:27 plain split ACCESS-ESM1-5 
+16:28:34 plain split CanESM5 
+16:28:42 plain split CMCC-ESM2 
+16:28:49 plain split CNRM-CM6-1 
+16:28:57 plain split CNRM-ESM2-1 
+16:29:04 plain split EC-Earth3 
+16:29:12 plain split EC-Earth3-Veg-LR 
+16:29:19 plain split FGOALS-g3 
+16:29:27 plain split GFDL-CM4 
+16:29:34 plain split GFDL-ESM4 
+16:29:42 plain split GISS-E2-1-G 
+16:29:49 plain split HadGEM3-GC31-LL 
+16:29:56 plain split INM-CM4-8 
+16:30:04 plain split INM-CM5-0 
+16:30:12 plain split IPSL-CM6A-LR 
+16:30:19 plain split KACE-1-0-G 
+16:30:26 plain split KIOST-ESM 
+16:30:34 plain split MIROC-ES2L 
+16:30:41 plain split MIROC6 
+16:30:48 plain split MPI-ESM1-2-HR 
+16:30:56 plain split MPI-ESM1-2-LR 
+16:31:03 plain split MRI-ESM2-0 
+16:31:11 plain split NorESM2-LM 
+16:31:18 plain split NorESM2-MM 
+16:31:26 plain split TaiESM1 
+16:31:33 plain split UKESM1-0-LL 
+16:32:01 projection ACCESS-CM2 ssp245 
+16:32:04 projection ACCESS-CM2 ssp585 
+16:32:08 projection ACCESS-ESM1-5 ssp245 
+16:32:11 projection ACCESS-ESM1-5 ssp585 
+16:32:15 projection CanESM5 ssp245 
+16:32:19 projection CanESM5 ssp585 
+16:32:22 projection CMCC-ESM2 ssp245 
+16:32:26 projection CMCC-ESM2 ssp585 
+16:32:30 projection CNRM-CM6-1 ssp245 
+16:32:33 projection CNRM-CM6-1 ssp585 
+16:32:37 projection CNRM-ESM2-1 ssp245 
+16:32:41 projection CNRM-ESM2-1 ssp585 
+16:32:44 projection EC-Earth3 ssp245 
+16:32:48 projection EC-Earth3 ssp585 
+16:32:51 projection EC-Earth3-Veg-LR ssp245 
+16:32:55 projection EC-Earth3-Veg-LR ssp585 
+16:32:58 projection FGOALS-g3 ssp245 
+16:33:02 projection FGOALS-g3 ssp585 
+16:33:06 projection GFDL-CM4 ssp245 
+16:33:09 projection GFDL-CM4 ssp585 
+16:33:13 projection GFDL-ESM4 ssp245 
+16:33:17 projection GFDL-ESM4 ssp585 
+16:33:20 projection GISS-E2-1-G ssp245 
+16:33:24 projection GISS-E2-1-G ssp585 
+16:33:28 projection HadGEM3-GC31-LL ssp245 
+16:33:31 projection HadGEM3-GC31-LL ssp585 
+16:33:35 projection INM-CM4-8 ssp245 
+16:33:38 projection INM-CM4-8 ssp585 
+16:33:42 projection INM-CM5-0 ssp245 
+16:33:46 projection INM-CM5-0 ssp585 
+16:33:50 projection IPSL-CM6A-LR ssp245 
+16:33:53 projection IPSL-CM6A-LR ssp585 
+16:33:57 projection KACE-1-0-G ssp245 
+16:34:00 projection KACE-1-0-G ssp585 
+16:34:04 projection KIOST-ESM ssp245 
+16:34:08 projection KIOST-ESM ssp585 
+16:34:12 projection MIROC-ES2L ssp245 
+16:34:15 projection MIROC-ES2L ssp585 
+16:34:19 projection MIROC6 ssp245 
+16:34:23 projection MIROC6 ssp585 
+16:34:26 projection MPI-ESM1-2-HR ssp245 
+16:34:30 projection MPI-ESM1-2-HR ssp585 
+16:34:34 projection MPI-ESM1-2-LR ssp245 
+16:34:37 projection MPI-ESM1-2-LR ssp585 
+16:34:41 projection MRI-ESM2-0 ssp245 
+16:34:45 projection MRI-ESM2-0 ssp585 
+16:34:49 projection NorESM2-LM ssp245 
+16:34:53 projection NorESM2-LM ssp585 
+16:34:56 projection NorESM2-MM ssp245 
+16:35:00 projection NorESM2-MM ssp585 
+16:35:03 projection TaiESM1 ssp245 
+16:35:07 projection TaiESM1 ssp585 
+16:35:11 projection UKESM1-0-LL ssp245 
+16:35:14 projection UKESM1-0-LL ssp585 
+16:50:31 QDM main permonth ACCESS-CM2 
+16:50:41 QDM main permonth ACCESS-ESM1-5 
+16:50:49 QDM main permonth CanESM5 
+16:50:58 QDM main permonth CMCC-ESM2 
+16:51:06 QDM main permonth CNRM-CM6-1 
+16:51:15 QDM main permonth CNRM-ESM2-1 
+16:51:24 QDM main permonth EC-Earth3 
+16:51:33 QDM main permonth EC-Earth3-Veg-LR 
+16:51:41 QDM main permonth FGOALS-g3 
+16:51:50 QDM main permonth GFDL-CM4 
+16:51:59 QDM main permonth GFDL-ESM4 
+16:52:08 QDM main permonth GISS-E2-1-G 
+16:52:16 QDM main permonth HadGEM3-GC31-LL 
+16:52:25 QDM main permonth INM-CM4-8 
+16:52:35 QDM main permonth INM-CM5-0 
+16:52:44 QDM main permonth IPSL-CM6A-LR 
+16:52:53 QDM main permonth KACE-1-0-G 
+16:53:01 QDM main permonth KIOST-ESM 
+16:53:10 QDM main permonth MIROC-ES2L 
+16:53:19 QDM main permonth MIROC6 
+16:53:27 QDM main permonth MPI-ESM1-2-HR 
+16:53:36 QDM main permonth MPI-ESM1-2-LR 
+16:53:45 QDM main permonth MRI-ESM2-0 
+16:53:53 QDM main permonth NorESM2-LM 
+16:54:02 QDM main permonth NorESM2-MM 
+16:54:11 QDM main permonth TaiESM1 
+16:54:19 QDM main permonth UKESM1-0-LL 
+16:54:34 QDM S1 pooled_std ACCESS-CM2 
+16:54:45 QDM S1 pooled_std ACCESS-ESM1-5 
+16:54:56 QDM S1 pooled_std CanESM5 
+16:55:08 QDM S1 pooled_std CMCC-ESM2 
+16:55:19 QDM S1 pooled_std CNRM-CM6-1 
+16:55:30 QDM S1 pooled_std CNRM-ESM2-1 
+16:55:42 QDM S1 pooled_std EC-Earth3 
+16:55:53 QDM S1 pooled_std EC-Earth3-Veg-LR 
+16:56:04 QDM S1 pooled_std FGOALS-g3 
+16:56:15 QDM S1 pooled_std GFDL-CM4 
+16:56:26 QDM S1 pooled_std GFDL-ESM4 
+16:56:37 QDM S1 pooled_std GISS-E2-1-G 
+16:56:48 QDM S1 pooled_std HadGEM3-GC31-LL 
+16:57:00 QDM S1 pooled_std INM-CM4-8 
+16:57:11 QDM S1 pooled_std INM-CM5-0 
+16:57:22 QDM S1 pooled_std IPSL-CM6A-LR 
+16:57:33 QDM S1 pooled_std KACE-1-0-G 
+16:57:45 QDM S1 pooled_std KIOST-ESM 
+16:57:56 QDM S1 pooled_std MIROC-ES2L 
+16:58:07 QDM S1 pooled_std MIROC6 
+16:58:18 QDM S1 pooled_std MPI-ESM1-2-HR 
+16:58:30 QDM S1 pooled_std MPI-ESM1-2-LR 
+16:58:41 QDM S1 pooled_std MRI-ESM2-0 
+16:58:53 QDM S1 pooled_std NorESM2-LM 
+16:59:04 QDM S1 pooled_std NorESM2-MM 
+16:59:15 QDM S1 pooled_std TaiESM1 
+16:59:27 QDM S1 pooled_std UKESM1-0-LL 
+16:59:43 QDM S2 pooled ACCESS-CM2 
+16:59:54 QDM S2 pooled ACCESS-ESM1-5 
+17:00:04 QDM S2 pooled CanESM5 
+17:00:15 QDM S2 pooled CMCC-ESM2 
+17:00:25 QDM S2 pooled CNRM-CM6-1 
+17:00:36 QDM S2 pooled CNRM-ESM2-1 
+17:00:46 QDM S2 pooled EC-Earth3 
+17:00:57 QDM S2 pooled EC-Earth3-Veg-LR 
+17:01:08 QDM S2 pooled FGOALS-g3 
+17:01:18 QDM S2 pooled GFDL-CM4 
+17:01:29 QDM S2 pooled GFDL-ESM4 
+17:01:39 QDM S2 pooled GISS-E2-1-G 
+17:01:50 QDM S2 pooled HadGEM3-GC31-LL 
+17:02:00 QDM S2 pooled INM-CM4-8 
+17:02:11 QDM S2 pooled INM-CM5-0 
+17:02:21 QDM S2 pooled IPSL-CM6A-LR 
+17:02:32 QDM S2 pooled KACE-1-0-G 
+17:02:43 QDM S2 pooled KIOST-ESM 
+17:02:53 QDM S2 pooled MIROC-ES2L 
+17:03:04 QDM S2 pooled MIROC6 
+17:03:14 QDM S2 pooled MPI-ESM1-2-HR 
+17:03:25 QDM S2 pooled MPI-ESM1-2-LR 
+17:03:35 QDM S2 pooled MRI-ESM2-0 
+17:03:46 QDM S2 pooled NorESM2-LM 
+17:03:57 QDM S2 pooled NorESM2-MM 
+17:04:07 QDM S2 pooled TaiESM1 
+17:04:18 QDM S2 pooled UKESM1-0-LL 
+17:04:34 QDM terraclimate permonth ACCESS-CM2 
+17:04:43 QDM terraclimate permonth ACCESS-ESM1-5 
+17:04:52 QDM terraclimate permonth CanESM5 
+17:05:00 QDM terraclimate permonth CMCC-ESM2 
+17:05:09 QDM terraclimate permonth CNRM-CM6-1 
+17:05:17 QDM terraclimate permonth CNRM-ESM2-1 
+17:05:26 QDM terraclimate permonth EC-Earth3 
+17:05:35 QDM terraclimate permonth EC-Earth3-Veg-LR 
+17:05:43 QDM terraclimate permonth FGOALS-g3 
+17:05:52 QDM terraclimate permonth GFDL-CM4 
+17:06:01 QDM terraclimate permonth GFDL-ESM4 
+17:06:10 QDM terraclimate permonth GISS-E2-1-G 
+17:06:18 QDM terraclimate permonth HadGEM3-GC31-LL 
+17:06:27 QDM terraclimate permonth INM-CM4-8 
+17:06:35 QDM terraclimate permonth INM-CM5-0 
+17:06:44 QDM terraclimate permonth IPSL-CM6A-LR 
+17:06:52 QDM terraclimate permonth KACE-1-0-G 
+17:07:01 QDM terraclimate permonth KIOST-ESM 
+17:07:10 QDM terraclimate permonth MIROC-ES2L 
+17:07:18 QDM terraclimate permonth MIROC6 
+17:07:27 QDM terraclimate permonth MPI-ESM1-2-HR 
+17:07:35 QDM terraclimate permonth MPI-ESM1-2-LR 
+17:07:44 QDM terraclimate permonth MRI-ESM2-0 
+17:07:52 QDM terraclimate permonth NorESM2-LM 
+17:08:01 QDM terraclimate permonth NorESM2-MM 
+17:08:10 QDM terraclimate permonth TaiESM1 
+17:08:18 QDM terraclimate permonth UKESM1-0-LL 
+17:13:28 plain split ACCESS-CM2 
+17:13:35 plain split ACCESS-ESM1-5 
+17:13:43 plain split CanESM5 
+17:13:51 plain split CMCC-ESM2 
+17:13:58 plain split CNRM-CM6-1 
+17:14:06 plain split CNRM-ESM2-1 
+17:14:14 plain split EC-Earth3 
+17:14:22 plain split EC-Earth3-Veg-LR 
+17:14:29 plain split FGOALS-g3 
+17:14:37 plain split GFDL-CM4 
+17:14:45 plain split GFDL-ESM4 
+17:14:52 plain split GISS-E2-1-G 
+17:15:00 plain split HadGEM3-GC31-LL 
+17:15:07 plain split INM-CM4-8 
+17:15:15 plain split INM-CM5-0 
+17:15:23 plain split IPSL-CM6A-LR 
+17:15:31 plain split KACE-1-0-G 
+17:15:39 plain split KIOST-ESM 
+17:15:46 plain split MIROC-ES2L 
+17:15:54 plain split MIROC6 
+17:16:02 plain split MPI-ESM1-2-HR 
+17:16:09 plain split MPI-ESM1-2-LR 
+17:16:17 plain split MRI-ESM2-0 
+17:16:25 plain split NorESM2-LM 
+17:16:32 plain split NorESM2-MM 
+17:16:40 plain split TaiESM1 
+17:16:48 plain split UKESM1-0-LL 
+17:17:16 projection ACCESS-CM2 ssp245 
+17:17:20 projection ACCESS-CM2 ssp585 
+17:17:23 projection ACCESS-ESM1-5 ssp245 
+17:17:27 projection ACCESS-ESM1-5 ssp585 
+17:17:31 projection CanESM5 ssp245 
+17:17:34 projection CanESM5 ssp585 
+17:17:38 projection CMCC-ESM2 ssp245 
+17:17:42 projection CMCC-ESM2 ssp585 
+17:17:45 projection CNRM-CM6-1 ssp245 
+17:17:49 projection CNRM-CM6-1 ssp585 
+17:17:53 projection CNRM-ESM2-1 ssp245 
+17:17:56 projection CNRM-ESM2-1 ssp585 
+17:18:00 projection EC-Earth3 ssp245 
+17:18:04 projection EC-Earth3 ssp585 
+17:18:07 projection EC-Earth3-Veg-LR ssp245 
+17:18:11 projection EC-Earth3-Veg-LR ssp585 
+17:18:15 projection FGOALS-g3 ssp245 
+17:18:19 projection FGOALS-g3 ssp585 
+17:18:23 projection GFDL-CM4 ssp245 
+17:18:26 projection GFDL-CM4 ssp585 
+17:18:30 projection GFDL-ESM4 ssp245 
+17:18:33 projection GFDL-ESM4 ssp585 
+17:18:37 projection GISS-E2-1-G ssp245 
+17:18:41 projection GISS-E2-1-G ssp585 
+17:18:44 projection HadGEM3-GC31-LL ssp245 
+17:18:48 projection HadGEM3-GC31-LL ssp585 
+17:18:51 projection INM-CM4-8 ssp245 
+17:18:55 projection INM-CM4-8 ssp585 
+17:18:59 projection INM-CM5-0 ssp245 
+17:19:02 projection INM-CM5-0 ssp585 
+17:19:06 projection IPSL-CM6A-LR ssp245 
+17:19:10 projection IPSL-CM6A-LR ssp585 
+17:19:14 projection KACE-1-0-G ssp245 
+17:19:17 projection KACE-1-0-G ssp585 
+17:19:21 projection KIOST-ESM ssp245 
+17:19:25 projection KIOST-ESM ssp585 
+17:19:28 projection MIROC-ES2L ssp245 
+17:19:33 projection MIROC-ES2L ssp585 
+17:19:36 projection MIROC6 ssp245 
+17:19:40 projection MIROC6 ssp585 
+17:19:43 projection MPI-ESM1-2-HR ssp245 
+17:19:47 projection MPI-ESM1-2-HR ssp585 
+17:19:50 projection MPI-ESM1-2-LR ssp245 
+17:19:54 projection MPI-ESM1-2-LR ssp585 
+17:19:58 projection MRI-ESM2-0 ssp245 
+17:20:01 projection MRI-ESM2-0 ssp585 
+17:20:05 projection NorESM2-LM ssp245 
+17:20:08 projection NorESM2-LM ssp585 
+17:20:12 projection NorESM2-MM ssp245 
+17:20:16 projection NorESM2-MM ssp585 
+17:20:20 projection TaiESM1 ssp245 
+17:20:23 projection TaiESM1 ssp585 
+17:20:27 projection UKESM1-0-LL ssp245 
+17:20:31 projection UKESM1-0-LL ssp585 
+17:36:07 QDM main permonth ACCESS-CM2 
+17:36:15 QDM main permonth ACCESS-ESM1-5 
+17:36:23 QDM main permonth CanESM5 
+17:36:31 QDM main permonth CMCC-ESM2 
+17:36:39 QDM main permonth CNRM-CM6-1 
+17:36:48 QDM main permonth CNRM-ESM2-1 
+17:36:56 QDM main permonth EC-Earth3 
+17:37:04 QDM main permonth EC-Earth3-Veg-LR 
+17:37:12 QDM main permonth FGOALS-g3 
+17:37:21 QDM main permonth GFDL-CM4 
+17:37:29 QDM main permonth GFDL-ESM4 
+17:37:37 QDM main permonth GISS-E2-1-G 
+17:37:45 QDM main permonth HadGEM3-GC31-LL 
+17:37:53 QDM main permonth INM-CM4-8 
+17:38:02 QDM main permonth INM-CM5-0 
+17:38:10 QDM main permonth IPSL-CM6A-LR 
+17:38:18 QDM main permonth KACE-1-0-G 
+17:38:27 QDM main permonth KIOST-ESM 
+17:38:35 QDM main permonth MIROC-ES2L 
+17:38:43 QDM main permonth MIROC6 
+17:38:51 QDM main permonth MPI-ESM1-2-HR 
+17:38:59 QDM main permonth MPI-ESM1-2-LR 
+17:39:07 QDM main permonth MRI-ESM2-0 
+17:39:16 QDM main permonth NorESM2-LM 
+17:39:24 QDM main permonth NorESM2-MM 
+17:39:32 QDM main permonth TaiESM1 
+17:39:40 QDM main permonth UKESM1-0-LL 
+17:39:55 QDM S1 pooled_std ACCESS-CM2 
+17:40:06 QDM S1 pooled_std ACCESS-ESM1-5 
+17:40:16 QDM S1 pooled_std CanESM5 
+17:40:27 QDM S1 pooled_std CMCC-ESM2 
+17:40:38 QDM S1 pooled_std CNRM-CM6-1 
+17:40:48 QDM S1 pooled_std CNRM-ESM2-1 
+17:40:59 QDM S1 pooled_std EC-Earth3 
+17:41:10 QDM S1 pooled_std EC-Earth3-Veg-LR 
+17:41:21 QDM S1 pooled_std FGOALS-g3 
+17:41:32 QDM S1 pooled_std GFDL-CM4 
+17:41:42 QDM S1 pooled_std GFDL-ESM4 
+17:41:53 QDM S1 pooled_std GISS-E2-1-G 
+17:42:04 QDM S1 pooled_std HadGEM3-GC31-LL 
+17:42:14 QDM S1 pooled_std INM-CM4-8 
+17:42:25 QDM S1 pooled_std INM-CM5-0 
+17:42:36 QDM S1 pooled_std IPSL-CM6A-LR 
+17:42:47 QDM S1 pooled_std KACE-1-0-G 
+17:42:57 QDM S1 pooled_std KIOST-ESM 
+17:43:08 QDM S1 pooled_std MIROC-ES2L 
+17:43:19 QDM S1 pooled_std MIROC6 
+17:43:30 QDM S1 pooled_std MPI-ESM1-2-HR 
+17:43:41 QDM S1 pooled_std MPI-ESM1-2-LR 
+17:43:51 QDM S1 pooled_std MRI-ESM2-0 
+17:44:02 QDM S1 pooled_std NorESM2-LM 
+17:44:13 QDM S1 pooled_std NorESM2-MM 
+17:44:23 QDM S1 pooled_std TaiESM1 
+17:44:34 QDM S1 pooled_std UKESM1-0-LL 
+17:44:50 QDM S2 pooled ACCESS-CM2 
+17:45:01 QDM S2 pooled ACCESS-ESM1-5 
+17:45:10 QDM S2 pooled CanESM5 
+17:45:20 QDM S2 pooled CMCC-ESM2 
+17:45:31 QDM S2 pooled CNRM-CM6-1 
+17:45:41 QDM S2 pooled CNRM-ESM2-1 
+17:45:51 QDM S2 pooled EC-Earth3 
+17:46:01 QDM S2 pooled EC-Earth3-Veg-LR 
+17:46:11 QDM S2 pooled FGOALS-g3 
+17:46:21 QDM S2 pooled GFDL-CM4 
+17:46:31 QDM S2 pooled GFDL-ESM4 
+17:46:41 QDM S2 pooled GISS-E2-1-G 
+17:46:51 QDM S2 pooled HadGEM3-GC31-LL 
+17:47:01 QDM S2 pooled INM-CM4-8 
+17:47:11 QDM S2 pooled INM-CM5-0 
+17:47:21 QDM S2 pooled IPSL-CM6A-LR 
+17:47:31 QDM S2 pooled KACE-1-0-G 
+17:47:41 QDM S2 pooled KIOST-ESM 
+17:47:51 QDM S2 pooled MIROC-ES2L 
+17:48:02 QDM S2 pooled MIROC6 
+17:48:12 QDM S2 pooled MPI-ESM1-2-HR 
+17:48:22 QDM S2 pooled MPI-ESM1-2-LR 
+17:48:32 QDM S2 pooled MRI-ESM2-0 
+17:48:42 QDM S2 pooled NorESM2-LM 
+17:48:53 QDM S2 pooled NorESM2-MM 
+17:49:03 QDM S2 pooled TaiESM1 
+17:49:13 QDM S2 pooled UKESM1-0-LL 
+17:49:29 QDM terraclimate permonth ACCESS-CM2 
+17:49:37 QDM terraclimate permonth ACCESS-ESM1-5 
+17:49:45 QDM terraclimate permonth CanESM5 
+17:49:54 QDM terraclimate permonth CMCC-ESM2 
+17:50:02 QDM terraclimate permonth CNRM-CM6-1 
+17:50:10 QDM terraclimate permonth CNRM-ESM2-1 
+17:50:18 QDM terraclimate permonth EC-Earth3 
+17:50:26 QDM terraclimate permonth EC-Earth3-Veg-LR 
+17:50:34 QDM terraclimate permonth FGOALS-g3 
+17:50:42 QDM terraclimate permonth GFDL-CM4 
+17:50:51 QDM terraclimate permonth GFDL-ESM4 
+17:50:59 QDM terraclimate permonth GISS-E2-1-G 
+17:51:07 QDM terraclimate permonth HadGEM3-GC31-LL 
+17:51:15 QDM terraclimate permonth INM-CM4-8 
+17:51:23 QDM terraclimate permonth INM-CM5-0 
+17:51:31 QDM terraclimate permonth IPSL-CM6A-LR 
+17:51:39 QDM terraclimate permonth KACE-1-0-G 
+17:51:48 QDM terraclimate permonth KIOST-ESM 
+17:51:56 QDM terraclimate permonth MIROC-ES2L 
+17:52:04 QDM terraclimate permonth MIROC6 
+17:52:12 QDM terraclimate permonth MPI-ESM1-2-HR 
+17:52:20 QDM terraclimate permonth MPI-ESM1-2-LR 
+17:52:28 QDM terraclimate permonth MRI-ESM2-0 
+17:52:36 QDM terraclimate permonth NorESM2-LM 
+17:52:45 QDM terraclimate permonth NorESM2-MM 
+17:52:53 QDM terraclimate permonth TaiESM1 
+17:53:01 QDM terraclimate permonth UKESM1-0-LL 
+17:58:37 plain split ACCESS-CM2 
+17:58:46 plain split ACCESS-ESM1-5 
+17:58:55 plain split CanESM5 
+17:59:04 plain split CMCC-ESM2 
+17:59:13 plain split CNRM-CM6-1 
+17:59:21 plain split CNRM-ESM2-1 
+17:59:30 plain split EC-Earth3 
+17:59:39 plain split EC-Earth3-Veg-LR 
+17:59:48 plain split FGOALS-g3 
+17:59:57 plain split GFDL-CM4 
+18:00:06 plain split GFDL-ESM4 
+18:00:15 plain split GISS-E2-1-G 
+18:00:24 plain split HadGEM3-GC31-LL 
+18:00:33 plain split INM-CM4-8 
+18:00:42 plain split INM-CM5-0 
+18:00:51 plain split IPSL-CM6A-LR 
+18:00:59 plain split KACE-1-0-G 
+18:01:08 plain split KIOST-ESM 
+18:01:17 plain split MIROC-ES2L 
+18:01:26 plain split MIROC6 
+18:01:35 plain split MPI-ESM1-2-HR 
+18:01:44 plain split MPI-ESM1-2-LR 
+18:01:52 plain split MRI-ESM2-0 
+18:02:01 plain split NorESM2-LM 
+18:02:10 plain split NorESM2-MM 
+18:02:19 plain split TaiESM1 
+18:02:28 plain split UKESM1-0-LL 
+18:03:01 projection ACCESS-CM2 ssp245 
+18:03:05 projection ACCESS-CM2 ssp585 
+18:03:09 projection ACCESS-ESM1-5 ssp245 
+18:03:13 projection ACCESS-ESM1-5 ssp585 
+18:03:18 projection CanESM5 ssp245 
+18:03:22 projection CanESM5 ssp585 
+18:03:26 projection CMCC-ESM2 ssp245 
+18:03:31 projection CMCC-ESM2 ssp585 
+18:03:35 projection CNRM-CM6-1 ssp245 
+18:03:39 projection CNRM-CM6-1 ssp585 
+18:03:44 projection CNRM-ESM2-1 ssp245 
+18:03:48 projection CNRM-ESM2-1 ssp585 
+18:03:52 projection EC-Earth3 ssp245 
+18:03:57 projection EC-Earth3 ssp585 
+18:04:01 projection EC-Earth3-Veg-LR ssp245 
+18:04:05 projection EC-Earth3-Veg-LR ssp585 
+18:04:10 projection FGOALS-g3 ssp245 
+18:04:14 projection FGOALS-g3 ssp585 
+18:04:18 projection GFDL-CM4 ssp245 
+18:04:23 projection GFDL-CM4 ssp585 
+18:04:27 projection GFDL-ESM4 ssp245 
+18:04:32 projection GFDL-ESM4 ssp585 
+18:04:36 projection GISS-E2-1-G ssp245 
+18:04:40 projection GISS-E2-1-G ssp585 
+18:04:45 projection HadGEM3-GC31-LL ssp245 
+18:04:49 projection HadGEM3-GC31-LL ssp585 
+18:04:54 projection INM-CM4-8 ssp245 
+18:04:58 projection INM-CM4-8 ssp585 
+18:05:02 projection INM-CM5-0 ssp245 
+18:05:07 projection INM-CM5-0 ssp585 
+18:05:11 projection IPSL-CM6A-LR ssp245 
+18:05:16 projection IPSL-CM6A-LR ssp585 
+18:05:20 projection KACE-1-0-G ssp245 
+18:05:24 projection KACE-1-0-G ssp585 
+18:05:28 projection KIOST-ESM ssp245 
+18:05:32 projection KIOST-ESM ssp585 
+18:05:37 projection MIROC-ES2L ssp245 
+18:05:41 projection MIROC-ES2L ssp585 
+18:05:45 projection MIROC6 ssp245 
+18:05:50 projection MIROC6 ssp585 
+18:05:54 projection MPI-ESM1-2-HR ssp245 
+18:05:58 projection MPI-ESM1-2-HR ssp585 
+18:06:03 projection MPI-ESM1-2-LR ssp245 
+18:06:07 projection MPI-ESM1-2-LR ssp585 
+18:06:11 projection MRI-ESM2-0 ssp245 
+18:06:16 projection MRI-ESM2-0 ssp585 
+18:06:20 projection NorESM2-LM ssp245 
+18:06:24 projection NorESM2-LM ssp585 
+18:06:29 projection NorESM2-MM ssp245 
+18:06:33 projection NorESM2-MM ssp585 
+18:06:37 projection TaiESM1 ssp245 
+18:06:42 projection TaiESM1 ssp585 
+18:06:46 projection UKESM1-0-LL ssp245 
+18:06:51 projection UKESM1-0-LL ssp585 

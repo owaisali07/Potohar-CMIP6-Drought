@@ -1,0 +1,48 @@
+Spherical geometry (s2) switched off
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+dist is assumed to be in decimal degrees (arc_degrees).
+although coordinates are longitude/latitude, st_intersects assumes that they
+are planar
+<SpatRaster> resampled to 2000376 cells.
+<SpatRaster> resampled to 2000376 cells.
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+Warning messages:
+1: In st_buffer.sfc(st_union(basin), 0.02) :
+  st_buffer does not correctly buffer longitude/latitude data
+2: st_point_on_surface assumes attributes are constant over geometries 
+3: In st_point_on_surface.sfc(st_geometry(x)) :
+  st_point_on_surface may not give correct results for longitude/latitude data
+4: Removed 2 rows containing missing values or values outside the scale range
+(`geom_col()`). 
+5: Removed 33 rows containing missing values or values outside the scale range
+(`geom_line()`). 
+6: Removed 2 rows containing missing values or values outside the scale range
+(`geom_col()`). 
+7: Removed 33 rows containing missing values or values outside the scale range
+(`geom_line()`). 

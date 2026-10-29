@@ -1,0 +1,14 @@
+# regenerable caches and large binaries (full byte copy: ../analysis_v1_preaudit/)
+cache_R/
+__pycache__/
+*.nc
+!03_et0/*.nc
+!04_indices_obs/*.nc
+*.tif
+*.tiff
+*.rds
+*.gpkg
+logs/*.out
+data/pmd/
+data/wapda/
+cache_R/

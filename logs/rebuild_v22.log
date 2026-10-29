@@ -1,0 +1,9 @@
+2026-10-15 10:49:45 restoring renv.lock into C:\Users\Owais\AppData\Local\Temp\claude\d--Papers-Paper-6\77578358-25b5-4668-bf08-a13ed76961aa\scratchpad\renv_lib_rebuild2 from https://packagemanager.posit.co/cran/2026-10-01 ; https://packagemanager.posit.co/cran/2026-10-13 ; https://cloud.r-project.org 
+2026-10-15 10:50:54 version check against renv.lock: 192 of 192 match 
+2026-10-15 10:50:54 library restored: 178 packages, 1.2 min 
+2026-10-15 12:01:29 render: exit 0 in 70.6 min (logs/rebuild_render.out) 
+2026-10-15 12:01:38 tests: exit 0 in 0.2 min (logs/rebuild_tests.out) 
+2026-10-15 12:01:39 17_check_paths: exit 0 in 0 min (logs/rebuild_17_check_paths.out) 
+2026-10-15 12:01:42 16_check_number_trace: exit 0 in 0 min (logs/rebuild_16_check_number_trace.out) 
+2026-10-15 12:02:11 18_explain_warnings: exit 0 in 0.5 min (logs/rebuild_18_explain_warnings.out) 
+2026-10-15 12:02:11 total 72.4 min; status: render=0, tests=0, 17_check_paths.R=0, 16_check_number_trace.R=0, 18_explain_warnings.R=0 

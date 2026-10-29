@@ -1,0 +1,2 @@
+D:\downscaling\outputs\netcdf\corrdiff_precipitation_historical_validation.nc
+D:\downscaling\outputs\netcdf\corrdiff_temperature_historical_validation.nc

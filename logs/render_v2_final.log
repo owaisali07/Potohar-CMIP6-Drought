@@ -1,0 +1,7 @@
+﻿Rscript.exe : [WARNING] Deprecated: --mathjax. Use --math-method=mathjax[:URL] instead.
+At line:1 char:420
++ ... brary\bin"; & "C:\Users\Owais\AppData\Local\Programs\R\R-4.6.1\bin\Rs ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([WARNING] Depre...[:URL] instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

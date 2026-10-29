@@ -1,0 +1,41 @@
+Station,Role,Lat (°N),Lon (°E),Elev. (m),P compl. 1985–2014 (%),ET0 compl. 1985–2014 (%),Obs. humidity/wind 1985–2014 (%),P compl. 1981–2024 (%),Homog. ET0,Homog. P,Homog. Tmax,Homog. Tmin,Used,Evaluated for
+Akhnoor,88 km outside,32.88,74.73,331,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Arizal,94 km outside,33.92,74.6,1615,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Badgam,92 km outside,33.83,74.58,1587,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Balakot,42 km outside,34.383,73.35,981,29,29,29,42,insufficient,insufficient,insufficient,insufficient,no,–
+Baramulla,80 km outside,34.2,74.37,1572,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Bhimber,25 km outside,32.98,74.07,326,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Cherat,16 km outside,33.817,71.883,1372,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Handwara,82 km outside,34.4,74.28,1585,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Kakul,27 km outside,34.183,73.25,1309,30,30,30,43,insufficient,insufficient,insufficient,insufficient,no,–
+Karnah,89 km outside,34.67,74.08,2799,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Kohat,36 km outside,33.567,71.433,513,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Kotli,25 km outside,33.52,73.9,595,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Landikotal,92 km outside,34.1,71.133,1068,0,7,7,0,insufficient,insufficient,insufficient,insufficient,no,–
+Langet,82 km outside,34.37,74.3,1588,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Malam Jabba,89 km outside,34.75,72.9,2691,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Mandi Bahauddin,9 km outside,32.583,73.5,253,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Mianwali,32 km outside,32.563,71.571,210,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Mirpur,12 km outside,33.2,73.8,336,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Muzaffar Abad,39 km outside,34.367,73.483,702,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Muzaffarabad,35 km outside,34.333,73.517,831,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Muzaffarbad,40 km outside,34.38,73.47,684,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Nowshera,43 km outside,33.15,74.23,599,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Poonch,49 km outside,33.78,74.12,1067,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Rajpuri(Rampur),62 km outside,33.38,74.3,924,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Reasi,96 km outside,33.08,74.83,585,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Risalpur,31 km outside,34.081,71.973,320,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Saidu Sharif,81 km outside,34.733,72.35,951,30,34,34,43,insufficient,insufficient,insufficient,insufficient,no,–
+Sargodha (WMO41593),41 km outside,32.05,72.667,187,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Sargodha (WMO41594),41 km outside,32.05,72.667,188,63,79,79,57,doubtful,insufficient,doubtful,doubtful,no,–
+Sialkot (WMO41599),88 km outside,32.5,74.533,255,0,18,18,0,insufficient,insufficient,insufficient,insufficient,no,–
+Sialkot (WMO41600),88 km outside,32.5,74.533,250,35,42,42,46,insufficient,insufficient,insufficient,insufficient,no,–
+Sialkot (WMO69287),88 km outside,32.5,74.533,255,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Sopore,93 km outside,34.3,74.47,1574,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Sri Ranbirsingh,96 km outside,32.62,74.73,288,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Uri,45 km outside,34.05,74.03,1628,0,0,0,0,insufficient,insufficient,insufficient,insufficient,no,–
+Chaklala,inside plateau,33.617,73.099,508,86,98,98,84,suspect,doubtful,suspect,doubtful,P + ET0,"P, Tmin"
+Islamabad (PMD),inside plateau,33.717,73.1,525,87,86,86,68,suspect,doubtful,suspect,doubtful,P + ET0,"P, Tmin"
+Jhelum,inside plateau,32.933,73.717,234,86,92,92,90,doubtful,suspect,suspect,doubtful,P + ET0,"Tmin, ET0"
+Murree (PMD),inside plateau,33.917,73.383,2127,99,100,29,98,suspect,doubtful,suspect,doubtful,P + ET0,none
+Peshawar Intl,51 km outside,34.017,71.583,360,80,90,90,85,doubtful,suspect,suspect,suspect,P + ET0,ET0

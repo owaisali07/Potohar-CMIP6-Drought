@@ -1,0 +1,21 @@
+Error in `describe_delta()`:
+! !is.null(base) is not TRUE
+Backtrace:
+     ▆
+  1. └─base::source(...)
+  2.   ├─base::withVisible(eval(ei, envir))
+  3.   └─base::eval(ei, envir)
+  4.     └─base::eval(ei, envir)
+  5.       ├─P(...)
+  6.       │ ├─officer::body_add_fpar(...)
+  7.       │ │ └─officer::to_wml(value, add_ns = TRUE, style_id = style_id)
+  8.       │ ├─officer::fpar(...)
+  9.       │ ├─officer::ftext(paste0(...), TNR)
+ 10.       │ └─base::paste0(...)
+ 11.       ├─global verb(gword("ssp245", "far", "d_P", "relative"))
+ 12.       └─gword("ssp245", "far", "d_P", "relative")
+ 13.         └─global describe_delta(x$wmean, kind, p = x$wilcox_p, agree = x$agree)
+ 14.           └─base::stopifnot(!is.null(base))
+
+Quitting from Potohar_Drought_Analysis.Rmd:2380-2394 [export]
+Execution halted

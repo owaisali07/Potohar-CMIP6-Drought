@@ -1,0 +1,113 @@
+# Paper 6 - Future Droughts in the Potohar Plateau under CMIP6 Scenarios
+# Single configuration for every Python and R step. Paths are absolute (Windows).
+
+paths:
+  root: "D:/Papers/Paper 6/analysis"
+  raw: "D:/Papers/Paper 6/data_raw"            # downloads (read-only after download)
+  nex_local: "D:/Papers/Paper 3/Paper1_Seasonal_Clock/data/nex-gddp-cmip6"   # pr/tasmax/tasmin (read-only)
+  era5land_local: "D:/Papers/Paper 3/Paper1_Seasonal_Clock/data/era5land_daily"
+  chirps_local: "D:/Papers/Paper 3/Paper1_Seasonal_Clock/data/chirps"
+  boundaries: "D:/Papers/Paper 3/Paper1_Seasonal_Clock/data/boundaries/pak_admin2.shp"
+  downscaling_readonly: "D:/downscaling"       # never written (except the additional/ subfolder below)
+  downscaling_additional: "D:/downscaling/additional"   # new downloads requested by the author (v2.1)
+  paper_root: "D:/Papers/Paper 6"
+  methodology_docx: "D:/Papers/Paper 6/Paper6_Methodology_IEEE.docx"
+  paper3_data: "D:/Papers/Paper 3/Paper1_Seasonal_Clock/data"   # read-only source of Paper 3 inputs (inventory probes)
+
+domain:
+  districts: ["Attock", "Chakwal", "Jhelum", "Rawalpindi", "Islamabad"]
+  potohar_bbox: [71.70, 73.70, 32.40, 34.00]   # lon0, lon1, lat0, lat1 (approx. district extents)
+  buffer_deg: 0.5
+  download_bbox: [71.00, 74.50, 31.75, 34.75]  # W, E, S, N
+  grid_res: 0.25                               # analysis grid = native NEX-GDDP-CMIP6
+
+periods:
+  obs: [1981, 2024]
+  baseline: [1985, 2014]                       # calibration of every index (obs and sim)
+  baseline_alt: [1981, 2010]                   # sensitivity: alternative baseline
+  hist_sim: [1981, 2014]
+  split_a: [1985, 1999]
+  split_b: [2000, 2014]
+  near: [2025, 2050]
+  mid: [2051, 2075]
+  far: [2076, 2100]
+  modis: [2000, 2024]
+
+indices:
+  scales: [1, 3, 6, 12]
+  run_threshold: -1.0
+  threshold_sensitivity: -1.5
+  concurrent_threshold: -1.5
+  station_dz_max: 500                          # v3.1: max |station elevation - 0.25 deg cell mean| (m) for point-to-grid evaluation
+  gwl: [1.5, 2.0, 3.0]
+  gwl_half_window: 10
+
+wording:                                       # v2.2 Item 1: "no meaningful change" bands (PREREGISTRATION.md)
+  band_relative_pct: 5.0
+  band_pp: 1.0
+  band_degC: 0.1
+  band_index: 0.1
+  band_years_relative_pct: 5.0
+  agree_min: 0.80
+  alpha: 0.05
+
+ensemble:
+  scenarios: ["ssp245", "ssp585"]
+  keep_top: 10
+  robust_agreement: 0.80
+  robust_alpha: 0.05
+  bootstrap_n: 1000
+  seed: 20261012
+  # v2.1 sensitivity (Phase B): top 10 of the v2 ranking, in which Tmax/Tmin were evaluated against TerraClimate (audit M2)
+  sensitivity_set_old: ["ACCESS-ESM1-5", "EC-Earth3", "IPSL-CM6A-LR", "GFDL-ESM4", "MPI-ESM1-2-HR", "FGOALS-g3", "TaiESM1",
+                        "HadGEM3-GC31-LL", "UKESM1-0-LL", "GISS-E2-1-G"]
+  # v2.1 primary set (equal-weight compromise programming, ERA5-Land reference); "old 10" in v2.2 Item 4
+  v21_primary_set: ["MIROC6", "CNRM-CM6-1", "ACCESS-ESM1-5", "GFDL-CM4", "GISS-E2-1-G", "NorESM2-LM", "INM-CM4-8", "NorESM2-MM",
+                    "GFDL-ESM4", "TaiESM1"]
+  # v3 sensitivity: primary set of v2.2 (open-data stations only), frozen at tag frozen-bc-rank (06_gcm_eval/selection_frozen_v22.csv)
+  v22_primary_set: ["MIROC6", "CNRM-CM6-1", "GISS-E2-1-G", "ACCESS-ESM1-5", "NorESM2-MM", "CMCC-ESM2", "INM-CM4-8", "TaiESM1",
+                    "NorESM2-LM", "GFDL-CM4"]
+  # v3.1 sensitivity: v3 selection (PMD stations, before the v3.1 code fixes), 06_gcm_eval/selection_frozen_v3.csv
+  v3_primary_set: ["MIROC6", "GISS-E2-1-G", "NorESM2-MM", "CNRM-CM6-1", "ACCESS-ESM1-5", "CMCC-ESM2", "INM-CM4-8", "CNRM-ESM2-1",
+                   "TaiESM1", "NorESM2-LM"]
+
+# 27 GCMs with all six NEX-GDDP-CMIP6 variables for historical, SSP2-4.5 and SSP5-8.5
+# (NASA NCCS, checked 2026-10-12; see 00_inventory/nccs_availability.csv).
+models:
+  ACCESS-CM2: r1i1p1f1
+  ACCESS-ESM1-5: r1i1p1f1
+  CMCC-ESM2: r1i1p1f1
+  CNRM-CM6-1: r1i1p1f2
+  CNRM-ESM2-1: r1i1p1f2
+  CanESM5: r1i1p1f1
+  EC-Earth3: r1i1p1f1
+  EC-Earth3-Veg-LR: r1i1p1f1
+  FGOALS-g3: r3i1p1f1
+  GFDL-CM4: r1i1p1f1
+  GFDL-ESM4: r1i1p1f1
+  GISS-E2-1-G: r1i1p1f2
+  HadGEM3-GC31-LL: r1i1p1f3
+  INM-CM4-8: r1i1p1f1
+  INM-CM5-0: r1i1p1f1
+  IPSL-CM6A-LR: r1i1p1f1
+  KACE-1-0-G: r1i1p1f1
+  KIOST-ESM: r1i1p1f1
+  MIROC-ES2L: r1i1p1f2
+  MIROC6: r1i1p1f1
+  MPI-ESM1-2-HR: r1i1p1f1
+  MPI-ESM1-2-LR: r1i1p1f1
+  MRI-ESM2-0: r1i1p1f1
+  NorESM2-LM: r1i1p1f1
+  NorESM2-MM: r1i1p1f1
+  TaiESM1: r1i1p1f1
+  UKESM1-0-LL: r1i1p1f2
+
+excluded_models:
+  BCC-CSM2-MR: "no hurs at NASA -> no Penman-Monteith ET0"
+  NESM3: "no hurs at NASA -> no Penman-Monteith ET0"
+  CESM2: "no tasmax/tasmin"
+  CESM2-WACCM: "no tasmax/tasmin"
+  IITM-ESM: "no tasmax/tasmin; ends 2099"
+  CMCC-CM2-SR5: "no tasmax/tasmin in v2.0; local v1.x DTR 5 K fails QC"
+  HadGEM3-GC31-MM: "no SSP2-4.5 run"
+  GFDL-CM4_gr2: "duplicate of GFDL-CM4 on a second grid"

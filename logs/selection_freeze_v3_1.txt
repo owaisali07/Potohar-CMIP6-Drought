@@ -1,0 +1,20 @@
+v3.1 GCM selection frozen (results-blind: scripts/run_rmd_partial.R up to chunk fig4 from an empty cache_R; no projection computed in this run)
+2026-10-23 16:04:57
+1bf37ecc4bc44fdd2a55bb7efbbd6eeb2320b246281cb9a8dc561a786b4e374d *06_gcm_eval/selection_frozen.csv
+selected: MIROC6 GISS-E2-1-G NorESM2-MM CNRM-CM6-1 ACCESS-ESM1-5 CMCC-ESM2 CNRM-ESM2-1 INM-CM4-8 NorESM2-LM GFDL-CM4 
+cache_R before the full render:
+audit_wind_rad.rds
+fine_trends.rds
+gcm_eval_stacks.rds
+gcm_eval_v2_1.rds
+gcm_hist_27.rds
+gcm_rank_bootstrap.rds
+hillshade90_v2.rds
+idx_obs_basin.rds
+idx_obs_cells.rds
+idx_obs_district.rds
+idx_obs_regional.rds
+idx_stations.rds
+obs_grids_025.rds
+stations_v2_raw.rds
+vhi.rds

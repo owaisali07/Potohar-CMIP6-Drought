@@ -1,0 +1,56 @@
+abbas2021|Abbas, A., Waseem, M., Ullah, W., Zhao, C. & Zhu, J. Spatiotemporal analysis of meteorological and hydrological droughts and their propagations. Water 13, 2237 (2021). https://doi.org/10.3390/w13162237
+sarwar2022|Sarwar, A. N. et al. Shifting of meteorological to hydrological drought risk at regional scale. Appl. Sci. 12, 5560 (2022). https://doi.org/10.3390/app12115560
+goheer2023|Goheer, M. A., Aftab, B., Farah, H. & Hassan, S. S. Spatio-temporal risk analysis of agriculture and meteorological droughts in rainfed Potohar, Pakistan, using remote sensing and geospatial techniques. Meteorol. Appl. 30, e2138 (2023). https://doi.org/10.1002/met.2138
+moazzam2022|Moazzam, M. F. U. et al. Trends of rainfall variability and drought monitoring using standardized precipitation index in a scarcely gauged basin of northern Pakistan. Water 14, 1132 (2022). https://doi.org/10.3390/w14071132
+ain2020|Ain, N. U. et al. Investigation of seasonal droughts and related large-scale atmospheric dynamics over the Potwar Plateau of Pakistan. Theor. Appl. Climatol. 140, 69–89 (2020). https://doi.org/10.1007/s00704-019-03064-8
+eyring2016|Eyring, V. et al. Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization. Geosci. Model Dev. 9, 1937–1958 (2016). https://doi.org/10.5194/gmd-9-1937-2016
+lindenlaub2026|Lindenlaub, L., Weigel, K., Haßler, B., Jones, C. & Eyring, V. Characteristics of agricultural droughts in CMIP6 historical simulations and future projections. Earth Syst. Dyn. 17, 81–105 (2026). https://doi.org/10.5194/esd-17-81-2026
+yang2026|Yang, A. et al. Projected global changes in severe and extreme drought occurrence: a CMIP6 multi-model assessment using SPI, SPEI and concurrent SPI–SPEI conditions. Hydrology 13, 187 (2026). https://doi.org/10.3390/hydrology13070187
+thrasher2022|Thrasher, B. et al. NASA global daily downscaled projections, CMIP6. Sci. Data 9, 262 (2022). https://doi.org/10.1038/s41597-022-01393-4
+cannon2015|Cannon, A. J., Sobie, S. R. & Murdock, T. Q. Bias correction of GCM precipitation by quantile mapping: how well do methods preserve changes in quantiles and extremes? J. Clim. 28, 6938–6959 (2015). https://doi.org/10.1175/JCLI-D-14-00754.1
+ochacod|United Nations Office for the Coordination of Humanitarian Affairs. Pakistan – subnational administrative boundaries (COD-AB). Humanitarian Data Exchange (2022). https://data.humdata.org/dataset/cod-ab-pak
+copdem|European Space Agency & Airbus. Copernicus DEM (2022). https://doi.org/10.5270/ESA-c5d3d65
+gsod|NOAA National Centers for Environmental Information. Global Surface Summary of the Day (GSOD). https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00516 (accessed 2026).
+menne2012|Menne, M. J., Durre, I., Vose, R. S., Gleason, B. E. & Houston, T. G. An overview of the Global Historical Climatology Network-Daily database. J. Atmos. Ocean. Technol. 29, 897–910 (2012). https://doi.org/10.1175/JTECH-D-11-00103.1
+funk2015|Funk, C. et al. The climate hazards infrared precipitation with stations—a new environmental record for monitoring extremes. Sci. Data 2, 150066 (2015). https://doi.org/10.1038/sdata.2015.66
+munoz2021|Muñoz-Sabater, J. et al. ERA5-Land: a state-of-the-art global reanalysis dataset for land applications. Earth Syst. Sci. Data 13, 4349–4383 (2021). https://doi.org/10.5194/essd-13-4349-2021
+abatzoglou2018|Abatzoglou, J. T., Dobrowski, S. Z., Parks, S. A. & Hegewisch, K. C. TerraClimate, a high-resolution global dataset of monthly climate and climatic water balance from 1958–2015. Sci. Data 5, 170191 (2018). https://doi.org/10.1038/sdata.2017.191
+harris2020|Harris, I., Osborn, T. J., Jones, P. & Lister, D. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci. Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3
+ashouri2015|Ashouri, H. et al. PERSIANN-CDR: daily precipitation climate data record from multisatellite observations for hydrological and climate studies. Bull. Am. Meteorol. Soc. 96, 69–83 (2015). https://doi.org/10.1175/BAMS-D-13-00068.1
+harrigan2020|Harrigan, S. et al. GloFAS-ERA5 operational global river discharge reanalysis 1979–present. Earth Syst. Sci. Data 12, 2043–2060 (2020). https://doi.org/10.5194/essd-12-2043-2020
+iizumi2020|Iizumi, T. & Sakai, T. The global dataset of historical yields for major crops 1981–2016. Sci. Data 7, 97 (2020). https://doi.org/10.1038/s41597-020-0433-7
+didan2021|Didan, K. MODIS/Terra vegetation indices 16-day L3 global 250 m SIN grid V061. NASA EOSDIS Land Processes DAAC (2021). https://doi.org/10.5067/MODIS/MOD13Q1.061
+wan2021|Wan, Z., Hook, S. & Hulley, G. MODIS/Terra land surface temperature/emissivity 8-day L3 global 1 km SIN grid V061. NASA EOSDIS Land Processes DAAC (2021). https://doi.org/10.5067/MODIS/MOD11A2.061
+dorigo2017|Dorigo, W. et al. ESA CCI Soil Moisture for improved Earth system understanding: state-of-the art and future directions. Remote Sens. Environ. 203, 185–215 (2017). https://doi.org/10.1016/j.rse.2017.07.001
+begueria2010|Beguería, S., Vicente-Serrano, S. M. & Angulo-Martínez, M. A multiscalar global drought dataset: the SPEIbase: a new gridded product for the analysis of drought variability and impacts. Bull. Am. Meteorol. Soc. 91, 1351–1356 (2010). https://doi.org/10.1175/2010BAMS2988.1
+alexandersson1986|Alexandersson, H. A homogeneity test applied to precipitation data. J. Climatol. 6, 661–675 (1986). https://doi.org/10.1002/joc.3370060607
+pettitt1979|Pettitt, A. N. A non-parametric approach to the change-point problem. J. R. Stat. Soc. C Appl. Stat. 28, 126–135 (1979). https://doi.org/10.2307/2346729
+allen1998|Allen, R. G., Pereira, L. S., Raes, D. & Smith, M. Crop Evapotranspiration—Guidelines for Computing Crop Water Requirements. FAO Irrigation and Drainage Paper 56 (FAO, 1998).
+mckee1993|McKee, T. B., Doesken, N. J. & Kleist, J. The relationship of drought frequency and duration to time scales. In Proc. 8th Conference on Applied Climatology 179–184 (American Meteorological Society, 1993).
+vicenteserrano2010|Vicente-Serrano, S. M., Beguería, S. & López-Moreno, J. I. A multiscalar drought index sensitive to global warming: the standardized precipitation evapotranspiration index. J. Clim. 23, 1696–1718 (2010). https://doi.org/10.1175/2009JCLI2909.1
+tsakiris2005|Tsakiris, G. & Vangelis, H. Establishing a drought index incorporating evapotranspiration. Eur. Water 9/10, 3–11 (2005).
+shukla2008|Shukla, S. & Wood, A. W. Use of a standardized runoff index for characterizing hydrologic drought. Geophys. Res. Lett. 35, L02405 (2008). https://doi.org/10.1029/2007GL032487
+nalbantis2009|Nalbantis, I. & Tsakiris, G. Assessment of hydrological drought revisited. Water Resour. Manage. 23, 881–897 (2009). https://doi.org/10.1007/s11269-008-9305-1
+kogan1995|Kogan, F. N. Application of vegetation index and brightness temperature for drought detection. Adv. Space Res. 15, 91–100 (1995). https://doi.org/10.1016/0273-1177(95)00079-T
+yevjevich1967|Yevjevich, V. An Objective Approach to Definitions and Investigations of Continental Hydrologic Droughts. Hydrology Paper 23 (Colorado State University, 1967).
+mann1945|Mann, H. B. Nonparametric tests against trend. Econometrica 13, 245–259 (1945). https://doi.org/10.2307/1907187
+sen1968|Sen, P. K. Estimates of the regression coefficient based on Kendall's tau. J. Am. Stat. Assoc. 63, 1379–1389 (1968). https://doi.org/10.1080/01621459.1968.10480934
+yue2002|Yue, S., Pilon, P., Phinney, B. & Cavadias, G. The influence of autocorrelation on the ability to detect trend in hydrological series. Hydrol. Process. 16, 1807–1829 (2002). https://doi.org/10.1002/hyp.1095
+benjamini1995|Benjamini, Y. & Hochberg, Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J. R. Stat. Soc. B 57, 289–300 (1995). https://doi.org/10.1111/j.2517-6161.1995.tb02031.x
+wilks2016|Wilks, D. S. "The stippling shows statistically significant grid points": how research results are routinely overstated and overinterpreted, and what to do about it. Bull. Am. Meteorol. Soc. 97, 2263–2273 (2016). https://doi.org/10.1175/BAMS-D-15-00267.1
+gupta2009|Gupta, H. V., Kling, H., Yilmaz, K. K. & Martinez, G. F. Decomposition of the mean squared error and NSE performance criteria: implications for improving hydrological modelling. J. Hydrol. 377, 80–91 (2009). https://doi.org/10.1016/j.jhydrol.2009.08.003
+zeleny1973|Zeleny, M. Compromise programming. In Multiple Criteria Decision Making (eds Cochrane, J. L. & Zeleny, M.) 262–301 (University of South Carolina Press, 1973).
+kunsch1989|Künsch, H. R. The jackknife and the bootstrap for general stationary observations. Ann. Stat. 17, 1217–1241 (1989). https://doi.org/10.1214/aos/1176347265
+hauser2022|Hauser, M., Engelbrecht, F. & Fischer, E. M. Transient global warming levels for CMIP5 and CMIP6 (v0.3.0). Zenodo (2022). https://doi.org/10.5281/zenodo.7390473
+coles2001|Coles, S. An Introduction to Statistical Modeling of Extreme Values (Springer, 2001). https://doi.org/10.1007/978-1-4471-3675-0
+genest2009|Genest, C., Rémillard, B. & Beaudoin, D. Goodness-of-fit tests for copulas: a review and a power study. Insur. Math. Econ. 44, 199–213 (2009). https://doi.org/10.1016/j.insmatheco.2007.10.005
+sancetta2004|Sancetta, A. & Satchell, S. The Bernstein copula and its applications to modeling and approximations of multivariate distributions. Econom. Theory 20, 535–562 (2004). https://doi.org/10.1017/S026646660420305X
+shiau2006|Shiau, J.-T. Fitting drought duration and severity with two-dimensional copulas. Water Resour. Manage. 20, 795–815 (2006). https://doi.org/10.1007/s11269-005-9008-9
+yu2020|Yu, Q. et al. A cultivated planet in 2010 – Part 2: The global gridded agricultural-production maps. Earth Syst. Sci. Data 12, 3545–3572 (2020). https://doi.org/10.5194/essd-12-3545-2020
+zanaga2022|Zanaga, D. et al. ESA WorldCover 10 m 2021 v200. Zenodo (2022). https://doi.org/10.5281/zenodo.7254221
+hawkins2009|Hawkins, E. & Sutton, R. The potential to narrow uncertainty in regional climate predictions. Bull. Am. Meteorol. Soc. 90, 1095–1108 (2009). https://doi.org/10.1175/2009BAMS2607.1
+lange2019|Lange, S. Trend-preserving bias adjustment and statistical downscaling with ISIMIP3BASD (v1.0). Geosci. Model Dev. 12, 3055–3070 (2019). https://doi.org/10.5194/gmd-12-3055-2019
+khan2024potohar|Khan, A. U. et al. Hydro-climatic variability in the Potohar Plateau of Indus River Basin under CMIP6 climate projections. Theor. Appl. Climatol. 156, 20 (2024). https://doi.org/10.1007/s00704-024-05274-1
+ullah2025|Ullah, I. et al. How significant is projected drought risk in Pakistan under a warmer climate? Earth Syst. Environ. 9, 3531–3550 (2025). https://doi.org/10.1007/s41748-024-00560-4
+khan2025|Khan, F. New insights into 21st-century drought characteristics under climate change from CMIP6 multimodel ensemble analysis. Stoch. Environ. Res. Risk Assess. 39, 5803–5826 (2025). https://doi.org/10.1007/s00477-025-03096-9
+ali2026zenodo|Ali, O. Data, code and supplementary material for "Future droughts over the rainfed Potohar Plateau of Pakistan: CMIP6 projections, joint return periods and crop exposure" (v1.0). Zenodo (2026). https://doi.org/10.5281/zenodo.23755533

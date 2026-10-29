@@ -1,0 +1,161 @@
+station,variable,n_years,snht_p,pettitt_p,change_year,snht_p_abs,pettitt_p_abs,class,class_abs,snht_p_tc,pettitt_p_tc,change_year_tc,class_e5,class_tc
+Akhnoor,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Akhnoor,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Akhnoor,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Akhnoor,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Arizal,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Arizal,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Arizal,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Arizal,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Badgam,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Badgam,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Badgam,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Badgam,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Balakot,ET0,15,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Balakot,P,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Balakot,Tmax,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Balakot,Tmin,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Baramulla,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Baramulla,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Baramulla,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Baramulla,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Bhimber,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Bhimber,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Bhimber,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Bhimber,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Chaklala,ET0,39,0,1.30066722039333e-05,1998,0,1.49146820674427e-05,suspect,suspect,0,1.49146820674427e-05,1998,suspect,suspect
+Chaklala,P,24,0.212,0.541441914479788,2011,0.091,0.325675816780394,doubtful,homogeneous,0.0125,0.0429872026901798,1997,homogeneous,suspect
+Chaklala,Tmax,42,0,1.11959866728387e-05,2002,0.0955,0.0719999761761598,suspect,homogeneous,0,1.63010606344344e-06,2002,suspect,suspect
+Chaklala,Tmin,42,0,0.000279081045459373,2010,0,1.05235855273283e-05,doubtful,suspect,0.2415,0.353634968467655,2013,suspect,homogeneous
+Cherat,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Cherat,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Cherat,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Cherat,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Handwara,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Handwara,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Handwara,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Handwara,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Islamabad (PMD),ET0,28,0,0.000177935904169936,1995,0,0.000196445569925572,suspect,suspect,0,0.000119139780387365,1995,suspect,suspect
+Islamabad (PMD),P,30,0.0225,0.01066912517196,1998,0.2225,0.299072914773129,doubtful,homogeneous,0.501,0.761679691884221,1993,suspect,homogeneous
+Islamabad (PMD),Tmax,30,0,0.00297407991117071,2002,0.104,0.0558233802274344,suspect,homogeneous,0,0.00161197736001005,1996,suspect,suspect
+Islamabad (PMD),Tmin,30,0.0115,0.213467181602024,2006,0.038,0.0694555795994821,doubtful,doubtful,0,0.00932128326879915,2002,doubtful,suspect
+Jhelum,ET0,30,0.238,0.178494604437256,2008,0.3495,0.25354114446832,doubtful,homogeneous,0.002,0.00188355420020302,2012,homogeneous,suspect
+Jhelum,P,31,0,0.000595255499914971,2012,0,0.000815896322452361,suspect,suspect,0,6.58498942174299e-05,1996,suspect,suspect
+Jhelum,Tmax,40,0,0.000593680125677088,2012,0.2515,0.377655244490405,suspect,homogeneous,0,8.3696262576677e-05,2012,suspect,suspect
+Jhelum,Tmin,40,0.0745,0.117652072147861,2012,0,0.000152225816857183,doubtful,suspect,0,1.69154015093993e-06,2005,homogeneous,suspect
+Kakul,ET0,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kakul,P,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kakul,Tmax,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kakul,Tmin,18,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Karnah,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Karnah,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Karnah,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Karnah,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kohat,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kohat,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kohat,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kohat,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kotli,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kotli,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kotli,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Kotli,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Landikotal,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Landikotal,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Landikotal,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Landikotal,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Langet,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Langet,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Langet,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Langet,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Malam Jabba,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Malam Jabba,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Malam Jabba,Tmax,1,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Malam Jabba,Tmin,1,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mandi Bahauddin,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mandi Bahauddin,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mandi Bahauddin,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mandi Bahauddin,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mianwali,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mianwali,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mianwali,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mianwali,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mirpur,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mirpur,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mirpur,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Mirpur,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Murree (PMD),ET0,44,0.0105,0.0204218404588043,1990,0.0125,0.0491076784851764,suspect,suspect,0.0105,0.0190155121805197,2008,suspect,suspect
+Murree (PMD),P,39,0,0.123651918186439,1998,0,0.397471553034294,doubtful,doubtful,0,0.150315554195938,2012,doubtful,doubtful
+Murree (PMD),Tmax,44,0,0.00479101687405998,1990,0,0.00165601622933199,suspect,suspect,5e-04,0.0170678610680106,1989,suspect,suspect
+Murree (PMD),Tmin,44,0.181,0.059339287371522,2008,0.0045,0.000840041358516092,doubtful,suspect,0.0015,0.000187270821064108,1995,homogeneous,suspect
+Muzaffar Abad,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffar Abad,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffar Abad,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffar Abad,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarabad,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarabad,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarabad,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarabad,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarbad,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarbad,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarbad,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Muzaffarbad,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Nowshera,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Nowshera,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Nowshera,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Nowshera,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Peshawar Intl,ET0,35,0.0445,0.0862716551842801,2018,0.2145,0.281946908666256,doubtful,homogeneous,0.0055,0.0562772413569674,2018,doubtful,doubtful
+Peshawar Intl,P,27,0,0.00224701624720618,1993,5e-04,0.000737097410287371,suspect,suspect,0,0.000498877932824417,1993,suspect,suspect
+Peshawar Intl,Tmax,37,0,7.01876305290083e-06,1998,0.0625,0.0833216665901457,suspect,homogeneous,0,5.16680786055583e-06,1998,suspect,suspect
+Peshawar Intl,Tmin,37,0,9.36431093650839e-05,2006,0.001,0.000728906705222289,suspect,suspect,0,2.76909056688526e-06,2005,suspect,suspect
+Poonch,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Poonch,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Poonch,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Poonch,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Rajpuri(Rampur),ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Rajpuri(Rampur),P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Rajpuri(Rampur),Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Rajpuri(Rampur),Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Reasi,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Reasi,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Reasi,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Reasi,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Risalpur,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Risalpur,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Risalpur,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Risalpur,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Saidu Sharif,ET0,15,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Saidu Sharif,P,17,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Saidu Sharif,Tmax,17,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Saidu Sharif,Tmin,17,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sargodha (WMO41593),ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sargodha (WMO41593),P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sargodha (WMO41593),Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sargodha (WMO41593),Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sargodha (WMO41594),ET0,23,0,0.000679862283029042,1997,0,0.00110303659871892,doubtful,suspect,,,,suspect,insufficient
+Sargodha (WMO41594),P,13,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sargodha (WMO41594),Tmax,26,0,0.00773184027894562,2007,0.057,0.123782060964261,doubtful,homogeneous,,,,suspect,insufficient
+Sargodha (WMO41594),Tmin,26,0.0035,0.00709611951475634,1989,0.0055,0.0127602273771075,doubtful,suspect,,,,suspect,insufficient
+Sialkot (WMO41599),ET0,6,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41599),P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41599),Tmax,7,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41599),Tmin,7,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41600),ET0,17,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41600),P,16,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41600),Tmax,17,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO41600),Tmin,17,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO69287),ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO69287),P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO69287),Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sialkot (WMO69287),Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sopore,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sopore,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sopore,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sopore,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sri Ranbirsingh,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sri Ranbirsingh,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sri Ranbirsingh,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Sri Ranbirsingh,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Uri,ET0,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Uri,P,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Uri,Tmax,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient
+Uri,Tmin,0,,,,,,insufficient,insufficient,,,,insufficient,insufficient

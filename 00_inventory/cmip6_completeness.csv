@@ -1,0 +1,85 @@
+source,model,historical:pr,historical:tasmax,historical:tasmin,historical:hurs,historical:rsds,historical:sfcWind,ssp245:pr,ssp245:tasmax,ssp245:tasmin,ssp245:hurs,ssp245:rsds,ssp245:sfcWind,ssp585:pr,ssp585:tasmax,ssp585:tasmin,ssp585:hurs,ssp585:rsds,ssp585:sfcWind,complete_all6_hist_ssp245_ssp585,PM_ET0_possible,pr_tasmax_tasmin_complete
+downscaling_corrdiff_out,EC-Earth3,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_corrdiff_out,GFDL-ESM4,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_corrdiff_out,MPI-ESM1-2-HR,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_corrdiff_out,MRI-ESM2-0,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_corrdiff_out,NorESM2-MM,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_processed,EC-Earth3,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_processed,GFDL-ESM4,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_processed,MPI-ESM1-2-HR,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_processed,MRI-ESM2-0,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_processed,NorESM2-MM,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_raw_cmip6,EC-Earth3,partial 1995-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+downscaling_raw_cmip6,GFDL-ESM4,partial 1990-2014,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,False,False,False
+downscaling_raw_cmip6,MPI-ESM1-2-HR,partial 1995-2014,missing,missing,missing,missing,missing,partial 2020-2100 gaps 2065-2079,missing,missing,missing,missing,missing,partial 2020-2100 gaps 2065-2079,missing,missing,missing,missing,missing,False,False,False
+downscaling_raw_cmip6,MRI-ESM2-0,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,False,False,False
+downscaling_raw_cmip6,NorESM2-MM,partial 1990-2014,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,partial 2021-2100 gaps 2061-2080,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_PAK,ACCESS-CM2,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,ACCESS-ESM1-5,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,BCC-CSM2-MR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,CESM2,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_PAK,CESM2-WACCM,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_PAK,CMCC-CM2-SR5,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,CMCC-ESM2,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,CNRM-CM6-1,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,CNRM-ESM2-1,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,CanESM5,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,EC-Earth3,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,EC-Earth3-Veg-LR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,FGOALS-g3,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,GFDL-CM4,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,GFDL-CM4_gr2,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,GFDL-ESM4,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,GISS-E2-1-G,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,HadGEM3-GC31-LL,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,HadGEM3-GC31-MM,ok,ok,ok,missing,missing,missing,missing,missing,missing,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,False
+paper3_nexgddp_PAK,IITM-ESM,ok,missing,missing,missing,missing,missing,partial 2015-2099,missing,missing,missing,missing,missing,partial 2015-2099,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_PAK,INM-CM4-8,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,INM-CM5-0,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,IPSL-CM6A-LR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,KACE-1-0-G,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,KIOST-ESM,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,MIROC-ES2L,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,MIROC6,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,MPI-ESM1-2-HR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,MPI-ESM1-2-LR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,MRI-ESM2-0,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,NESM3,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,NorESM2-LM,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,NorESM2-MM,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,TaiESM1,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_PAK,UKESM1-0-LL,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,ACCESS-CM2,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,ACCESS-ESM1-5,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,BCC-CSM2-MR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,CESM2,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_pervar,CESM2-WACCM,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,ok,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_pervar,CMCC-CM2-SR5,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,CMCC-ESM2,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,CNRM-CM6-1,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,CNRM-ESM2-1,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,CanESM5,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,EC-Earth3,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,EC-Earth3-Veg-LR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,FGOALS-g3,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,GFDL-CM4,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,GFDL-ESM4,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,GISS-E2-1-G,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,HadGEM3-GC31-LL,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,HadGEM3-GC31-MM,ok,ok,ok,missing,missing,missing,missing,missing,missing,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,False
+paper3_nexgddp_pervar,IITM-ESM,ok,missing,missing,missing,missing,missing,partial 2015-2099,missing,missing,missing,missing,missing,partial 2015-2099,missing,missing,missing,missing,missing,False,False,False
+paper3_nexgddp_pervar,INM-CM4-8,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,INM-CM5-0,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,IPSL-CM6A-LR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,KACE-1-0-G,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,KIOST-ESM,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,MIROC-ES2L,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,MIROC6,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,MPI-ESM1-2-HR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,MPI-ESM1-2-LR,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,MRI-ESM2-0,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,NESM3,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,NorESM2-LM,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,NorESM2-MM,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,TaiESM1,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True
+paper3_nexgddp_pervar,UKESM1-0-LL,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,ok,ok,ok,missing,missing,missing,False,False,True

@@ -1,0 +1,102 @@
+== era5land_daily: 921 files; first=era5land_daily_PAK_195001.nc last=era5land_daily_PAK_202609.nc
+     lat: ((151,), {})
+     lon: ((191,), {})
+     temperature_2m: ((30, 151, 191), {})
+     temperature_2m_max: ((30, 151, 191), {})
+     temperature_2m_min: ((30, 151, 191), {})
+     time: ((30,), {'units': 'days since 1950-01-02 00:00:00'})
+     total_precipitation_sum: ((30, 151, 191), {})
+== era5land_tmax: 76 files; first=era5land_tmax_1950.nc last=era5land_tmax_2025.nc
+     lat: ((151,), {})
+     lon: ((191,), {})
+     time: ((364,), {'units': 'days since 1950-01-02'})
+     tmax: ((364, 151, 191), {'units': 'K', 'long_name': 'daily maximum 2 m air temperat'})
+== chirps: 45 files; first=chirps-v2.0.1981.days_p05_PAK.nc last=chirps-v2.0.2025.days_p05_PAK.nc
+     latitude: ((300,), {'units': 'degrees_north', 'long_name': 'latitude'})
+     longitude: ((380,), {'units': 'degrees_east', 'long_name': 'longitude'})
+     precip: ((365, 300, 380), {'units': 'mm/day', 'long_name': 'Climate Hazards group InfraRed'})
+     time: ((365,), {'units': 'days since 1980-01-01'})
+== imerg: 26 files; first=imerg_v07_daily_2000.nc last=imerg_v07_daily_2025.nc
+     lat: ((150,), {})
+     lon: ((190,), {})
+     precipitation: ((214, 150, 190), {'units': 'mm/day', 'long_name': 'daily precipitation (UTC day)'})
+     time: ((214,), {'units': 'days since 2000-06-01'})
+== cpc_precip: 47 files; first=cpc_precip_1979.nc last=cpc_precip_2025.nc
+     lat: ((30,), {'units': 'degrees_north', 'long_name': 'Latitude'})
+     lon: ((38,), {'units': 'degrees_east', 'long_name': 'Longitude'})
+     precip: ((365, 30, 38), {'units': 'mm/day'})
+     time: ((365,), {'units': 'hours since 1900-01-01', 'long_name': 'Time'})
+== cpc_tmax: 47 files; first=cpc_tmax_1979.nc last=cpc_tmax_2025.nc
+     lat: ((30,), {'units': 'degrees_north', 'long_name': 'Latitude'})
+     lon: ((38,), {'units': 'degrees_east', 'long_name': 'Longitude'})
+     time: ((365,), {'units': 'hours since 1900-01-01', 'long_name': 'Time'})
+     tmax: ((365, 30, 38), {'units': 'degC'})
+== berkeley: 14 files; first=berkeley_tmax_1960_PAK.nc last=berkeley_tmin_2020_PAK.nc
+     lat: ((16,), {})
+     lon: ((20,), {})
+     time: ((3653,), {'units': 'days since 1960-01-01 00:00:00'})
+     tmax: ((3653, 16, 20), {'units': 'degC', 'long_name': 'Berkeley Earth daily TMAX (cli'})
+== hadisd: 24 files; first=hadisd.3.4.3.2025f_19310101-20250829_415235-99999.nc last=hadisd.3.4.3.2025f_19310101-20250829_417800-99999.nc
+     character_length: ((4,), {})
+     cloud_base: ((57327,), {'units': 'meters', 'long_name': 'Cloud base of lowest cloud lay'})
+     coordinate_length: ((1,), {})
+     dewpoints: ((57327,), {'units': 'degree_Celsius', 'long_name': 'Dew point temperature at scree'})
+     elevation: ((1,), {'units': 'meters', 'long_name': 'vertical distance above the su'})
+     flagged: ((19,), {})
+     flagged_obs: ((57327, 19), {'units': '1', 'long_name': 'Observation Values removed by '})
+     high_cloud_cover: ((57327,), {'units': '1', 'long_name': 'High cloud cover (oktas)'})
+     input_station_id: ((57327, 12), {'long_name': 'Primary source for timestep (m'})
+     latitude: ((1,), {'units': 'degrees_north', 'long_name': 'station latitude'})
+     long_character_length: ((12,), {})
+     longitude: ((1,), {'units': 'degrees_east', 'long_name': 'station longitude'})
+     low_cloud_cover: ((57327,), {'units': '1', 'long_name': 'Low cloud cover (oktas)'})
+     mid_cloud_cover: ((57327,), {'units': '1', 'long_name': 'Mid cloud cover (oktas)'})
+     past_sigwx1: ((57327,), {'units': '1', 'long_name': 'Reported past significant weat'})
+     precip12_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip15_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip18_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip1_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip24_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip2_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip3_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip6_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     precip9_depth: ((57327,), {'units': 'mm', 'long_name': 'Depth of Precipitation Reporte'})
+     quality_control_flags: ((57327, 71), {'units': '1', 'long_name': 'Quality Control status for ind'})
+     reporting_2: ((2,), {})
+     reporting_stats: ((19, 1140, 2), {'units': '1', 'long_name': 'Reporting frequency and accura'})
+     reporting_t: ((1140,), {})
+     reporting_v: ((19,), {})
+     slp: ((57327,), {'units': 'hPa', 'long_name': 'Reported Sea Level Pressure at'})
+     station_id: ((12,), {'long_name': 'Station ID number'})
+     stnlp: ((57327,), {'units': 'hPa', 'long_name': 'Reported Station Level Pressur'})
+     temperatures: ((57327,), {'units': 'degree_Celsius', 'long_name': 'Dry bulb air temperature at sc'})
+     test: ((71,), {})
+     time: ((57327,), {'units': 'hours since 1931-01-01 00:00', 'long_name': 'time_of_measurement'})
+     total_cloud_cover: ((57327,), {'units': '1', 'long_name': 'Total cloud cover (oktas)'})
+     wind_gust: ((57327,), {'units': 'meters per second', 'long_name': 'Wind Gust Speed at mast height'})
+     winddirs: ((57327,), {'units': 'degree', 'long_name': 'Wind Direction at mast height '})
+     windspeeds: ((57327,), {'units': 'meters per second', 'long_name': 'Wind speed at mast height (~10'})
+== GSOD merged columns: ['station_id', 'name', 'lat', 'lon', 'date', 'tmax', 'tmin', 'tmean', 'tmax_from_hourly', 'tmin_from_hourly']
+== stations_merged_daily columns: ['station_id', 'date', 'tmax', 'tmin', 'source']
+   meta file: stations\ghcnd\station_completeness.csv
+   meta file: stations\ghcnd\stations_pakistan.csv
+   meta file: stations\gsod\station_completeness.csv
+   meta file: stations\hadisd\hadisd_station_info_pakistan.csv
+   meta file: stations\merged\station_inventory.csv
+   meta file: stations\merged\stations_merged_daily.csv
+   meta file: stations\merged\station_inventory.csv
+== stations in Potohar+0.5deg: 14
+   {'source': 'GHCN-D', 'id': 'PK008100200', 'lat': 33.2, 'lon': 73.8, 'elev': 336.0, 'name': 'MIRPUR'}
+   {'source': 'GHCN-D', 'id': 'PK008109900', 'lat': 33.52, 'lon': 73.9, 'elev': 595.0, 'name': 'KOTLI'}
+   {'source': 'GHCN-D', 'id': 'PK008109901', 'lat': 32.98, 'lon': 74.07, 'elev': 326.0, 'name': 'BHIMBER'}
+   {'source': 'GHCN-D', 'id': 'PK008119901', 'lat': 34.38, 'lon': 73.47, 'elev': 684.0, 'name': 'MUZAFFARBAD'}
+   {'source': 'GHCN-D', 'id': 'PKM00041530', 'lat': 33.994, 'lon': 71.515, 'elev': 353.0, 'name': 'PESHAWAR INTL'}
+   {'source': 'GHCN-D', 'id': 'PKM00041532', 'lat': 34.367, 'lon': 73.483, 'elev': 2303.0, 'name': 'MUZAFFAR ABAD'}
+   {'source': 'GHCN-D', 'id': 'PKM00041571', 'lat': 33.617, 'lon': 73.099, 'elev': 508.4, 'name': 'CHAKLALA'}
+   {'source': 'GHCN-D', 'id': 'PKM00041594', 'lat': 32.05, 'lon': 72.667, 'elev': 188.0, 'name': 'SARGODHA'}
+   {'source': 'GHCN-D', 'id': 'PKM00041598', 'lat': 32.933, 'lon': 73.717, 'elev': 234.0, 'name': 'JHELUM'}
+   {'source': 'HadISD', 'id': '415300-99999', 'lat': 34.017, 'lon': 71.583, 'elev': None, 'name': 'hadisd.3.4.3.2025f_19310101-20250829_415300-99999.nc', 'vars': 'dewpoints;precip1_depth;slp;temperatures;windspeeds'}
+   {'source': 'HadISD', 'id': '415360-99999', 'lat': 34.383, 'lon': 73.35, 'elev': None, 'name': 'hadisd.3.4.3.2025f_19310101-20250829_415360-99999.nc', 'vars': 'dewpoints;precip1_depth;slp;temperatures;windspeeds'}
+   {'source': 'HadISD', 'id': '415710-99999', 'lat': 33.617, 'lon': 73.099, 'elev': None, 'name': 'hadisd.3.4.3.2025f_19310101-20250829_415710-99999.nc', 'vars': 'dewpoints;precip1_depth;slp;temperatures;windspeeds'}
+   {'source': 'HadISD', 'id': '415940-99999', 'lat': 32.05, 'lon': 72.667, 'elev': None, 'name': 'hadisd.3.4.3.2025f_19310101-20250829_415940-99999.nc', 'vars': 'dewpoints;precip1_depth;slp;temperatures;windspeeds'}
+   {'source': 'HadISD', 'id': '415980-99999', 'lat': 32.933, 'lon': 73.717, 'elev': None, 'name': 'hadisd.3.4.3.2025f_19310101-20250829_415980-99999.nc', 'vars': 'dewpoints;precip1_depth;slp;temperatures;windspeeds'}

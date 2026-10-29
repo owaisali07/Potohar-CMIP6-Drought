@@ -1,0 +1,20 @@
+Test,Scenario,Δ freq far (%-pt),Model range,Robust
+"Reference: SPEI-3, PM ET0, threshold −1, baseline 1985–2014",SSP2-4.5,9.9912435124996,-2.9 to 24.6,TRUE
+"Reference: SPEI-3, PM ET0, threshold −1, baseline 1985–2014",SSP5-8.5,11.0587559324741,-6.3 to 28.9,TRUE
+SPEI-3 with PM ET0,SSP2-4.5,9.9912435124996,-2.9 to 24.6,TRUE
+SPEI-3 with PM ET0,SSP5-8.5,11.0587559324741,-6.3 to 28.9,TRUE
+SPEI-3 with Hargreaves ET0,SSP2-4.5,11.0959784592751,-0.3 to 26.5,TRUE
+SPEI-3 with Hargreaves ET0,SSP5-8.5,12.5299300099132,-7.9 to 30.8,TRUE
+Threshold −1.5 (instead of −1),SSP2-4.5,8.37938915716063,-1.7 to 21.1,TRUE
+Threshold −1.5 (instead of −1),SSP5-8.5,11.2905953448808,-2.0 to 29.8,TRUE
+Alternative baseline 1981–2010 (calibration and reference),SSP2-4.5,8.93651396854353,-3.9 to 22.6,FALSE
+Alternative baseline 1981–2010 (calibration and reference),SSP5-8.5,10.0974574717335,-9.3 to 27.0,TRUE
+No QDM (NEX-GDDP-CMIP6 as published),SSP2-4.5,11.5489308926716,-0.1 to 25.9,TRUE
+No QDM (NEX-GDDP-CMIP6 as published),SSP5-8.5,14.5839175548275,-3.7 to 33.9,TRUE
+QDM with standardised ±1-month pooled windows (S1),SSP2-4.5,11.8131517622016,-1.8 to 26.1,TRUE
+QDM with standardised ±1-month pooled windows (S1),SSP5-8.5,13.2445200401412,-6.3 to 32.7,TRUE
+"QDM with unstandardised ±1-month pooled windows (S2, v2.1)",SSP2-4.5,12.4565258596875,-0.2 to 28.6,TRUE
+"QDM with unstandardised ±1-month pooled windows (S2, v2.1)",SSP5-8.5,13.889036079349,-6.7 to 33.6,TRUE
+QDM to TerraClimate (instead of ERA5-Land) PM targets,SSP2-4.5,8.7468305880816,-2.3 to 22.9,FALSE
+QDM to TerraClimate (instead of ERA5-Land) PM targets,SSP5-8.5,9.27576789731015,-7.3 to 26.3,TRUE
+"Second chain: ISIMIP3b (5 GCMs) vs NEX-GDDP+QDM (same GCMs), SSP5-8.5",SSP5-8.5,8.22222222222222,NEX+QDM: 7.5 (-10.5 to 23.6),

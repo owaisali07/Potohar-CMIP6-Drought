@@ -1,0 +1,48 @@
+Series,Variable,var_key,unit_key,Z,p,Sen slope,p_BH,Homogeneity,Signif
+Islamabad (ICT) (district mean),Annual precipitation (mm/decade),P,w_Islamabad..ICT.,3.07683363018468,0.00209212033206156,77.2403887011123,0.0034868672201026,—,*
+Islamabad (ICT) (district mean),Annual PM ET0 (mm/decade),ET0,w_Islamabad..ICT.,2.74194017383805,0.00610774648517155,22.8790109897713,0.0152693662129289,—,*
+Islamabad (ICT) (district mean),Annual P − ET0 (mm/decade),WB,w_Islamabad..ICT.,1.65353644071149,0.0982217360807328,53.9186777231306,0.178387888599193,—,""
+Islamabad (ICT) (district mean),"SPEI-12, December (per decade)",SPEI12_Dec,w_Islamabad..ICT.,1.65353644071149,0.0982217360807328,0.247199272355427,0.170919954609009,—,""
+Islamabad (ICT) (district mean),"Drought months, SPEI-3 ≤ −1 (months/decade)",drought_months,w_Islamabad..ICT.,-0.16788246046822,0.866675748798506,0,0.983244459882943,—,""
+Attock (district mean),Annual precipitation (mm/decade),P,w_Attock,2.95124858405469,0.0031649208808236,45.4739641121965,0.0039561511010295,—,*
+Attock (district mean),Annual PM ET0 (mm/decade),ET0,w_Attock,2.86752521996803,0.00413695830949362,25.5137259660174,0.0152693662129289,—,*
+Attock (district mean),Annual P − ET0 (mm/decade),WB,w_Attock,0.962818686996566,0.335638521155128,19.6181273900187,0.335638521155128,—,""
+Attock (district mean),"SPEI-12, December (per decade)",SPEI12_Dec,w_Attock,0.962818686996566,0.335638521155128,0.135542863163388,0.335638521155128,—,""
+Attock (district mean),"Drought months, SPEI-3 ≤ −1 (months/decade)",drought_months,w_Attock,-0.0210014990354924,0.983244459882943,0,0.983244459882943,—,""
+Chakwal (district mean),Annual precipitation (mm/decade),P,w_Chakwal,3.57917381470463,0.000344682170172107,52.3115622056167,0.00172341085086054,—,*
+Chakwal (district mean),Annual PM ET0 (mm/decade),ET0,w_Chakwal,2.40704671749141,0.0160821124565624,22.0961767793198,0.0201026405707029,—,*
+Chakwal (district mean),Annual P − ET0 (mm/decade),WB,w_Chakwal,1.61167475866816,0.107032733159516,37.4637703318924,0.178387888599193,—,""
+Chakwal (district mean),"SPEI-12, December (per decade)",SPEI12_Dec,w_Chakwal,1.63260559968983,0.102551972765406,0.243467935162521,0.170919954609009,—,""
+Chakwal (district mean),"Drought months, SPEI-3 ≤ −1 (months/decade)",drought_months,w_Chakwal,-1.00829433887151,0.313313179931902,-0.00416113281010261,0.750414777995438,—,""
+Jhelum (district mean),Annual precipitation (mm/decade),P,w_Jhelum,3.07683363018468,0.00209212033206156,57.2897432966607,0.0034868672201026,—,*
+Jhelum (district mean),Annual PM ET0 (mm/decade),ET0,w_Jhelum,1.75819064581982,0.0787150763198292,15.661903438742,0.0787150763198292,—,""
+Jhelum (district mean),Annual P − ET0 (mm/decade),WB,w_Jhelum,1.65353644071149,0.0982217360807328,37.646858111833,0.178387888599193,—,""
+Jhelum (district mean),"SPEI-12, December (per decade)",SPEI12_Dec,w_Jhelum,1.67446728173316,0.0940387993908357,0.220969297338706,0.170919954609009,—,""
+Jhelum (district mean),"Drought months, SPEI-3 ≤ −1 (months/decade)",drought_months,w_Jhelum,-2.04490461815721,0.0408642625449996,-0.171340598972178,0.204321312724998,—,""
+Rawalpindi (district mean),Annual precipitation (mm/decade),P,w_Rawalpindi,2.86752521996803,0.00413695830949362,66.2499955428622,0.00413695830949362,—,*
+Rawalpindi (district mean),Annual PM ET0 (mm/decade),ET0,w_Rawalpindi,2.51170092259974,0.0120150867273325,20.9621556308277,0.0200251445455542,—,*
+Rawalpindi (district mean),Annual P − ET0 (mm/decade),WB,w_Rawalpindi,1.44422803049485,0.148674842576366,45.6077245479238,0.185843553220458,—,""
+Rawalpindi (district mean),"SPEI-12, December (per decade)",SPEI12_Dec,w_Rawalpindi,1.46515887151651,0.142877577772659,0.215580514387769,0.178596972215823,—,""
+Rawalpindi (district mean),"Drought months, SPEI-3 ≤ −1 (months/decade)",drought_months,w_Rawalpindi,-0.755000192366811,0.450248866797263,-0.0566172375918382,0.750414777995438,—,""
+"Potohar (gridded, 1981–2024)",Annual precipitation (mm/decade),,,3.30707288142299,0.000942763602804319,56.430139270457,,—,*
+"Potohar (gridded, 1981–2024)",Annual PM ET0 (mm/decade),,,2.40704671749141,0.0160821124565624,21.7337535976163,,—,*
+"Potohar (gridded, 1981–2024)",Mean Tmax (°C/decade),,,3.4745196095963,0.000511768956283876,0.375217236920855,,—,*
+"Potohar (gridded, 1981–2024)",Mean Tmin (°C/decade),,,4.62571586578785,0.00000373306772427862,0.339774677027306,,—,*
+"Potohar (gridded, 1981–2024)",Annual P − ET0 (mm/decade),,,1.50702055355984,0.131805388928391,35.1745675618793,,—,""
+"Potohar (gridded, 1981–2024)","SPI-12, December (per decade)",,,3.32800372244465,0.000874706976824131,0.400745116271313,,—,*
+"Potohar (gridded, 1981–2024)","SPEI-12, December (per decade)",,,1.44422803049485,0.148674842576366,0.210507456634072,,—,""
+"Potohar (gridded, 1981–2024)","RDIst-12, December (per decade)",,,2.19773830727477,0.0279677600251922,0.276566508092352,,—,*
+"Potohar (gridded, 1981–2024)",Annual mean SPEI-3 (per decade),,,1.42329718947318,0.154650021390876,0.104851386052218,,—,""
+"Potohar (gridded, 1981–2024)","Drought months, SPEI-3 ≤ −1 (months/decade)",,,-1.00710998215677,0.313881924759289,-0.144260926908512,,—,""
+"Potohar (gridded, 1981–2024)","Annual severity, SPEI-3 (per decade)",,,-1.15224840353694,0.249219012586312,-0.0432450752956863,,—,""
+"Potohar cropland (MODIS, 2001–2024)",Annual mean VHI (per decade),,,3.80310571943898,0.000142893338976895,13.3638772931982,,—,*
+Chaklala station,Annual precipitation (mm/decade),,,0.158462738309958,0.874092180163309,17.396480108961,,doubtful, (not interpreted: inhomogeneous)
+Chaklala station,Annual PM ET0 (mm/decade),,,4.852755242537,0.00000121757924413084,103.013119137913,,suspect,* (not interpreted: inhomogeneous)
+Islamabad (PMD) station,Annual precipitation (mm/decade),,,-1.1442417720633,0.252523383923989,-84.8929999999339,,doubtful, (not interpreted: inhomogeneous)
+Islamabad (PMD) station,Annual PM ET0 (mm/decade),,,4.25276963209585,0.0000211142753471969,146.312220378321,,suspect,* (not interpreted: inhomogeneous)
+Jhelum station,Annual precipitation (mm/decade),,,4.5673039368964,0.00000494037412522472,407.589955539373,,suspect,* (not interpreted: inhomogeneous)
+Jhelum station,Annual PM ET0 (mm/decade),,,-0.0187580618371032,0.98503410973661,-0.53291819859998,,doubtful, (not interpreted: inhomogeneous)
+Murree (PMD) station,Annual precipitation (mm/decade),,,-0.226294285921414,0.820972542308544,-18.3405358361173,,doubtful, (not interpreted: inhomogeneous)
+Murree (PMD) station,Annual PM ET0 (mm/decade),,,1.13026541516988,0.258364402967882,7.28024339053299,,suspect, (not interpreted: inhomogeneous)
+Peshawar Intl station,Annual precipitation (mm/decade),,,4.01156223670372,0.0000603182706962619,246.622254819081,,suspect,* (not interpreted: inhomogeneous)
+Peshawar Intl station,Annual PM ET0 (mm/decade),,,1.06735991927509,0.285809340185101,16.4370619779534,,doubtful, (not interpreted: inhomogeneous)

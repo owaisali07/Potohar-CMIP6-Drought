@@ -1,0 +1,78 @@
+line,expression,format,value,printed
+19,"K$qdm_pooling_effect[scenario == ""ssp245"", dP_raw]",+1,6.83970366986381,+6.8
+19,"K$qdm_pooling_effect[scenario == ""ssp585"", dP_raw]",+1,19.2513802651752,+19.3
+19,"K$qdm_pooling_effect[scenario == ""ssp245"", dP_primary]",+1,15.7251702592805,+15.7
+19,"K$qdm_pooling_effect[scenario == ""ssp585"", dP_primary]",+1,31.4646889586315,+31.5
+19,"K$qdm_pooling_effect[scenario == ""ssp245"", dP_pooled_std]",+1,10.0212893146861,+10.0
+19,"K$qdm_pooling_effect[scenario == ""ssp585"", dP_pooled_std]",+1,23.5516966836663,+23.6
+19,"K$qdm_pooling_effect[scenario == ""ssp245"", dP_pooled]",+1,9.30166570383104,+9.3
+19,"K$qdm_pooling_effect[scenario == ""ssp585"", dP_pooled]",+1,22.931036988081,+22.9
+22,"if (length(K$no_skill_models)) paste(K$no_skill_models, collapse = "", "") else ""none""",s,none,none
+22,K$n_boot,i,1000,"1,000"
+66,K$ref_events$k[2],i,7,7
+66,K$ref_events$s[2],1,9.16057588573023,9.2
+66,"K$rp_rule_comparison[set == ""Baseline (1985–2014)"" & T_ref == 25 & estimator == ""bernstein"", T_new]",1,50.0674873920328,50.1
+66,"K$rp_rule_comparison[set == ""Baseline (1985–2014)"" & T_ref == 25 & estimator == ""bernstein"", T_old_rule]",1,49.2983519392699,49.3
+67,"K$qdm_acceptance[binding == TRUE & stage == ""raw"" & variable == ""pr"", n_models]",i,27,27
+67,"if (K$qdm_acceptance_primary$pass_A_all) ""met"" else paste(""**not met** for"", paste(K$qdm_acceptance_primary$failed_A, collapse = "", ""))",s,**not met** for pr,**not met** for pr
+67,"if (isTRUE(K$qdm_acceptance_primary$pass_B)) ""met"" else ""**not met**""",s,**not met**,**not met**
+67,"K$qdm_acceptance[binding == TRUE & stage == ""raw"" & variable == ""pr"", A_mean_abs]",1,33.6795520324271,33.7
+67,"K$qdm_acceptance[binding == TRUE & stage == ""primary"" & variable == ""pr"", A_mean_abs]",1,40.1309796021526,40.1
+67,"K$qdm_acceptance[binding == TRUE & stage == ""S1"" & variable == ""pr"", A_mean_abs]",1,29.6823302143228,29.7
+67,"K$qdm_acceptance[binding == TRUE & stage == ""S2"" & variable == ""pr"", A_mean_abs]",1,30.5181139398237,30.5
+67,"K$qdm_acceptance[binding == TRUE & stage == ""primary"" & variable == ""pr"", max_month_name]",s,Dec,Dec
+67,"K$qdm_acceptance[binding == TRUE & stage == ""primary"" & variable == ""pr"", max_month]",1,110.894440909827,110.9
+68,K$n_boot,i,1000,"1,000"
+68,"paste(K$top_models, collapse = "", "")",s,"MIROC6, GISS-E2-1-G, NorESM2-MM, CNRM-CM6-1, ACCESS-ESM1-5, CMCC-ESM2, CNRM-ESM2-1, INM-CM4-8, NorESM2-LM, GFDL-CM4","MIROC6, GISS-E2-1-G, NorESM2-MM, CNRM-CM6-1, ACCESS-ESM1-5, CMCC-ESM2, CNRM-ESM2-1, INM-CM4-8, NorESM2-LM, GFDL-CM4"
+68,"K$selection_overlap[comparison == ""v2.1 primary set"", n_common]",i,8,8
+68,"K$selection_overlap[comparison == ""v2.1 primary set"", dropped]",s,"GFDL-ESM4, TaiESM1","GFDL-ESM4, TaiESM1"
+68,"K$selection_overlap[comparison == ""v2.1 primary set"", added]",s,"CMCC-ESM2, CNRM-ESM2-1","CMCC-ESM2, CNRM-ESM2-1"
+68,"K$model_set_sensitivity[startsWith(set, ""primary (v3"") & scenario == ""SSP2-4.5"", d_freq]",+1,9.9912435124996,+10.0
+68,"K$model_set_sensitivity[startsWith(set, ""primary (v3"") & scenario == ""SSP5-8.5"", d_freq]",+1,11.0587559324741,+11.1
+68,"K$model_set_sensitivity[startsWith(set, ""old 10"") & scenario == ""SSP2-4.5"", d_freq]",+1,10.7367867707369,+10.7
+68,"K$model_set_sensitivity[startsWith(set, ""old 10"") & scenario == ""SSP5-8.5"", d_freq]",+1,12.8272773553505,+12.8
+68,"K$model_set_sensitivity[startsWith(set, ""all"") & scenario == ""SSP2-4.5"", n_models]",i,27,27
+68,"K$model_set_sensitivity[startsWith(set, ""all"") & scenario == ""SSP2-4.5"", d_freq]",+1,8.30018288270283,+8.3
+68,"K$model_set_sensitivity[startsWith(set, ""all"") & scenario == ""SSP5-8.5"", d_freq]",+1,9.86602552153689,+9.9
+69,"K$robust_cells_pct[scenario == ""ssp245"" & period == ""far"", pct_robust]",1,82.4561403508772,82.5
+69,"K$robust_cells_pct[scenario == ""ssp585"" & period == ""far"", pct_robust]",1,87.719298245614,87.7
+69,"K$robust_cells_pct[scenario == ""ssp245"" & period == ""far"", pct_robust_noFDR]",1,82.4561403508772,82.5
+69,"K$robust_cells_pct[scenario == ""ssp585"" & period == ""far"", pct_robust_noFDR]",1,87.719298245614,87.7
+69,"K$robust_cells_pct[scenario == ""ssp585"" & period == ""mid"", pct_robust]",1,0,0.0
+69,"K$robust_cells_pct[scenario == ""ssp585"" & period == ""mid"", pct_robust_noFDR]",1,40.3508771929825,40.4
+70,K$n_warnings_logged,i,183,183
+78,"paste(K$stations_v2$accepted_P_ET0, collapse = "", "")",s,"Chaklala, Islamabad (PMD), Jhelum, Murree (PMD), Peshawar Intl","Chaklala, Islamabad (PMD), Jhelum, Murree (PMD), Peshawar Intl"
+79,"K$pmd_hum_wind_obs_pct[station == ""Murree (PMD)"", tdew_obs_pct]",1,27.6991877338688,27.7
+80,"paste(K$wapda$ref, collapse = ""–"")",s,1985–2003,1985–2003
+80,"paste(K$wapda$ref_alt, collapse = ""–"")",s,1974–2003,1974–2003
+80,K$propagation$period,s,1981–2003,1981–2003
+80,K$propagation$best_k,i,1,1
+80,K$propagation$best_lag,i,0,0
+80,K$propagation$r,2,0.606759859214202,0.61
+80,K$propagation_glofas$best_k,i,1,1
+80,K$propagation_glofas$r,2,0.496541602844787,0.50
+80,"K$glofas_vs_wapda[gauge == ""Dhok Pathan"", KGE]",2,0.590091046387766,0.59
+80,"K$glofas_vs_wapda[gauge == ""Chirah"", KGE]",2,0.23034813681581,0.23
+83,"paste(K$model_sets[[""v2.2 primary (open-data stations only)""]], collapse = "", "")",s,"MIROC6, CNRM-CM6-1, GISS-E2-1-G, ACCESS-ESM1-5, NorESM2-MM, CMCC-ESM2, INM-CM4-8, TaiESM1, NorESM2-LM, GFDL-CM4","MIROC6, CNRM-CM6-1, GISS-E2-1-G, ACCESS-ESM1-5, NorESM2-MM, CMCC-ESM2, INM-CM4-8, TaiESM1, NorESM2-LM, GFDL-CM4"
+83,"paste(K$top_models, collapse = "", "")",s,"MIROC6, GISS-E2-1-G, NorESM2-MM, CNRM-CM6-1, ACCESS-ESM1-5, CMCC-ESM2, CNRM-ESM2-1, INM-CM4-8, NorESM2-LM, GFDL-CM4","MIROC6, GISS-E2-1-G, NorESM2-MM, CNRM-CM6-1, ACCESS-ESM1-5, CMCC-ESM2, CNRM-ESM2-1, INM-CM4-8, NorESM2-LM, GFDL-CM4"
+90,K$station_dz_max,i,500,500
+90,"x <- K$station_eligibility[in_domain == TRUE & representative == FALSE, station]; if (length(x)) paste(x, collapse = "", "") else ""none""",s,Murree (PMD),Murree (PMD)
+91,"x <- K$homogeneity[class == ""suspect"" & station %in% K$station_eligibility$station, paste(station, variable)]; if (length(x)) paste(x, collapse = "", "") else ""none""",s,"Chaklala ET0, Chaklala Tmax, Islamabad (PMD) ET0, Islamabad (PMD) Tmax, Jhelum P, Jhelum Tmax, Murree (PMD) ET0, Murree (PMD) Tmax, Peshawar Intl P, Peshawar Intl Tmax, Peshawar Intl Tmin","Chaklala ET0, Chaklala Tmax, Islamabad (PMD) ET0, Islamabad (PMD) Tmax, Jhelum P, Jhelum Tmax, Murree (PMD) ET0, Murree (PMD) Tmax, Peshawar Intl P, Peshawar Intl Tmax, Peshawar Intl Tmin"
+92,"x <- K$station_eligibility[hum_wind_obs_pct < 70, station]; if (length(x)) paste(x, collapse = "", "") else ""none""",s,Murree (PMD),Murree (PMD)
+93,K$propagation$chirah_catchment_km2,0,352.678591530227,353
+93,K$propagation$best_k,i,1,1
+93,K$propagation$best_lag,i,0,0
+93,K$propagation$r,2,0.606759859214202,0.61
+93,K$propagation$chirah_best_k,i,2,2
+93,K$propagation$chirah_r,2,0.509227966771828,0.51
+94,"K$copula_gof$pooled[!grepl(""Observed"", set), sum(D_AD_p >= 0.05)]",i,10,10
+94,"K$copula_gof$pooled[!grepl(""Observed"", set), .N]",i,10,10
+94,"K$copula_gof$pooled[!grepl(""Observed"", set), sum(S_AD_p >= 0.05)]",i,10,10
+94,"K$copula_gof$pooled[!grepl(""Observed"", set), .N]",i,10,10
+95,"K$exposure_uncertainty[district == ""Potohar (all units)"" & scenario == ""ssp585"" & period == ""far"", dE_wmean]",1,70.8242861557125,70.8
+95,"K$exposure_uncertainty[district == ""Potohar (all units)"" & scenario == ""ssp585"" & period == ""far"", ci_lo]",1,38.8136914740808,38.8
+95,"K$exposure_uncertainty[district == ""Potohar (all units)"" & scenario == ""ssp585"" & period == ""far"", ci_hi]",1,104.240193470016,104.2
+96,"K$raw_vs_qdm[scenario == ""ssp245"", dfreq_raw]",+1,11.5489308926716,+11.5
+96,"K$raw_vs_qdm[scenario == ""ssp245"", dfreq_qdm]",+1,9.9912435124996,+10.0
+96,"K$raw_vs_qdm[scenario == ""ssp585"", dfreq_raw]",+1,14.5839175548275,+14.6
+96,"K$raw_vs_qdm[scenario == ""ssp585"", dfreq_qdm]",+1,11.0587559324741,+11.1

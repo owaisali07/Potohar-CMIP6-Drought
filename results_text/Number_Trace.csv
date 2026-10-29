@@ -1,0 +1,411 @@
+section,printed,value,expression
+"A. Observed Climate and Drought, 1981–2024",786,786.172279331806,cl$P_chirps
+"A. Observed Climate and Drought, 1981–2024",888,887.929283800776,cl$P_cru
+"A. Observed Climate and Drought, 1981–2024",1025,1025.00005384859,cl$P_e5l
+"A. Observed Climate and Drought, 1981–2024",64,64.0426408345672,K$monsoon_share_pct
+"A. Observed Climate and Drought, 1981–2024",70,70,constant: published range [4]
+"A. Observed Climate and Drought, 1981–2024",75,75,constant: published range [4]
+"A. Observed Climate and Drought, 1981–2024",1384,1384.28855181041,cl$ET0_pm
+"A. Observed Climate and Drought, 1981–2024",1342,1341.99565453303,cl$ET0_pm_tc
+"A. Observed Climate and Drought, 1981–2024",1338,1338.36316384657,cl$PET_tc
+"A. Observed Climate and Drought, 1981–2024",1253,1252.9101059186,cl$PET_cru
+"A. Observed Climate and Drought, 1981–2024",1444,1443.64761693187,cl$ET0_hg
+"A. Observed Climate and Drought, 1981–2024",100,99.7,ps$pmd_pct_P_1981_2010
+"A. Observed Climate and Drought, 1981–2024",100,100,ps$pmd_pct_P_1981_2010
+"A. Observed Climate and Drought, 1981–2024",40,40,st$n_candidates
+"A. Observed Climate and Drought, 1981–2024",100,100,constant: station search radius (km)
+"A. Observed Climate and Drought, 1981–2024",5,5,length(st$accepted_P_ET0)
+"A. Observed Climate and Drought, 1981–2024",70,70,constant: completeness rule (%)
+"A. Observed Climate and Drought, 1981–2024",+756,756.445253487183,756.445253487183
+"A. Observed Climate and Drought, 1981–2024",500,500,K$station_dz_max
+"A. Observed Climate and Drought, 1981–2024",70,70,constant: completeness rule (%)
+"A. Observed Climate and Drought, 1981–2024",0.98,0.976980618320262,e5k$r
+"A. Observed Climate and Drought, 1981–2024",+21,20.8207664336242,20.8207664336242
+"A. Observed Climate and Drought, 1981–2024",0.97,0.974668284026032,tck$r
+"A. Observed Climate and Drought, 1981–2024",+13,13.0795167524238,13.0795167524238
+"A. Observed Climate and Drought, 1981–2024",10,10,constant: wind measurement height (m)
+"A. Observed Climate and Drought, 1981–2024",1.66,1.66178875478012,aw$median_ratio_ERA5L_station
+"A. Observed Climate and Drought, 1981–2024",1.43,1.42565714426467,aw$median_ratio_TC_station
+"A. Observed Climate and Drought, 1981–2024",5,5,"sum(wP == ""increased"")"
+"A. Observed Climate and Drought, 1981–2024",0,0,"sum(wP == ""decreased"")"
+"A. Observed Climate and Drought, 1981–2024",5,5,length(wP)
+"A. Observed Climate and Drought, 1981–2024",+45,45.4739641121965,45.4739641121965
+"A. Observed Climate and Drought, 1981–2024",+77,77.2403887011123,77.2403887011123
+"A. Observed Climate and Drought, 1981–2024",4,4,"sum(wE == ""increased"")"
+"A. Observed Climate and Drought, 1981–2024",0,0,"sum(wE == ""decreased"")"
+"A. Observed Climate and Drought, 1981–2024",+16,15.661903438742,15.661903438742
+"A. Observed Climate and Drought, 1981–2024",+26,25.5137259660174,25.5137259660174
+"A. Observed Climate and Drought, 1981–2024",0,0,"sum(wW == ""increased"")"
+"A. Observed Climate and Drought, 1981–2024",0,0,"sum(wS == ""increased"")"
+"A. Observed Climate and Drought, 1981–2024",5,5,sum(dM$p_BH >= WCFG$alpha)
+"A. Observed Climate and Drought, 1981–2024",99.9,99.9,fs$P
+"A. Observed Climate and Drought, 1981–2024",49.7,49.7,fs$ET0
+"A. Observed Climate and Drought, 1981–2024",0.0,0,fs$SPEI12
+"A. Observed Climate and Drought, 1981–2024",+56.4,56.430139270457,56.430139270457
+"A. Observed Climate and Drought, 1981–2024",0.0009,0.000942763602804319,ta$P_p
+"A. Observed Climate and Drought, 1981–2024",+21.7,21.7337535976163,21.7337535976163
+"A. Observed Climate and Drought, 1981–2024",0.016,0.0160821124565624,ta$ET0_p
+"A. Observed Climate and Drought, 1981–2024",+35.2,35.1745675618793,35.1745675618793
+"A. Observed Climate and Drought, 1981–2024",0.13,0.131805388928391,ta$WB_p
+"A. Observed Climate and Drought, 1981–2024",39,38.5144425985754,ta$offset_pct
+"A. Observed Climate and Drought, 1981–2024",21.7,21.7337535976163,ta$ET0_slope_mm_dec
+"A. Observed Climate and Drought, 1981–2024",56.4,56.430139270457,ta$P_slope_mm_dec
+"A. Observed Climate and Drought, 1981–2024",+0.38,0.375217236920855,0.375217236920855
+"A. Observed Climate and Drought, 1981–2024",+0.34,0.339774677027306,0.339774677027306
+"A. Observed Climate and Drought, 1981–2024",+0.40,0.400745116271313,0.400745116271313
+"A. Observed Climate and Drought, 1981–2024",0.001,0.000874706976824131,"row(""SPI-12"")$p"
+"A. Observed Climate and Drought, 1981–2024",+0.21,0.210507456634072,0.210507456634072
+"A. Observed Climate and Drought, 1981–2024",0.15,0.148674842576366,"row(""SPEI-12"")$p"
+"A. Observed Climate and Drought, 1981–2024",0.60,0.604285727255475,sel$mean_r
+"A. Observed Climate and Drought, 1981–2024",5,5,sel$n_sig
+"A. Observed Climate and Drought, 1981–2024",5,5,constant: number of units
+"A. Observed Climate and Drought, 1981–2024",0.56,0.563513512647711,yo$mean_r[2]
+"A. Observed Climate and Drought, 1981–2024",0.69,0.694625173943787,yg$mean_r
+"A. Observed Climate and Drought, 1981–2024",0.62,0.619440533401827,min(K$yield_off_vs_gdhy_r$r)
+"A. Observed Climate and Drought, 1981–2024",0.81,0.814542945302459,max(K$yield_off_vs_gdhy_r$r)
+"A. Observed Climate and Drought, 1981–2024",4,4,length(gn$districts)
+"A. Observed Climate and Drought, 1981–2024",27,27,gn$n
+"A. Observed Climate and Drought, 1981–2024",0.44,0.442686367506566,gr$r
+"A. Observed Climate and Drought, 1981–2024",0.021,0.0207575264249492,gr$p
+"A. Observed Climate and Drought, 1981–2024",0.59,0.591564879646375,gb$r
+"A. Observed Climate and Drought, 1981–2024",−1,-1,constant: run threshold
+"A. Observed Climate and Drought, 1981–2024",35,35,oc$n_events
+"A. Observed Climate and Drought, 1981–2024",8.0,7.95454545454545,oc$events_per_decade
+"A. Observed Climate and Drought, 1981–2024",2.3,2.25714285714286,oc$D_mean
+"A. Observed Climate and Drought, 1981–2024",3.22,3.21981579538813,oc$S_mean
+"A. Observed Climate and Drought, 1981–2024",7,7,ev$D[1]
+"A. Observed Climate and Drought, 1981–2024",10.8,10.7890498451185,ev$S[1]
+"A. Observed Climate and Drought, 1981–2024",−1.5,-1.5,constant: concurrent threshold
+"A. Observed Climate and Drought, 1981–2024",16,16,cc$months_conc
+"A. Observed Climate and Drought, 1981–2024",3.0,3.04,cc$pct
+"A. Observed Climate and Drought, 1981–2024",40,40,constant: VHI drought threshold
+"A. Observed Climate and Drought, 1981–2024",30,30.2013422818792,K$vhi_drought_months_pct
+"A. Observed Climate and Drought, 1981–2024",3,3,vbest$scale
+"A. Observed Climate and Drought, 1981–2024",0.62,0.620347746604523,vbest$r_SPEI
+"A. Observed Climate and Drought, 1981–2024",0.82,0.822912773573323,"b[scale == 3, r]"
+"A. Observed Climate and Drought, 1981–2024",0.60,0.599099682190412,"b[scale == 3, rmse]"
+"A. Observed Climate and Drought, 1981–2024",3,3,constant: SPEI accumulation scale (months)
+"A. Observed Climate and Drought, 1981–2024",0.82,0.819852577715835,"b[scale == 6, r]"
+"A. Observed Climate and Drought, 1981–2024",0.61,0.611813519504332,"b[scale == 6, rmse]"
+"A. Observed Climate and Drought, 1981–2024",6,6,constant: SPEI accumulation scale (months)
+"A. Observed Climate and Drought, 1981–2024",90,90.0778210116732,"b[scale == 3, agree_drought]"
+"A. Observed Climate and Drought, 1981–2024",0.72,0.719923035554236,"cr[`vs CHIRPS-PM` == ""ERA5-Land"" & index == ""SPEI3"", r]"
+"A. Observed Climate and Drought, 1981–2024",0.83,0.82892362299203,"cr[`vs CHIRPS-PM` == ""CRU"" & index == ""SPEI3"", r]"
+"A. Observed Climate and Drought, 1981–2024",0.56,0.560309427141797,rch
+"A. Observed Climate and Drought, 1981–2024",0.38,0.378699594429931,re5
+"A. Observed Climate and Drought, 1981–2024",786,786.172279331806,min(RR$P_1985_2014)
+"A. Observed Climate and Drought, 1981–2024",1025,1025.00005384859,max(RR$P_1985_2014)
+"A. Observed Climate and Drought, 1981–2024",14.2,14.1666666666667,min(RR$SPI3_drought_pct_1985_2024)
+"A. Observed Climate and Drought, 1981–2024",18.3,18.3333333333333,max(RR$SPI3_drought_pct_1985_2024)
+"A. Observed Climate and Drought, 1981–2024",0.75,0.751931945007246,"RR[source == ""PERSIANN-CDR"", r_SPI3_vs_CHIRPS]"
+"A. Observed Climate and Drought, 1981–2024",+65,64.8601000225803,"c(64.8601000225803, -97.0871913817131, 28.7825748124711, -2.45906836796458)"
+"A. Observed Climate and Drought, 1981–2024",−97,-97.0871913817131,"c(64.8601000225803, -97.0871913817131, 28.7825748124711, -2.45906836796458)"
+"A. Observed Climate and Drought, 1981–2024",+29,28.7825748124711,"c(64.8601000225803, -97.0871913817131, 28.7825748124711, -2.45906836796458)"
+"A. Observed Climate and Drought, 1981–2024",−2,-2.45906836796458,"c(64.8601000225803, -97.0871913817131, 28.7825748124711, -2.45906836796458)"
+"A. Observed Climate and Drought, 1981–2024",0.001,0.000771197585211609,RR$P_trend_p
+"A. Observed Climate and Drought, 1981–2024",0.001,0.000917930358478502,RR$P_trend_p
+"A. Observed Climate and Drought, 1981–2024",0.217,0.217247250957729,RR$P_trend_p
+"A. Observed Climate and Drought, 1981–2024",0.904,0.903715806787905,RR$P_trend_p
+"A. Observed Climate and Drought, 1981–2024",0.70,0.697098749648611,sb$r_all
+"A. Observed Climate and Drought, 1981–2024",0.74,0.736429604747809,sb$r_rabi
+"A. Observed Climate and Drought, 1981–2024",0.55,0.549403682094281,"smt[index == ""SPEI-3"", r_all]"
+"A. Observed Climate and Drought, 1981–2024",0.47,0.474391022438869,"smt[index == ""SPI-3"", r_all]"
+"A. Observed Climate and Drought, 1981–2024",84,83.7476099426386,"smt[index == ""SPEI-3"", drought_agree]"
+"A. Observed Climate and Drought, 1981–2024",49,49,pb$n_drought_bulletins
+"A. Observed Climate and Drought, 1981–2024",3,3,s3$hits + s3$false_alarms
+"A. Observed Climate and Drought, 1981–2024",−1,-1,constant: run threshold
+"A. Observed Climate and Drought, 1981–2024",0.14,0.142857142857143,s3$hit_rate
+"A. Observed Climate and Drought, 1981–2024",0.67,0.666666666666667,s3$false_alarm_ratio
+"A. Observed Climate and Drought, 1981–2024",28,28,pq$n_quarterly
+"A. Observed Climate and Drought, 1981–2024",26,26,pq$n_declared
+"A. Observed Climate and Drought, 1981–2024",11,11,pq$n_declared_boilerplate_only
+"A. Observed Climate and Drought, 1981–2024",15,15,pq$n_original
+"A. Observed Climate and Drought, 1981–2024",2,2,pq$original_with_spei3_le_m1
+"A. Observed Climate and Drought, 1981–2024",−1,-1,constant: run threshold
+"A. Observed Climate and Drought, 1981–2024",8,8,pq$original_with_spei3_lt_0
+"A. Observed Climate and Drought, 1981–2024",0,0,constant: sign
+"A. Observed Climate and Drought, 1981–2024",3,3,pq$spei3_le_m1_quarters
+"A. Observed Climate and Drought, 1981–2024",−1,-1,constant: run threshold
+"A. Observed Climate and Drought, 1981–2024",2,2,pq$spei3_le_m1_quarters_declared_original
+B. Propagation from Meteorological to Hydrological Drought,353,352.678591530227,pr$chirah_catchment_km2
+B. Propagation from Meteorological to Hydrological Drought,1,1,pr$best_k
+B. Propagation from Meteorological to Hydrological Drought,0,0,pr$best_lag
+B. Propagation from Meteorological to Hydrological Drought,0.61,0.606759859214202,pr$r
+B. Propagation from Meteorological to Hydrological Drought,0,0,constant: lag (months)
+B. Propagation from Meteorological to Hydrological Drought,2,2,pr$chirah_best_k
+B. Propagation from Meteorological to Hydrological Drought,0.51,0.509227966771829,pr$chirah_r
+B. Propagation from Meteorological to Hydrological Drought,1,1,pg0$best_k
+B. Propagation from Meteorological to Hydrological Drought,0,0,pg0$best_lag
+B. Propagation from Meteorological to Hydrological Drought,0.59,0.586942208180679,pg0$r
+B. Propagation from Meteorological to Hydrological Drought,1,1,pg$best_k
+B. Propagation from Meteorological to Hydrological Drought,0,0,pg$best_lag
+B. Propagation from Meteorological to Hydrological Drought,0.50,0.496541602844787,pg$r
+B. Propagation from Meteorological to Hydrological Drought,1,1,pa$k
+B. Propagation from Meteorological to Hydrological Drought,0,0,pa$lag
+B. Propagation from Meteorological to Hydrological Drought,0.56,0.560822335199378,pa$r
+B. Propagation from Meteorological to Hydrological Drought,0.59,0.590091046387767,"g_(""Dhok Pathan"", ""KGE"")"
+B. Propagation from Meteorological to Hydrological Drought,0.23,0.23034813681581,"g_(""Chirah"", ""KGE"")"
+B. Propagation from Meteorological to Hydrological Drought,0.69,0.685689735049411,"g_(""Dhok Pathan"", ""r_Q"")"
+B. Propagation from Meteorological to Hydrological Drought,0.59,0.586406537258389,"g_(""Chirah"", ""r_Q"")"
+B. Propagation from Meteorological to Hydrological Drought,+10,10.2116506007215,10.2116506007215
+B. Propagation from Meteorological to Hydrological Drought,+34,33.6676560461576,33.6676560461576
+B. Propagation from Meteorological to Hydrological Drought,0.70,0.702410395812532,"g_(""Dhok Pathan"", ""r_SRI3"")"
+B. Propagation from Meteorological to Hydrological Drought,0.64,0.636708865423932,"g_(""Chirah"", ""r_SRI3"")"
+B. Propagation from Meteorological to Hydrological Drought,33,33.3333333333333,"g_(""Dhok Pathan"", ""POD_SRI3"")"
+B. Propagation from Meteorological to Hydrological Drought,33,33.3333333333333,"g_(""Chirah"", ""POD_SRI3"")"
+B. Propagation from Meteorological to Hydrological Drought,0.29,0.288888888888889,"g_(""Dhok Pathan"", ""CSI_SRI3"")"
+B. Propagation from Meteorological to Hydrological Drought,0.16,0.16,"g_(""Chirah"", ""CSI_SRI3"")"
+B. Propagation from Meteorological to Hydrological Drought,0.397,0.396630897133871,pt$p
+B. Propagation from Meteorological to Hydrological Drought,0.044,0.044458714572896,pt$p
+B. Propagation from Meteorological to Hydrological Drought,0.134,0.133626527564337,pt$p
+B. Propagation from Meteorological to Hydrological Drought,1998,1998,pt$change_year
+B. Propagation from Meteorological to Hydrological Drought,1995,1995,pt$change_year
+B. Propagation from Meteorological to Hydrological Drought,1995,1995,pt$change_year
+B. Propagation from Meteorological to Hydrological Drought,0.99,0.989846577942034,sb$r_SRI
+B. Propagation from Meteorological to Hydrological Drought,18.5,18.452380952381,sb$SRI_drought_pct_main
+B. Propagation from Meteorological to Hydrological Drought,6.5,6.54761904761905,sb$SRI_drought_pct_alt
+C. GCM Performance and Bias Correction,27,27,nrow(rk)
+C. GCM Performance and Bias Correction,10,10,constant: selection size
+C. GCM Performance and Bias Correction,1000,1000,K$n_boot
+C. GCM Performance and Bias Correction,10,10,constant: selection size
+C. GCM Performance and Bias Correction,0.93,0.927,rk$p_top10[1]
+C. GCM Performance and Bias Correction,0.303,0.302646737562783,rk$L[1]
+C. GCM Performance and Bias Correction,8,8,"ov[comparison == ""v2.1 primary set"", n_common]"
+C. GCM Performance and Bias Correction,9,9,"ov[comparison == ""CRITIC-weighted selection"", n_common]"
+C. GCM Performance and Bias Correction,9,9,"ov[comparison == ""equal-weight selection"", n_common]"
+C. GCM Performance and Bias Correction,10,10,constant: wind measurement height (m)
+C. GCM Performance and Bias Correction,2,2,constant: FAO-56 reference height (m)
+C. GCM Performance and Bias Correction,10,10,constant: wind measurement height (m)
+C. GCM Performance and Bias Correction,4.1,4.1400401406557,aw$median_ratio_NEX_station
+C. GCM Performance and Bias Correction,8,8,aw$n_stations
+C. GCM Performance and Bias Correction,2.3,2.32186665665037,aw$median_ratio_NEX_ERA5L
+C. GCM Performance and Bias Correction,1.23,1.22857903586989,aw$median_rs_ratio_NEX_ERA5L
+C. GCM Performance and Bias Correction,27,27,"a_(""raw"", ""pr"", ""n_models"")"
+C. GCM Performance and Bias Correction,33.7,33.6795520324271,"a_(""raw"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,40.1,40.1309796021526,"a_(""primary"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,2.0,2.01897577356944,"a_(""raw"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,0.9,0.863348386984937,"a_(""primary"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,0.6,0.637396817829362,"a_(""raw"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,0.6,0.582314054522825,"a_(""primary"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,18.9,18.8821102232121,"a_(""raw"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,4.9,4.90878247032274,"a_(""primary"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,13.4,13.4163300370428,"a_(""raw"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,4.1,4.09786404108054,"a_(""primary"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,102.2,102.217374329454,"a_(""raw"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,4.0,4.01543716176004,"a_(""primary"", var, ""A_mean_abs"")"
+C. GCM Performance and Bias Correction,110.9,110.894440909827,"a_(""primary"", ""pr"", ""max_month"")"
+C. GCM Performance and Bias Correction,25,25,constant: pre-registered pr monthly bias limit (%)
+C. GCM Performance and Bias Correction,60.4,60.4479495658282,"oc[stage == ""raw"", mean_abs]"
+C. GCM Performance and Bias Correction,35.6,35.556666001045,"oc[stage == ""primary"", mean_abs]"
+C. GCM Performance and Bias Correction,23.7,23.6919434035278,"oc[stage == ""S1"", mean_abs]"
+C. GCM Performance and Bias Correction,31.2,31.2071300993494,"oc[stage == ""S2"", mean_abs]"
+C. GCM Performance and Bias Correction,107.5,107.525012231406,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,4.1,4.09753333771878,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,16.5,16.530444892727,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,5.3,5.32656091935036,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,17.0,16.9562261819579,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,6.5,6.51310182064102,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,2.00,2.00269302741086,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,1.30,1.29657559173046,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,0.62,0.6237443849936,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,0.58,0.58417753835853,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,75,75.0348170628839,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,29,28.8081433592465,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,24.2,24.232808792215,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,27.7,27.6703687911919,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,+6.6,6.58789473684211,6.58789473684211
+C. GCM Performance and Bias Correction,+23.6,23.6387719298246,23.6387719298246
+C. GCM Performance and Bias Correction,+28,28.4753976878121,28.4753976878121
+C. GCM Performance and Bias Correction,+23,22.6409001307061,22.6409001307061
+C. GCM Performance and Bias Correction,+1,0.740697114094194,0.740697114094194
+C. GCM Performance and Bias Correction,−2,-1.74827096529133,-1.74827096529133
+C. GCM Performance and Bias Correction,23.5,23.5457643922909,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,23.1,23.1174368721755,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,81,80.8850239605195,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,26,25.520086097167,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,+6.8,6.84929824561404,6.84929824561404
+C. GCM Performance and Bias Correction,+5.4,5.41947368421053,5.41947368421053
+C. GCM Performance and Bias Correction,114,114.197141005598,"v(g, var, ""raw"", col)"
+C. GCM Performance and Bias Correction,191,190.511688037927,"v(g, var, ""QDM"", col)"
+C. GCM Performance and Bias Correction,+6.8,6.83970366986381,6.83970366986381
+C. GCM Performance and Bias Correction,+19.3,19.2513802651752,19.2513802651752
+C. GCM Performance and Bias Correction,+15.7,15.7251702592805,15.7251702592805
+C. GCM Performance and Bias Correction,+31.5,31.4646889586315,31.4646889586315
+C. GCM Performance and Bias Correction,+10.0,10.0212893146861,10.0212893146861
+C. GCM Performance and Bias Correction,+23.6,23.5516966836663,23.5516966836663
+C. GCM Performance and Bias Correction,+9.3,9.30166570383104,9.30166570383104
+C. GCM Performance and Bias Correction,+22.9,22.931036988081,22.931036988081
+C. GCM Performance and Bias Correction,+11.5,11.5489308926716,11.5489308926716
+C. GCM Performance and Bias Correction,+14.6,14.5839175548275,14.5839175548275
+C. GCM Performance and Bias Correction,+11.5,11.5489308926716,11.5489308926716
+C. GCM Performance and Bias Correction,+14.6,14.5839175548275,14.5839175548275
+C. GCM Performance and Bias Correction,+10.0,9.9912435124996,9.9912435124996
+C. GCM Performance and Bias Correction,+11.1,11.0587559324741,11.0587559324741
+D. Projected Changes in Drought Characteristics,17.5,17.4722222222222,mb$freq
+D. Projected Changes in Drought Characteristics,2.37,2.36888176126689,mb$D
+D. Projected Changes in Drought Characteristics,3.37,3.37108196348981,mb$S
+D. Projected Changes in Drought Characteristics,−0.9,-0.877081669344372,-0.877081669344372
+D. Projected Changes in Drought Characteristics,−0.9,-0.919575251584737,-0.919575251584737
+D. Projected Changes in Drought Characteristics,+10.0,9.9912435124996,9.9912435124996
+D. Projected Changes in Drought Characteristics,−0.9,-0.888888888888887,"g(""ssp245"", ""far"", ""d_freq"")$p10"
+D. Projected Changes in Drought Characteristics,20.9,20.8555555555556,"g(""ssp245"", ""far"", ""d_freq"")$p90"
+D. Projected Changes in Drought Characteristics,+11.1,11.0587559324741,11.0587559324741
+D. Projected Changes in Drought Characteristics,0.2,0.216666666666668,"g(""ssp585"", ""far"", ""d_freq"")$p10"
+D. Projected Changes in Drought Characteristics,23.4,23.3888888888889,"g(""ssp585"", ""far"", ""d_freq"")$p90"
+D. Projected Changes in Drought Characteristics,+1.52,1.51881766867876,1.51881766867876
+D. Projected Changes in Drought Characteristics,+1.79,1.79475848275492,1.79475848275492
+D. Projected Changes in Drought Characteristics,82,82.4561403508772,"rc[scenario == ""ssp245"" & period == ""far"", pct_robust]"
+D. Projected Changes in Drought Characteristics,88,87.719298245614,"rc[scenario == ""ssp585"" & period == ""far"", pct_robust]"
+D. Projected Changes in Drought Characteristics,82,82.4561403508772,"rc[scenario == ""ssp245"" & period == ""far"", pct_robust_noFDR]"
+D. Projected Changes in Drought Characteristics,88,87.719298245614,"rc[scenario == ""ssp585"" & period == ""far"", pct_robust_noFDR]"
+D. Projected Changes in Drought Characteristics,+15.7,15.7251702592805,15.7251702592805
+D. Projected Changes in Drought Characteristics,+31.5,31.4646889586316,31.4646889586315
+D. Projected Changes in Drought Characteristics,+7.7,7.66419927087234,7.66419927087234
+D. Projected Changes in Drought Characteristics,+12.4,12.3846438659915,12.3846438659915
+D. Projected Changes in Drought Characteristics,+43.0,42.969532196729,42.969532196729
+D. Projected Changes in Drought Characteristics,+1.7,1.7451009977557,1.7451009977557
+D. Projected Changes in Drought Characteristics,+20.4,20.3892639452146,20.3892639452146
+D. Projected Changes in Drought Characteristics,+26.6,26.6110256814666,26.6110256814666
+D. Projected Changes in Drought Characteristics,+27.9,27.857531150638,27.857531150638
+D. Projected Changes in Drought Characteristics,+2.5,2.45049971667802,2.45049971667802
+D. Projected Changes in Drought Characteristics,−12.7,-12.6840328188862,-12.6840328188862
+D. Projected Changes in Drought Characteristics,+34.9,34.8892648642495,34.8892648642495
+D. Projected Changes in Drought Characteristics,+1.5,1.5,constant: GWL
+D. Projected Changes in Drought Characteristics,+2,2,constant: GWL
+D. Projected Changes in Drought Characteristics,+3,3,constant: GWL
+D. Projected Changes in Drought Characteristics,−0.9,-0.860515094947705,-0.860515094947705
+D. Projected Changes in Drought Characteristics,+2.5,2.51156809474073,2.51156809474073
+D. Projected Changes in Drought Characteristics,+5.9,5.9220224665338,5.9220224665338
+D. Projected Changes in Drought Characteristics,+1.9,1.92352896903532,1.92352896903532
+D. Projected Changes in Drought Characteristics,+4.5,4.4887884547916,4.4887884547916
+D. Projected Changes in Drought Characteristics,+7.8,7.79034374773496,7.79034374773496
+E. Joint Duration–Severity Return Periods,−1,-1,constant: run threshold
+E. Joint Duration–Severity Return Periods,10,10,NKEEP_TXT
+E. Joint Duration–Severity Return Periods,202,202,min(pmod$n)
+E. Joint Duration–Severity Return Periods,348,348,max(pmod$n)
+E. Joint Duration–Severity Return Periods,244,244,pb0$n
+E. Joint Duration–Severity Return Periods,300,300,pb0$model_years
+E. Joint Duration–Severity Return Periods,0.05,0.05,constant: alpha
+E. Joint Duration–Severity Return Periods,0,0,sum(pmod$D_AD_p < 0.05)
+E. Joint Duration–Severity Return Periods,0,0,sum(pmod$S_AD_p < 0.05)
+E. Joint Duration–Severity Return Periods,10,10,sum(pmod$cvm_p < 0.05)
+E. Joint Duration–Severity Return Periods,10,10,nrow(pmod)
+E. Joint Duration–Severity Return Periods,8,8,min(pmod$n_exceed_25yr)
+E. Joint Duration–Severity Return Periods,31,31,max(pmod$n_exceed_25yr)
+E. Joint Duration–Severity Return Periods,0,0,"sum(CT$extrapolated & CT$set != ""Observed (1981–2024)"")"
+E. Joint Duration–Severity Return Periods,90,90,"nrow(CT[set != ""Observed (1981–2024)""])"
+E. Joint Duration–Severity Return Periods,25,25,ref$T[2]
+E. Joint Duration–Severity Return Periods,7,7,ref$k[2]
+E. Joint Duration–Severity Return Periods,9.2,9.16057588573023,ref$s[2]
+E. Joint Duration–Severity Return Periods,50.1,50.0674873920328,x[[col]]
+E. Joint Duration–Severity Return Periods,95,95,constant: confidence level (%)
+E. Joint Duration–Severity Return Periods,23.3,23.3388027361837,x[[col]]
+E. Joint Duration–Severity Return Periods,43.4,43.3623928028251,x[[col]]
+E. Joint Duration–Severity Return Periods,33.3,33.3333333333333,x[[col]]
+E. Joint Duration–Severity Return Periods,9.5,9.54696382723166,x[[col]]
+E. Joint Duration–Severity Return Periods,6.9,6.87558827754356,x[[col]]
+E. Joint Duration–Severity Return Periods,15.9,15.9261632878181,x[[col]]
+E. Joint Duration–Severity Return Periods,10.0,9.95774640158045,x[[col]]
+E. Joint Duration–Severity Return Periods,7.2,7.20075457264997,x[[col]]
+E. Joint Duration–Severity Return Periods,18.4,18.3988099418402,x[[col]]
+E. Joint Duration–Severity Return Periods,9.0,9.0441792942686,x[[col]]
+E. Joint Duration–Severity Return Periods,9.3,9.3332927422075,x[[col]]
+E. Joint Duration–Severity Return Periods,8.1,8.06451612903226,x[[col]]
+E. Joint Duration–Severity Return Periods,8.3,8.33333333333333,x[[col]]
+E. Joint Duration–Severity Return Periods,+1.5,1.5,constant: GWL
+E. Joint Duration–Severity Return Periods,+2,2,constant: GWL
+E. Joint Duration–Severity Return Periods,+3,3,constant: GWL
+E. Joint Duration–Severity Return Periods,28.5,28.4694571662226,x[[col]]
+E. Joint Duration–Severity Return Periods,19.1,19.0917313925701,x[[col]]
+E. Joint Duration–Severity Return Periods,17.0,17.0339869647749,x[[col]]
+E. Joint Duration–Severity Return Periods,33.6,33.5830945329603,x[[col]]
+E. Joint Duration–Severity Return Periods,28.8,28.7954468146217,x[[col]]
+F. Exposure of Rainfed Crops,104,104.176576193951,"eg(""ssp245"")$E0_wheat/1000"
+F. Exposure of Rainfed Crops,592,591.515452,"eg(""ssp245"")$wheat_total/1000"
+F. Exposure of Rainfed Crops,+62,61.790200671453,61.790200671453
+F. Exposure of Rainfed Crops,+71,70.88906214985,70.88906214985
+F. Exposure of Rainfed Crops,+66,66.3938414257491,66.3938414257491
+F. Exposure of Rainfed Crops,+80,79.8455375621386,79.8455375621386
+F. Exposure of Rainfed Crops,+82,82.0900039840931,82.0900039840931
+F. Exposure of Rainfed Crops,+46,46.1069636412452,46.1069636412452
+F. Exposure of Rainfed Crops,1.5,1.5,constant: exposure class break (x baseline)
+F. Exposure of Rainfed Crops,94,94.4404015137778,"eg(""ssp245"")$share_wheat_ge15"
+F. Exposure of Rainfed Crops,93,93.2222039441701,"eg(""ssp585"")$share_wheat_ge15"
+F. Exposure of Rainfed Crops,0.0,0,"eg(""ssp245"")$share_wheat_ge2"
+F. Exposure of Rainfed Crops,1.9,1.86520649979957,"eg(""ssp585"")$share_wheat_ge2"
+F. Exposure of Rainfed Crops,+62,61.8270224971928,61.8270224971928
+F. Exposure of Rainfed Crops,−5,-5.31963053670025,-5.31963053670025
+F. Exposure of Rainfed Crops,+121,120.854942751801,120.854942751801
+F. Exposure of Rainfed Crops,95,95,constant: confidence level (%)
+F. Exposure of Rainfed Crops,+31,30.6041306405938,30.6041306405938
+F. Exposure of Rainfed Crops,+93,92.8440157005272,92.8440157005272
+F. Exposure of Rainfed Crops,+71,70.8242861557125,70.8242861557125
+F. Exposure of Rainfed Crops,+3,3.30321213620513,3.30321213620512
+F. Exposure of Rainfed Crops,+143,143.237319328927,143.237319328927
+F. Exposure of Rainfed Crops,+39,38.8136914740808,38.8136914740808
+F. Exposure of Rainfed Crops,+104,104.240193470016,104.240193470016
+F. Exposure of Rainfed Crops,84,83.7064569578861,"eu_(""ssp245"")$agree_increase"
+F. Exposure of Rainfed Crops,93,92.6600257071953,"eu_(""ssp585"")$agree_increase"
+F. Exposure of Rainfed Crops,507,507.360228605809,"xf[scenario == ""ssp245"", w]/1000"
+F. Exposure of Rainfed Crops,86,85.7729458952171,"100 * xf[scenario == ""ssp245"", w]/xf[scenario == ""ssp245"", wt]"
+F. Exposure of Rainfed Crops,559,558.629567884838,"xf[scenario == ""ssp585"", w]/1000"
+F. Exposure of Rainfed Crops,94,94.4404015137779,"100 * xf[scenario == ""ssp585"", w]/xf[scenario == ""ssp585"", wt]"
+F. Exposure of Rainfed Crops,96,96.3902113686424,100 * rcw$wheat_share_spam
+F. Exposure of Rainfed Crops,94,93.5796597768429,100 * rcw$wheat_share_crs_2016_24
+F. Exposure of Rainfed Crops,2.3,2.29651002207175,rcw$wheat_rf_kha_spam/rcw$wheat_rf_kha_crs_2011_13
+F. Exposure of Rainfed Crops,949,949.345873716164,rcw$wheat_rf_kha_spam
+F. Exposure of Rainfed Crops,413,413.3863404,rcw$wheat_rf_kha_crs_2011_13
+F. Exposure of Rainfed Crops,63,62.6215038465184,rcw$gnut_rf_kha_spam
+F. Exposure of Rainfed Crops,104,103.5602590968,rcw$gnut_rf_kha_crs
+F. Exposure of Rainfed Crops,22,21.977240398293,100 * (1 - min(rsh$wheat_share))
+F. Exposure of Rainfed Crops,99.7,99.7037947583068,100 * rcw$gnut_share_crs
+G. Uncertainty and Sensitivity,71,70.501908256437,"hf(""Drought"", 2050, big(2050))"
+G. Uncertainty and Sensitivity,80,79.7286670682869,"hf(""Drought"", 2095, big(2095))"
+G. Uncertainty and Sensitivity,42,42.1127382193044,"hf(""Drought"", 2030, ""internal"")"
+G. Uncertainty and Sensitivity,19,18.8862790114377,"hf(""Drought"", 2095, ""internal"")"
+G. Uncertainty and Sensitivity,1,1.38505392027538,"hf(""Drought"", 2095, ""scenario"")"
+G. Uncertainty and Sensitivity,10.0,9.9912435124996,"t7(""Reference"")[1]"
+G. Uncertainty and Sensitivity,11.1,11.0587559324741,"t7(""Reference"")[2]"
+G. Uncertainty and Sensitivity,11.1,11.0959784592751,"t7(""Hargreaves"")[1]"
+G. Uncertainty and Sensitivity,12.5,12.5299300099132,"t7(""Hargreaves"")[2]"
+G. Uncertainty and Sensitivity,8.4,8.37938915716063,"t7(""Threshold"")[1]"
+G. Uncertainty and Sensitivity,11.3,11.2905953448808,"t7(""Threshold"")[2]"
+G. Uncertainty and Sensitivity,−1.5,-1.5,constant: sensitivity threshold
+G. Uncertainty and Sensitivity,8.9,8.93651396854353,"t7(""Alternative baseline"")[1]"
+G. Uncertainty and Sensitivity,10.1,10.0974574717335,"t7(""Alternative baseline"")[2]"
+G. Uncertainty and Sensitivity,11.5,11.5489308926716,"t7(""No QDM"")[1]"
+G. Uncertainty and Sensitivity,14.6,14.5839175548275,"t7(""No QDM"")[2]"
+G. Uncertainty and Sensitivity,19,19,"sum(T7$`Δ freq far (%-pt)` > 0, na.rm = TRUE)"
+G. Uncertainty and Sensitivity,19,19,sum(!is.na(T7$`Δ freq far (%-pt)`))
+G. Uncertainty and Sensitivity,8.2,8.22222222222222,mean(K$isimip_chain$isimip_dfreq)
+G. Uncertainty and Sensitivity,7.5,7.52222222222222,mean(K$isimip_chain$nex_dfreq)
+G. Uncertainty and Sensitivity,7.5,7.49874391449023,"min(MS[scenario == ""SSP2-4.5"", d_freq])"
+G. Uncertainty and Sensitivity,10.7,10.7367867707369,"max(MS[scenario == ""SSP2-4.5"", d_freq])"
+G. Uncertainty and Sensitivity,9.1,9.05749068442778,"min(MS[scenario == ""SSP5-8.5"", d_freq])"
+G. Uncertainty and Sensitivity,12.8,12.8272773553505,"max(MS[scenario == ""SSP5-8.5"", d_freq])"
+G. Uncertainty and Sensitivity,12,12,sum(MS$robust)
+G. Uncertainty and Sensitivity,14,14,nrow(MS)
+G. Uncertainty and Sensitivity,10,10,constant: wind measurement height (m)
+G. Uncertainty and Sensitivity,−34,-33.8460899422885,-33.8460899422885
+G. Uncertainty and Sensitivity,−31,-30.9499393473493,-30.9499393473493
+G. Uncertainty and Sensitivity,5,5,"sum(DR[scenario == ""ssp245""]$robust)"
+G. Uncertainty and Sensitivity,5,5,constant: number of units
+G. Uncertainty and Sensitivity,5,5,"sum(DR[scenario == ""ssp585""]$robust)"
+G. Uncertainty and Sensitivity,5,5,constant: number of units
+I. Limitations,2,2,constant: number of PMD stations
+I. Limitations,5,5,length(st$accepted_P_ET0)
+I. Limitations,0.23,0.23034813681581,min(gv$KGE)
+I. Limitations,0.59,0.590091046387767,max(gv$KGE)
+I. Limitations,0.05,0.05,constant: alpha
+I. Limitations,10,10,sum(pmod$cvm_p < 0.05)
+I. Limitations,10,10,nrow(pmod)
+I. Limitations,3,3,NROW(K$discontinuity_fix)
+I. Limitations,0.59,0.590091046387767,"g_(""Dhok Pathan"", ""KGE"")"
+I. Limitations,0.23,0.23034813681581,"g_(""Chirah"", ""KGE"")"
+I. Limitations,+34,33.6676560461576,33.6676560461576
+I. Limitations,8,8,constant: post-hoc entry number
+I. Limitations,9,9,ov_v3
+I. Limitations,10,10,constant: selection size
+I. Limitations,9,9,ov_v22
+I. Limitations,9.1,9.05749068442778,"min(MSd[scenario == ""SSP5-8.5"", d_freq])"
+I. Limitations,12.8,12.8272773553505,"max(MSd[scenario == ""SSP5-8.5"", d_freq])"

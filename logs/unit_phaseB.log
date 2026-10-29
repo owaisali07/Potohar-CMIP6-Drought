@@ -1,0 +1,83 @@
+Spherical geometry (s2) switched off
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+0.25-deg cells in the analysis domain: 57 | region-weighted area check (km2): 23102 
+Correlation of this FAO-56 implementation with SPEI::penman(method='FAO'): 0.9995 
+Stations accepted (>=70% complete months 1985-2014) for P + ET0: Chaklala, Jhelum, Peshawar Intl | P only:  
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+dist is assumed to be in decimal degrees (arc_degrees).
+although coordinates are longitude/latitude, st_intersects assumes that they
+are planar
+<SpatRaster> resampled to 2000376 cells.
+<SpatRaster> resampled to 2000376 cells.
+Share of annual CHIRPS rainfall in June-September (1985-2014): 64 %
+GloFAS source: GloFAS-ERA5 v4.0 consolidated (CEMS EWDS), 1979–2024 | calibration 1985 2014 | mean discharge (m3/s): Dhok Pathan 40.96 ; Chirah 5.37 
+Correlation SRI-3 vs SDI-3 (Dhok Pathan): 0.994 
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+although coordinates are longitude/latitude, st_union assumes that they are
+planar
+Selected index (official yields): SPEI-3 ending in Dec ; mean r = 0.604 | GDHY best: SPEI3 Dec 0.695 
+              model variable    change         z   flag
+             <char>   <char>     <num>     <num> <lgcl>
+1:       CNRM-CM6-1  sfcWind -33.59658 -10.91634   TRUE
+2:      CNRM-ESM2-1  sfcWind -30.94994 -10.03880   TRUE
+3: EC-Earth3-Veg-LR  sfcWind -33.84609 -10.99906   TRUE
+models checked: 27 
+   variable median_change   mad
+     <char>         <num> <num>
+1:       pr          1.72 11.08
+2:   tasmax          0.50  0.60
+3:   tasmin          0.46  0.35
+4:     hurs         -0.23  1.43
+5:     rsds         -0.32  0.67
+6:  sfcWind         -0.67  2.03
+PDF error: Expected the default config, but wasn't able to find it, or it isn't a Dictionary
+PDF error: Expected the default config, but wasn't able to find it, or it isn't a Dictionary
+
+PARTIAL RUN OK up to chunk: figS1 in 2.3 min
+                                                  set scenario n_models d_freq robust agree   d_P d_ET0 T25_base T25_far dE_wheat
+                                               <char>   <char>    <int>  <num> <lgcl> <num> <num> <num>    <num>   <num>    <num>
+1:                      primary (ERA5-Land reference) SSP2-4.5       10  12.66   TRUE 1.000  10.3  7.52     35.1    7.46     73.9
+2:                      primary (ERA5-Land reference) SSP5-8.5       10  15.79   TRUE 0.900  22.6 12.33     36.0    5.89     94.8
+3: primary without models with a source discontinuity SSP2-4.5        9  11.35   TRUE 1.000  11.9  7.26     34.0    8.19     66.2
+4: primary without models with a source discontinuity SSP5-8.5        9  14.18   TRUE 0.889  24.3 11.78     33.1    6.40     85.4
+5:                   old (TerraClimate reference, v2) SSP2-4.5       10   8.36   TRUE 0.900  12.6  6.97     29.9   10.17     51.5
+6:                   old (TerraClimate reference, v2) SSP5-8.5       10  12.21   TRUE 0.800  26.2 12.19     29.9    7.19     75.4
+7:                      all models with scenario data SSP2-4.5       27   9.66   TRUE 0.852  11.7  7.05     30.7    9.57     57.6
+8:                      all models with scenario data SSP5-8.5       27  11.91   TRUE 0.815  26.7 11.96     33.4    8.06     73.0
+ [1] "MIROC6"        "CNRM-CM6-1"    "ACCESS-ESM1-5" "GFDL-CM4"      "GISS-E2-1-G"   "NorESM2-LM"    "INM-CM4-8"     "NorESM2-MM"    "GFDL-ESM4"     "TaiESM1"      
+              model variable    change         z   flag
+             <char>   <char>     <num>     <num> <lgcl>
+1:       CNRM-CM6-1  sfcWind -33.59658 -10.91634   TRUE
+2:      CNRM-ESM2-1  sfcWind -30.94994 -10.03880   TRUE
+3: EC-Earth3-Veg-LR  sfcWind -33.84609 -10.99906   TRUE
+   scenario metric wmean agree robust
+     <char> <char> <num> <num> <lgcl>
+1:   ssp245 d_freq 12.66   1.0   TRUE
+2:   ssp245    d_P 10.31   0.7  FALSE
+3:   ssp245  d_ET0  7.52   1.0   TRUE
+4:   ssp585 d_freq 15.79   0.9   TRUE
+5:   ssp585    d_P 22.63   1.0   TRUE
+6:   ssp585  d_ET0 12.33   1.0   TRUE

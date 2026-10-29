@@ -1,0 +1,31 @@
+table,dataset,methodology_role,local_status,local_path,local_coverage,what_is_missing,acquisition_route,credential_needed
+I,PMD station network,"Station P, Tmax, Tmin, RH, wind, sunshine 1981-2024; QC, homogeneity, PM ET0",NOT AVAILABLE,,,"All PMD records (not openly published)","Request from PMD CDPC Karachi; else Table II GHCN-Daily / APHRODITE",PMD data request
+II,GHCN-Daily (PMD alternative),Gap filling/checks where PMD restricted,PRESENT (sparse),D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\stations\ghcnd,"35 PK stations; in plateau only CHAKLALA (41571) and JHELUM (41598); few 95%-complete years","Humidity, wind, radiation not in GHCN-D",NCEI by_station (open),none
+II,APHRODITE (PMD alternative),Gap filling/checks,NOT LOCAL,,,"Whole dataset; ends 2015 (V1101/V1901)",Registration by e-mail (aphrodite.precinfo@gmail.com),APHRODITE account
+-,NOAA GSOD (not in Table II),"(would be a deviation) station Tmax/Tmin/P/dewpoint/wind",PRESENT,D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\stations\gsod,"Chaklala 1973-2025 (26 yrs >=95%), Jhelum, Murree, Kakul, Balakot; raw CSV has PRCP, DEWP, WDSP",Not in Table II - needs your approval,NCEI (open),none
+-,HadISD 3.4.3 (not in Table II),"(would be a deviation) sub-daily T, dewpoint, wind",PRESENT,D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\stations\hadisd,"Chaklala 415710, Jhelum 415980 (+ Peshawar, Sargodha, Balakot outside plateau)",Not in Table II - needs your approval,Met Office HadOBS (open),none
+I,CHIRPS v2.0,Spatial precipitation 1981-2024,PRESENT,D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\chirps,"daily 0.05 deg, 1981-2025, Pakistan clip, mm/day",none,-,none
+I,ERA5-Land,PM ET0 inputs 1981-2024,PARTIAL,D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\era5land_daily (+ era5land\tmax|tmin),"daily 0.1 deg 1950-2026-09: t2m, tmax, tmin, total precip only","dewpoint_temperature_2m, surface_solar_radiation_downwards_sum, u/v 10 m wind (and surface pressure)",GEE ECMWF/ERA5_LAND/DAILY_AGGR or CDS API,GEE auth or CDS key
+I,CRU TS v4,Independent P/T/PET check,NOT LOCAL,,,"pre, tmp, tmx, tmn, pet 1981-2024 (CRU TS 4.09)",UEA CRU / CEDA open HTTP,none
+I,WAPDA Soan streamflow (Chirah / Dhok Pathan),SRI/SDI,NOT AVAILABLE,,,All,"Request from WAPDA SWHP; else Table II GloFAS-ERA5",WAPDA request
+II,GloFAS-ERA5 v4,Simulated discharge for SRI,NOT LOCAL,,,"Daily discharge 1979-present at Soan outlets",CEMS Early Warning Data Store (EWDS) API,EWDS/CDS account
+I,MODIS MOD13Q1 / MOD11A2 v061,VHI 2000-2024,NOT LOCAL,,,All,GEE (MODIS/061/MOD13Q1; MODIS/061/MOD11A2) or AppEEARS,GEE auth or Earthdata login
+II,PKU GIMMS NDVI,VHI for 1999-2002 drought,NOT LOCAL,,,"NDVI 1982-2022",Zenodo (open),none
+I,Crop Reporting Service Punjab yields,Index selection and validation,NOT AVAILABLE,,,"District wheat/groundnut yield and area 1981-2024","Punjab CRS publications (manual) or Table II GDHY",none / manual
+II,GDHY,Gridded wheat yield alternative,NOT LOCAL,,,"0.5 deg annual 1981-2016",PANGAEA (open),none
+II,SPAM2010,Crop area for exposure,NOT LOCAL,,,"Wheat and groundnut physical/harvested area, rainfed",Harvard Dataverse (open),none
+I,NEX-GDDP-CMIP6,Future climate,PARTIAL (see cmip6_inventory.csv),D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\nex-gddp-cmip6 (and nex_gddp_cmip6 PAK merge),"35 model folders, pr/tas/tasmax/tasmin, hist 1950-2014, SSP2-4.5/5-8.5 2015-2100","hurs, rsds, sfcWind for every model",NASA NCCS THREDDS NCSS (tested: ~10 s / 235 kB per var-year for Potohar box),none
+I,ESA WorldCover 2021 v200,Cropland mask,NOT LOCAL,,,All tiles for Potohar (N30-N36 E069-E075),ESA WorldCover AWS S3 (open) or GEE,none
+II,TerraClimate,Independent PM PET reference,NOT LOCAL,,,"pet, ppt monthly 1981-2024",Northwest Knowledge THREDDS (open),none
+II,MSWEP V2,Rainfall uncertainty,NOT LOCAL,,,All,Request form at gloh2o.org,MSWEP account
+II,PERSIANN-CDR,Rainfall uncertainty,NOT LOCAL,,,All,NCEI / CHRS (open),none
+II,ESA CCI SM,Agricultural drought validation,NOT LOCAL,,,All,CEDA (open),none
+II,GLEAM v3/v4,Agricultural drought validation,NOT LOCAL,,,All,gleam.eu SFTP,GLEAM registration
+II,South Asia bias-corrected CMIP6 (Mishra et al.),Second downscaling chain,NOT LOCAL,,,"pr, tasmax, tasmin 13 GCMs (no hurs/rsds/wind)",Zenodo (open),none
+II,ISIMIP3b,Second downscaling chain,NOT LOCAL,,,"5 primary GCMs, all PM variables, 0.5 deg",ISIMIP repository data.isimip.org (open),none
+II,SPEIbase v2.10,SPEI benchmark,NOT LOCAL,,,"SPEI 1-48, 0.5 deg, 1901-2023",CSIC (open),none
+II,MERIT Hydro,Soan basin delineation,NOT LOCAL,,,All,Registration (password by e-mail),MERIT registration
+II,Copernicus DEM GLO-30,Soan basin delineation,NOT LOCAL (SRTM 30 m tiles exist in D:\downscaling\data\dem),,,"GLO-30 tiles N32-N34 E071-E073",AWS S3 copernicus-dem-30m (open),none
+-,OCHA admin-2 boundaries,District/ICT outlines,PRESENT,D:\Papers\Paper 3\Paper1_Seasonal_Clock\data\boundaries\pak_admin2.shp,160 districts incl. Attock/Chakwal/Jhelum/Rawalpindi/Islamabad,none,-,none
+-,PMD drought bulletins,Validation,NOT LOCAL,,,Monthly/seasonal bulletins 2000s-2024,NDMC PMD website (manual PDF download),none
+-,GWL crossing years (Hauser et al.),GWL windows,NOT LOCAL,,,Per-model crossing years for +1.5/+2/+3 C,GitHub mathause/cmip_warming_levels (open),none
